@@ -4,7 +4,6 @@ xyh
 */
 
 // C++
-#include <condition_variable>
 #include <iostream>
 #include <mutex>
 #include <queue>
@@ -13,10 +12,11 @@ xyh
 #include <iomanip>
 #include <sstream>
 #include <cstdio>
+#include <condition_variable>
 
 // live555
-#include "BasicUsageEnvironment.hh"
 #include "liveMedia.hh"
+#include "BasicUsageEnvironment.hh"
 
 // ffmpeg
 extern "C" {
@@ -33,8 +33,8 @@ extern "C" {
 struct FrameData {
   int width;
   int height;
+  int FPS; 
   AVPixelFormat format;
-  int FPS;
 };
 
 std::queue<std::pair<uint8_t *, int>> queue264;
@@ -117,6 +117,8 @@ public:
   TaskToken streamTimerTask;
   double duration;
 };
+
+
 int main(int argc, char **argv) {
   TaskScheduler *scheduler = BasicTaskScheduler::createNew();
   UsageEnvironment *env = BasicUsageEnvironment::createNew(*scheduler);
@@ -759,10 +761,12 @@ void thread_codec() {
 
   std::unique_lock<std::mutex> lockS(m_set);
   cv_set.wait(lockS, []() { return !set; });
-  ctx->width = fd.width;
-  ctx->height = fd.height;
+  
+  ctx->width   =  fd.width;
+  ctx->height  = fd.height;
   ctx->pix_fmt = fd.format;
-  ctx->time_base.num = 1;
+  
+  ctx->time_base.num =  1;
   ctx->time_base.den = 25;
 
   if (avcodec_open2(ctx, codec, NULL) < 0) {
