@@ -9,6 +9,10 @@ xyh
 #include <mutex>
 #include <queue>
 #include <thread>
+#include <chrono>
+#include <iomanip>
+#include <sstream>
+#include <cstdio>
 
 // live555
 #include "BasicUsageEnvironment.hh"
@@ -19,6 +23,7 @@ extern "C" {
 #include "libavcodec/avcodec.h"
 }
 
+#define maxFrame 50
 // client->>server: DESCRIBE
 // server->>client: 200 OK (SDP)
 // client->>server: SETUP
@@ -51,6 +56,8 @@ Boolean is_run2;
 Boolean is_run3;
 
 struct FrameData fd;
+int count264;
+std::ostringstream oss;
 Boolean set;
 
 void continueAfterDESCRIBE(RTSPClient *rtspClient, int resultCode,
@@ -113,6 +120,15 @@ public:
 int main(int argc, char **argv) {
   TaskScheduler *scheduler = BasicTaskScheduler::createNew();
   UsageEnvironment *env = BasicUsageEnvironment::createNew(*scheduler);
+
+  count264 = 0;
+
+  // Get current time
+  auto now = std::chrono::system_clock::now();
+  std::time_t currentTime = std::chrono::system_clock::to_time_t(now);
+
+  // Use stringstream to format the time into a string
+  oss << std::put_time(std::localtime(&currentTime), "%H:%M");  
 
   is_run1 = true;
   std::thread decode(thread_decode);
@@ -570,7 +586,9 @@ DummySink::DummySink(UsageEnvironment &env, MediaSubsession &subsession,
     : MediaSink(env), fSubsession(subsession) {
   fStreamId = strDup(streamId);
   fReceiveBuffer = new u_int8_t[DUMMY_SINK_RECEIVE_BUFFER_SIZE];
-  fOutputFile = fopen("output.h264", "wb");
+
+  std::string fileName = "./save/output_" + oss.str() + ".h264";
+  fOutputFile = fopen(fileName.c_str(), "wb");
 }
 
 DummySink::~DummySink() {
@@ -621,8 +639,9 @@ void DummySink::afterGettingFrame(unsigned frameSize,
 #endif
   envir() << "\n";
 #endif
-
-  fwrite(fReceiveBuffer, 1, frameSize, fOutputFile);
+  count264++;
+  if(count264 <= maxFrame)
+    fwrite(fReceiveBuffer, 1, frameSize, fOutputFile);
   uint8_t *copyData = new uint8_t[frameSize];
   memmove(copyData, fReceiveBuffer, frameSize);
   std::unique_lock<std::mutex> lock1(mutex1);
@@ -788,8 +807,11 @@ void thread_codec() {
 
 void thread_save() {
 
+  int count = 0;
   FILE *h265;
-  h265 = fopen("output.h265", "wb");
+  std::string fileName = "./save/output_" + oss.str() + ".h265";
+  h265 = fopen(fileName.c_str(), "wb");
+
   while (1) {
     std::unique_lock<std::mutex> lock3(mutex3);
     cv3.wait(lock3, []() { return !queue265.empty(); });
@@ -799,7 +821,9 @@ void thread_save() {
     queue265.pop();
     uint8_t *data = data265.first;
     int size = data265.second;
+    count++;
     fwrite(data, 1, size, h265);
+    if(count == maxFrame) exit(0);
     delete[] data;
   }
   fclose(h265);
