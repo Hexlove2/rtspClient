@@ -23,7 +23,7 @@ extern "C" {
 #include "libavcodec/avcodec.h"
 }
 
-#define maxFrame 50
+#define maxFrame 5000
 // client->>server: DESCRIBE
 // server->>client: 200 OK (SDP)
 // client->>server: SETUP
