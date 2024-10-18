@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/sunday/Desktop/Code/rtspClient/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/sunday/Desktop/Code/rtspClient/include -I/Users/sunday/Desktop/Code/rtspClient/include/ffmpeg -I/Users/sunday/Desktop/Code/rtspClient/include/live555/BasicUsageEnvironment -I/Users/sunday/Desktop/Code/rtspClient/include/live555/groupsock -I/Users/sunday/Desktop/Code/rtspClient/include/live555/liveMedia -I/Users/sunday/Desktop/Code/rtspClient/include/live555/UsageEnvironment -I/opt/homebrew/opt/openssl@3/include -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/rtspClient.dir/src/TestLive264.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/TestLive264.cpp",
+  "file": "/Users/sunday/Desktop/Code/rtspClient/src/TestLive264.cpp",
+  "output": "CMakeFiles/rtspClient.dir/src/TestLive264.cpp.o"
+}
+]
