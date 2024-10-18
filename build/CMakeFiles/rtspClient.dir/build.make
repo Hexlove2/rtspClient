@@ -73,15 +73,15 @@ CMakeFiles/rtspClient.dir/src/TestLive264.cpp.o: CMakeFiles/rtspClient.dir/flags
 CMakeFiles/rtspClient.dir/src/TestLive264.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/TestLive264.cpp
 CMakeFiles/rtspClient.dir/src/TestLive264.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/rtspClient.dir/src/TestLive264.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/TestLive264.cpp.o -MF CMakeFiles/rtspClient.dir/src/TestLive264.cpp.o.d -o CMakeFiles/rtspClient.dir/src/TestLive264.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/TestLive264.cpp
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/TestLive264.cpp.o -MF CMakeFiles/rtspClient.dir/src/TestLive264.cpp.o.d -o CMakeFiles/rtspClient.dir/src/TestLive264.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/TestLive264.cpp
 
 CMakeFiles/rtspClient.dir/src/TestLive264.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/TestLive264.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/TestLive264.cpp > CMakeFiles/rtspClient.dir/src/TestLive264.cpp.i
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/TestLive264.cpp > CMakeFiles/rtspClient.dir/src/TestLive264.cpp.i
 
 CMakeFiles/rtspClient.dir/src/TestLive264.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/TestLive264.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/TestLive264.cpp -o CMakeFiles/rtspClient.dir/src/TestLive264.cpp.s
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/TestLive264.cpp -o CMakeFiles/rtspClient.dir/src/TestLive264.cpp.s
 
 # Object files for target rtspClient
 rtspClient_OBJECTS = \

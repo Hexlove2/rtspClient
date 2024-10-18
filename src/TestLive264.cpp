@@ -695,7 +695,7 @@ void thread_decode() {
 
       AVFrame *frame = av_frame_alloc();
       result = avcodec_receive_frame(ctx, frame);
-      if (result == -11 || result == AVERROR_EOF) {
+      if (result == AVERROR(EAGAIN) || result == AVERROR_EOF || result < 0) {
         av_frame_free(&frame);
         break;
       }
@@ -708,7 +708,7 @@ void thread_decode() {
         set = False;
         cv_set.notify_one();
       }
-
+      id++;
       std::cout << "Decode frame:" << id << " Width: " << frame->width
                 << " Height: " << frame->height << std::endl;
 
@@ -769,7 +769,7 @@ void thread_codec() {
     while (1) {
       AVPacket *pkt = av_packet_alloc();
       result = avcodec_receive_packet(ctx, pkt);
-      if (result == -11 || result == AVERROR_EOF) {
+      if (result == AVERROR(EAGAIN) || result == AVERROR_EOF || result < 0) {
         av_packet_free(&pkt);
         break;
       }
