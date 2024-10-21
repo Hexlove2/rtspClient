@@ -4,19 +4,19 @@ xyh
 */
 
 // C++
+#include <chrono>
+#include <condition_variable>
+#include <cstdio>
+#include <iomanip>
 #include <iostream>
 #include <mutex>
 #include <queue>
-#include <thread>
-#include <chrono>
-#include <iomanip>
 #include <sstream>
-#include <cstdio>
-#include <condition_variable>
+#include <thread>
 
 // live555
-#include "liveMedia.hh"
 #include "BasicUsageEnvironment.hh"
+#include "liveMedia.hh"
 
 // ffmpeg
 extern "C" {
@@ -33,7 +33,7 @@ extern "C" {
 struct FrameData {
   int width;
   int height;
-  int FPS; 
+  int FPS;
   AVPixelFormat format;
 };
 
@@ -118,7 +118,6 @@ public:
   double duration;
 };
 
-
 int main(int argc, char **argv) {
   TaskScheduler *scheduler = BasicTaskScheduler::createNew();
   UsageEnvironment *env = BasicUsageEnvironment::createNew(*scheduler);
@@ -130,7 +129,7 @@ int main(int argc, char **argv) {
   std::time_t currentTime = std::chrono::system_clock::to_time_t(now);
 
   // Use stringstream to format the time into a string
-  oss << std::put_time(std::localtime(&currentTime), "%H:%M");  
+  oss << std::put_time(std::localtime(&currentTime), "%H:%M");
 
   is_run1 = true;
   std::thread decode(thread_decode);
@@ -642,7 +641,7 @@ void DummySink::afterGettingFrame(unsigned frameSize,
   envir() << "\n";
 #endif
   count264++;
-  if(count264 <= maxFrame)
+  if (count264 <= maxFrame)
     fwrite(fReceiveBuffer, 1, frameSize, fOutputFile);
   uint8_t *copyData = new uint8_t[frameSize];
   memmove(copyData, fReceiveBuffer, frameSize);
@@ -672,7 +671,8 @@ void thread_decode() {
 #ifdef _WIN32
   codec = avcodec_find_decoder(AV_CODEC_ID_H264);
 #elif defined(__APPLE__)
-  codec = avcodec_find_decoder_by_name("h264_videotoolbox");
+  // codec = avcodec_find_decoder_by_name("h264_videotoolbox");
+  codec = avcodec_find_decoder(AV_CODEC_ID_H264);
 #endif
   if (!codec) {
     std::cerr << "Failed to find the decoder" << std::endl;
@@ -755,7 +755,8 @@ void thread_codec() {
 #ifdef _WIN32
   codec = avcodec_find_encoder(AV_CODEC_ID_HEVC);
 #elif defined(__APPLE__)
-  codec = avcodec_find_encoder_by_name("hevc_videotoolbox");
+  // codec = avcodec_find_encoder_by_name("hevc_videotoolbox");
+  codec = avcodec_find_encoder(AV_CODEC_ID_HEVC);
 #endif
   if (!codec) {
     std::cerr << "Failed to find the encoder!" << std::endl;
@@ -770,12 +771,12 @@ void thread_codec() {
 
   std::unique_lock<std::mutex> lockS(m_set);
   cv_set.wait(lockS, []() { return !set; });
-  
-  ctx->width   =  fd.width;
-  ctx->height  = fd.height;
+
+  ctx->width = fd.width;
+  ctx->height = fd.height;
   ctx->pix_fmt = fd.format;
-  
-  ctx->time_base.num =  1;
+
+  ctx->time_base.num = 1;
   ctx->time_base.den = 25;
 
   if (avcodec_open2(ctx, codec, NULL) < 0) {
@@ -836,7 +837,8 @@ void thread_save() {
     int size = data265.second;
     count++;
     fwrite(data, 1, size, h265);
-    if(count == maxFrame) exit(0);
+    if (count == maxFrame)
+      exit(0);
     delete[] data;
   }
   fclose(h265);
