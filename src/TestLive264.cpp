@@ -668,8 +668,12 @@ void thread_decode() {
   int id = 0;
   int result;
   set = True;
-
-  const AVCodec *codec = avcodec_find_decoder(AV_CODEC_ID_H264);
+  const AVCodec *codec;
+#ifdef _WIN32
+  codec = avcodec_find_decoder(AV_CODEC_ID_H264);
+#elif defined(__APPLE__)
+  codec = avcodec_find_decoder_by_name("h264_videotoolbox");
+#endif
   if (!codec) {
     std::cerr << "Failed to find the decoder" << std::endl;
     return;
@@ -747,7 +751,12 @@ void thread_decode() {
 void thread_codec() {
 
   int result;
-  const AVCodec *codec = avcodec_find_encoder(AV_CODEC_ID_HEVC);
+  const AVCodec *codec;
+#ifdef _WIN32
+  codec = avcodec_find_encoder(AV_CODEC_ID_HEVC);
+#elif defined(__APPLE__)
+  codec = avcodec_find_encoder_by_name("hevc_videotoolbox");
+#endif
   if (!codec) {
     std::cerr << "Failed to find the encoder!" << std::endl;
     return;

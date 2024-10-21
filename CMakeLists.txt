@@ -43,7 +43,7 @@ add_executable(rtspClient ${SOURCES})
 
 # 链接静态库和必要的库
 target_link_libraries(rtspClient
-    libavcodec.61.19.100.dylib
+    libavcodec.61.dylib
     libliveMedia.a
     libgroupsock.a
     libBasicUsageEnvironment.a
