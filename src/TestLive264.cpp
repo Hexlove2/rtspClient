@@ -13,6 +13,8 @@ xyh
 #include <queue>
 #include <sstream>
 #include <thread>
+#include <string>
+#include <regex>
 
 // live555
 #include "BasicUsageEnvironment.hh"
@@ -37,6 +39,14 @@ struct FrameData {
   AVPixelFormat format;
 };
 
+struct AudioData{
+  int profile;
+  int sampleRate;
+  int channels;
+  bool inc_head;
+  bool is_set;
+};
+
 std::queue<std::pair<uint8_t *, int>> queue264;
 std::queue<AVFrame *> queueFrame;
 std::queue<std::pair<uint8_t *, int>> queue265;
@@ -56,6 +66,7 @@ Boolean is_run2;
 Boolean is_run3;
 
 struct FrameData fd;
+struct AudioData ad;
 int count264;
 std::ostringstream oss;
 Boolean set;
@@ -68,6 +79,7 @@ void continueAfterPLAY(RTSPClient *rtspClient, int resultCode,
                        char *resultString);
 
 void subsessionAfterPlaying(void *clientData);
+
 void subsessionByeHandler(void *clientData, char const *reason);
 
 void streamTimerHandler(void *clientData);
@@ -78,11 +90,17 @@ void setupNextSubsession(RTSPClient *rtspClient);
 
 void shutdownStream(RTSPClient *rtspClient, int exitCode = 1);
 
-void thread_decode();
+static void thread_decode();
 
-void thread_codec();
+static void thread_codec();
 
-void thread_save();
+static void thread_save();
+
+static void ad_set(char* descripition);
+
+static void addADTSHeader(uint8_t* adtsHeader, int dataLength, int profile = 2, int sampleRate = 7, int channels = 2);
+
+static bool inc_head(uint8_t* data, int type);
 
 UsageEnvironment &operator<<(UsageEnvironment &env,
                              const RTSPClient &rtspClient) {
@@ -123,7 +141,7 @@ int main(int argc, char **argv) {
   UsageEnvironment *env = BasicUsageEnvironment::createNew(*scheduler);
 
   count264 = 0;
-
+  ad.is_set = false;
   // Get current time
   auto now = std::chrono::system_clock::now();
   std::time_t currentTime = std::chrono::system_clock::to_time_t(now);
@@ -199,6 +217,7 @@ private:
   MediaSubsession &fSubsession;
   char *fStreamId;
   FILE *fOutputFile;
+  FILE *aacFile;
 };
 
 #define RTSP_CLIENT_VERBOSITY_LEVEL 1
@@ -238,6 +257,8 @@ void continueAfterDESCRIBE(RTSPClient *rtspClient, int resultCode,
 
     char *const sdpDescription = resultString;
     env << *rtspClient << "Got a SDP description:\n" << sdpDescription << "\n";
+
+    ad_set(sdpDescription);
 
     scs.session = MediaSession::createNew(env, sdpDescription);
     delete[] sdpDescription;
@@ -360,6 +381,24 @@ void continueAfterSETUP(RTSPClient *rtspClient, int resultCode,
           << *scs.subsession << "\" subsession: " << env.getResultMsg() << "\n";
       break;
     }
+
+
+
+    // // Create an H264VideoStreamFramer to reassemble fragmented NAL units
+    // H264VideoStreamFramer *videoFramer = H264VideoStreamFramer::createNew(env, scs.subsession->rtpSource());
+
+    // env << *rtspClient << "Create an H264VideoStreamFramer for the \"" << *scs.subsession
+    //             << "\" subsession\n";
+
+    // scs.subsession->miscPtr = rtspClient;
+    // scs.subsession->sink->startPlaying(*videoFramer, subsessionAfterPlaying, scs.subsession);
+
+    // // Set a handler for when the RTSP server sends a "BYE"
+    // if (scs.subsession->rtcpInstance() != NULL) {
+    //             scs.subsession->rtcpInstance()->setByeWithReasonHandler(subsessionByeHandler, scs.subsession);
+    // }
+
+
 
     env << *rtspClient << "Create a data sink for the \"" << *scs.subsession
         << "\" subsession\n";
@@ -588,12 +627,14 @@ DummySink::DummySink(UsageEnvironment &env, MediaSubsession &subsession,
   fStreamId = strDup(streamId);
   fReceiveBuffer = new u_int8_t[DUMMY_SINK_RECEIVE_BUFFER_SIZE];
 
-  std::string fileName = "./save/output_" + oss.str() + ".h264";
+  std::string fileName = "./save/23/output_" + oss.str() + ".h264";
   fOutputFile = fopen(fileName.c_str(), "wb");
+  aacFile     = fopen("./save/23/audio.aac", "wb");
 }
 
 DummySink::~DummySink() {
   fclose(fOutputFile);
+  fclose(aacFile);
   delete[] fReceiveBuffer;
   delete[] fStreamId;
 }
@@ -640,14 +681,63 @@ void DummySink::afterGettingFrame(unsigned frameSize,
 #endif
   envir() << "\n";
 #endif
-  count264++;
-  if (count264 <= maxFrame)
-    fwrite(fReceiveBuffer, 1, frameSize, fOutputFile);
-  uint8_t *copyData = new uint8_t[frameSize];
-  memmove(copyData, fReceiveBuffer, frameSize);
-  std::unique_lock<std::mutex> lock1(mutex1);
-  queue264.push(std::make_pair(copyData, frameSize));
-  cv1.notify_one();
+if (fSubsession.mediumName() == std::string("video")){
+
+  if(!inc_head(fReceiveBuffer, 0))
+  {
+    const uint8_t startCode[] = {0x00, 0x00, 0x00, 0x01};
+    count264++;
+    if (count264 <= maxFrame)
+    {
+      if (fSubsession.codecName() == std::string("H264")) {
+      // Add NAL start code if it's missing   
+      fwrite(startCode, 1, sizeof(startCode), fOutputFile);
+      }
+      fwrite(fReceiveBuffer, 1, frameSize, fOutputFile);
+    }
+
+    uint8_t *copyData = new uint8_t[frameSize + 4];
+    memmove(copyData, startCode, 4);
+    memmove(copyData + 4, fReceiveBuffer, frameSize);
+    std::unique_lock<std::mutex> lock1(mutex1);
+    queue264.push(std::make_pair(copyData, frameSize + 4));
+    cv1.notify_one();
+  }
+
+  else
+  {
+    count264++;
+    if (count264 <= maxFrame)
+    {
+      fwrite(fReceiveBuffer, 1, frameSize, fOutputFile);
+    }
+
+    uint8_t *copyData = new uint8_t[frameSize];
+    memmove(copyData, fReceiveBuffer, frameSize);
+    std::unique_lock<std::mutex> lock1(mutex1);
+    queue264.push(std::make_pair(copyData, frameSize));
+    cv1.notify_one();
+  }
+
+}
+
+else if(fSubsession.mediumName() == std::string("audio")){
+
+  if(ad.is_set == true)
+  {
+    if(!inc_head(fReceiveBuffer, 1))
+    {
+      uint8_t adtsHeader[7];
+      addADTSHeader(adtsHeader, frameSize, ad.profile, ad.sampleRate, ad.channels);
+      // Write the ADTS header followed by the AAC frame data
+      fwrite(adtsHeader, 1, sizeof(adtsHeader), aacFile);
+      fwrite(fReceiveBuffer, 1, frameSize, aacFile);
+    }
+  }
+  if(inc_head(fReceiveBuffer, 1))
+    // Write the ADTS header followed by the AAC frame data
+    fwrite(fReceiveBuffer, 1, frameSize, aacFile);
+}
   continuePlaying();
 }
 
@@ -661,7 +751,7 @@ Boolean DummySink::continuePlaying() {
   return True;
 }
 
-void thread_decode() {
+static void thread_decode() {
 
   // Initialize the decode environment
   int id = 0;
@@ -691,8 +781,8 @@ void thread_decode() {
     return;
   }
 
-  AVPacket *pkt = av_packet_alloc();
 
+  AVPacket *pkt = av_packet_alloc();
   uint8_t *data;
   int size;
   while (1) {
@@ -712,7 +802,7 @@ void thread_decode() {
     result = avcodec_send_packet(ctx, pkt);
 
     if (result < 0) {
-      std::cerr << "Error sending packet for decoding" << std::endl;
+      std::cerr << "Error sending packet for decoding, result = " << result << std::endl;
       continue;
     }
 
@@ -748,7 +838,7 @@ void thread_decode() {
   avcodec_free_context(&ctx);
 }
 
-void thread_codec() {
+static void thread_codec() {
 
   int result;
   const AVCodec *codec;
@@ -819,11 +909,11 @@ void thread_codec() {
   avcodec_free_context(&ctx);
 }
 
-void thread_save() {
+static void thread_save() {
 
   int count = 0;
   FILE *h265;
-  std::string fileName = "./save/output_" + oss.str() + ".h265";
+  std::string fileName = "./save/23/output_" + oss.str() + ".h265";
   h265 = fopen(fileName.c_str(), "wb");
 
   while (1) {
@@ -842,4 +932,71 @@ void thread_save() {
     delete[] data;
   }
   fclose(h265);
+}
+
+static void addADTSHeader(uint8_t* adtsHeader, int dataLength, int profile, int sampleRate, int channels) {
+    int adtsLength = dataLength + 7;  // ADTS header is 7 bytes
+
+    // Syncword 12 bits: always 0xFFF
+    adtsHeader[0] = 0xFF;
+    adtsHeader[1] = 0xF1; // Syncword and MPEG version (2 bits)
+
+    // MPEG-4, Layer (always 0), protection absent (no CRC)
+    adtsHeader[2] = ((profile - 1) << 6) | (sampleRate << 2) | (channels >> 2);
+    
+    // Channels and length (13 bits)
+    adtsHeader[3] = ((channels & 3) << 6) | ((adtsLength >> 11) & 0x3);
+    adtsHeader[4] = (adtsLength >> 3) & 0xFF;
+    adtsHeader[5] = ((adtsLength & 7) << 5) | 0x1F; // Buffer fullness (0x7FF for variable bitrate)
+    adtsHeader[6] = 0xFC;
+}
+
+static void ad_set(char* descripition)
+{
+    std::string sdpContent(descripition);
+      // Regular expression to search for "config" and capture its value
+    std::regex configRegex(R"(config=(\w+))");
+    std::smatch match;
+    std::string configValue;
+
+    // Search for config value in the SDP content
+    if (std::regex_search(sdpContent, match, configRegex)) {
+        configValue = match[1].str();  // Capturing the value
+        std::cout << "Found config value: " << configValue << std::endl;
+    } else {
+        std::cout << "Config not found" << std::endl;
+        return;
+    }
+    //short convertedValue = static_cast<short>(std::stoi(configValue));
+    uint8_t a1 = static_cast<uint8_t>(configValue[0]);
+    uint8_t a2 = static_cast<uint8_t>(configValue[1]);
+    uint8_t a3 = static_cast<uint8_t>(configValue[2]);
+    uint8_t a4 = static_cast<uint8_t>(configValue[3]);
+
+    unsigned short convertedValue = 0;
+    convertedValue |= (a1 & 0x0F) << 12;  // a1 (first nibble) -> bits 15-12
+    convertedValue |= (a2 & 0x0F) << 8;   // a2 (second nibble) -> bits 11-8
+    convertedValue |= (a3 & 0x0F) << 4;   // a3 (third nibble) -> bits 7-4
+    convertedValue |= (a4 & 0x0F); 
+
+    ad.profile = (convertedValue >> 11)   & 0x1F;
+    ad.sampleRate = (convertedValue >> 7) & 0x0F;
+    ad.channels = (convertedValue >> 3)   & 0x0F;
+    ad.is_set = true;
+}
+
+static bool inc_head(uint8_t* data, int type){
+  if(type == 1){
+    if((data[0] == 0xFF) && ((data[1]&0xF0)==0xF0))
+      return true;
+    else 
+      return false;
+  }
+
+  else if(type == 0){
+    if((data[0] == 0x00) && (data[1] == 0x00) && (data[2] == 0x00) && ((data[3] == 0x01)||(data[3] == 0x00)))
+      return true;
+    else
+      return false;
+  }
 }
