@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/include/ffmpeg",
+                "${workspaceFolder}/include/pybind11",
+                "${workspaceFolder}/include/live555/BasicUsageEnvironment",
+                "${workspaceFolder}/include/live555/groupsock",
+                "${workspaceFolder}/include/live555/liveMedia",
+                "${workspaceFolder}/include/live555/UsageEnvironment",
+                "/opt/homebrew/opt/openssl@3/include",
+                "/opt/anaconda3/envs/media/include/python3.9",
+                "${workspaceFolder}/include/"
+            ],
+            "defines": [],
+            "macFrameworkPath": [
+                "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "macos-clang-arm64"
+        }
+    ],
+    "version": 4
+}

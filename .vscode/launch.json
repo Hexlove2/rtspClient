@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "LLDB",
+            "type": "lldb",
+            "request": "launch",
+            "program": "${workspaceFolder}/bin/rtspClient",  // 可执行文件路径
+            "args": ["rtsp://192.168.1.4:8554/liveStream"],  // 如果有启动参数，添加在这里
+            "cwd": "${workspaceFolder}/bin",
+            "preLaunchTask": "build",  // 构建任务名
+            "internalConsoleOptions": "openOnSessionStart",
+        }
+    ]
+}
