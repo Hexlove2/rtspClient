@@ -1,8 +1,14 @@
 [
 {
   "directory": "/Users/sunday/Desktop/Code/rtspClient/build",
-  "command": "/usr/bin/clang++  -I/Users/sunday/Desktop/Code/rtspClient/include -I/Users/sunday/Desktop/Code/rtspClient/include/ffmpeg -I/Users/sunday/Desktop/Code/rtspClient/include/live555/BasicUsageEnvironment -I/Users/sunday/Desktop/Code/rtspClient/include/live555/groupsock -I/Users/sunday/Desktop/Code/rtspClient/include/live555/liveMedia -I/Users/sunday/Desktop/Code/rtspClient/include/live555/UsageEnvironment -I/opt/homebrew/opt/openssl@3/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/rtspClient.dir/src/TestLive264.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/TestLive264.cpp",
+  "command": "/usr/bin/clang++  -I/Users/sunday/Desktop/Code/rtspClient/include -I/Users/sunday/Desktop/Code/rtspClient/include/ffmpeg -I/Users/sunday/Desktop/Code/rtspClient/include/pybind11 -I/Users/sunday/Desktop/Code/rtspClient/include/live555/BasicUsageEnvironment -I/Users/sunday/Desktop/Code/rtspClient/include/live555/groupsock -I/Users/sunday/Desktop/Code/rtspClient/include/live555/liveMedia -I/Users/sunday/Desktop/Code/rtspClient/include/live555/UsageEnvironment -I/opt/homebrew/opt/openssl@3/include -I/opt/anaconda3/envs/media/include/python3.9 -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/rtspClient.dir/src/TestLive264.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/TestLive264.cpp",
   "file": "/Users/sunday/Desktop/Code/rtspClient/src/TestLive264.cpp",
   "output": "CMakeFiles/rtspClient.dir/src/TestLive264.cpp.o"
+},
+{
+  "directory": "/Users/sunday/Desktop/Code/rtspClient/build",
+  "command": "/usr/bin/clang++  -I/Users/sunday/Desktop/Code/rtspClient/include -I/Users/sunday/Desktop/Code/rtspClient/include/ffmpeg -I/Users/sunday/Desktop/Code/rtspClient/include/pybind11 -I/Users/sunday/Desktop/Code/rtspClient/include/live555/BasicUsageEnvironment -I/Users/sunday/Desktop/Code/rtspClient/include/live555/groupsock -I/Users/sunday/Desktop/Code/rtspClient/include/live555/liveMedia -I/Users/sunday/Desktop/Code/rtspClient/include/live555/UsageEnvironment -I/opt/homebrew/opt/openssl@3/include -I/opt/anaconda3/envs/media/include/python3.9 -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/rtspClient.dir/src/pySV.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/pySV.cpp",
+  "file": "/Users/sunday/Desktop/Code/rtspClient/src/pySV.cpp",
+  "output": "CMakeFiles/rtspClient.dir/src/pySV.cpp.o"
 }
 ]

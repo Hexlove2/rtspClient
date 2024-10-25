@@ -24,16 +24,19 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/bin)
 # 添加 include 目录
 include_directories(${CMAKE_SOURCE_DIR}/include)
 include_directories(${CMAKE_SOURCE_DIR}/include/ffmpeg)
+include_directories(${CMAKE_SOURCE_DIR}/include/pybind11)
 include_directories(${CMAKE_SOURCE_DIR}/include/live555/BasicUsageEnvironment)
 include_directories(${CMAKE_SOURCE_DIR}/include/live555/groupsock)
 include_directories(${CMAKE_SOURCE_DIR}/include/live555/liveMedia)
 include_directories(${CMAKE_SOURCE_DIR}/include/live555/UsageEnvironment)
 include_directories(${CMAKE_SOURCE_DIR}/include/ffmpeg)
 include_directories(/opt/homebrew/opt/openssl@3/include)
+include_directories(/opt/anaconda3/envs/media/include/python3.9)
 
 
 # 设置库路径
 link_directories(${CMAKE_SOURCE_DIR}/lib)
+link_directories(/opt/anaconda3/envs/media/lib)
 
 # 查找 src 文件夹中的所有 .cpp 文件并添加到项目中
 file(GLOB SOURCES ${CMAKE_SOURCE_DIR}/src/*.cpp)
@@ -48,6 +51,7 @@ target_link_libraries(rtspClient
     libgroupsock.a
     libBasicUsageEnvironment.a
     libUsageEnvironment.a
+    libpython3.9.dylib
     -lpthread
     -lssl
     -lcrypto

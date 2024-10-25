@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/clang++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/sunday/Desktop/Code/rtspClient/include -I/Users/sunday/Desktop/Code/rtspClient/include/ffmpeg -I/Users/sunday/Desktop/Code/rtspClient/include/live555/BasicUsageEnvironment -I/Users/sunday/Desktop/Code/rtspClient/include/live555/groupsock -I/Users/sunday/Desktop/Code/rtspClient/include/live555/liveMedia -I/Users/sunday/Desktop/Code/rtspClient/include/live555/UsageEnvironment -I/opt/homebrew/opt/openssl@3/include
+CXX_INCLUDES = -I/Users/sunday/Desktop/Code/rtspClient/include -I/Users/sunday/Desktop/Code/rtspClient/include/ffmpeg -I/Users/sunday/Desktop/Code/rtspClient/include/pybind11 -I/Users/sunday/Desktop/Code/rtspClient/include/live555/BasicUsageEnvironment -I/Users/sunday/Desktop/Code/rtspClient/include/live555/groupsock -I/Users/sunday/Desktop/Code/rtspClient/include/live555/liveMedia -I/Users/sunday/Desktop/Code/rtspClient/include/live555/UsageEnvironment -I/opt/homebrew/opt/openssl@3/include -I/opt/anaconda3/envs/media/include/python3.9
 
 CXX_FLAGSarm64 = -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
 

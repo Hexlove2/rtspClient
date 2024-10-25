@@ -25,6 +25,9 @@ extern "C" {
 #include "libavcodec/avcodec.h"
 }
 
+// pybind
+#include "pySV.hh"
+
 #define maxFrame 5000
 // client->>server: DESCRIBE
 // server->>client: 200 OK (SDP)
@@ -137,6 +140,8 @@ public:
 };
 
 int main(int argc, char **argv) {
+
+  //py_test();
   TaskScheduler *scheduler = BasicTaskScheduler::createNew();
   UsageEnvironment *env = BasicUsageEnvironment::createNew(*scheduler);
 
@@ -842,6 +847,7 @@ static void thread_codec() {
 
   int result;
   const AVCodec *codec;
+  initialize_python_environment();
 #ifdef _WIN32
   codec = avcodec_find_encoder(AV_CODEC_ID_HEVC);
 #elif defined(__APPLE__)
@@ -883,6 +889,8 @@ static void thread_codec() {
       break;
     frame = queueFrame.front();
     queueFrame.pop();
+
+    py_process(frame);
 
     if (avcodec_send_frame(ctx, frame) < 0) {
       std::cerr << "Error sending a frame for encoding" << std::endl;

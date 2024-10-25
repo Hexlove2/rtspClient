@@ -3,6 +3,8 @@ file(REMOVE_RECURSE
   "/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient.pdb"
   "CMakeFiles/rtspClient.dir/src/TestLive264.cpp.o"
   "CMakeFiles/rtspClient.dir/src/TestLive264.cpp.o.d"
+  "CMakeFiles/rtspClient.dir/src/pySV.cpp.o"
+  "CMakeFiles/rtspClient.dir/src/pySV.cpp.o.d"
 )
 
 # Per-language clean rules from dependency scanning.

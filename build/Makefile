@@ -153,6 +153,30 @@ src/TestLive264.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/TestLive264.cpp.s
 .PHONY : src/TestLive264.cpp.s
 
+src/pySV.o: src/pySV.cpp.o
+.PHONY : src/pySV.o
+
+# target to build an object file
+src/pySV.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/pySV.cpp.o
+.PHONY : src/pySV.cpp.o
+
+src/pySV.i: src/pySV.cpp.i
+.PHONY : src/pySV.i
+
+# target to preprocess a source file
+src/pySV.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/pySV.cpp.i
+.PHONY : src/pySV.cpp.i
+
+src/pySV.s: src/pySV.cpp.s
+.PHONY : src/pySV.s
+
+# target to generate assembly for a file
+src/pySV.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/pySV.cpp.s
+.PHONY : src/pySV.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -165,6 +189,9 @@ help:
 	@echo "... src/TestLive264.o"
 	@echo "... src/TestLive264.i"
 	@echo "... src/TestLive264.s"
+	@echo "... src/pySV.o"
+	@echo "... src/pySV.i"
+	@echo "... src/pySV.s"
 .PHONY : help
 
 
