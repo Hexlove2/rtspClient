@@ -53,11 +53,60 @@ py::tuple convert_avframe_to_numpy(AVFrame* frame) {
     return py::make_tuple(y_plane, u_plane, v_plane);
 }
 
-void py_process(AVFrame* frame){
+void py_process(AVFrame* frame, AVFrame*& res){
 
     // Convert AVFrame to NumPy array
-    py::tuple numpy_frame = convert_avframe_to_numpy(frame);
+    // Py::tuple numpy_frame = convert_avframe_to_numpy(frame);
+
+
+    py::array_t<uint8_t> y_plane({frame->height, frame->width}, frame->data[0]);
+    py::array_t<uint8_t> u_plane({frame->height / 2, frame->width / 2}, frame->data[1]);
+    py::array_t<uint8_t> v_plane({frame->height / 2, frame->width / 2}, frame->data[2]);
+
+
+    py::tuple result = processing_module.attr("process_yuv_frame")(y_plane, u_plane,
+                                                     v_plane, frame->width, frame->height);
+
+    py::array_t<uint8_t> new_y_plane = result[0].cast<py::array_t<uint8_t>>();
+    py::array_t<uint8_t> new_u_plane = result[1].cast<py::array_t<uint8_t>>();
+    py::array_t<uint8_t> new_v_plane = result[2].cast<py::array_t<uint8_t>>();
+
+    auto y_info = new_y_plane.request();
+    auto u_info = new_u_plane.request();
+    auto v_info = new_v_plane.request();
+
+    AVFrame* new_frame = av_frame_alloc();
+    new_frame->format = frame->format;
+    new_frame->width = frame->width;
+    new_frame->height = frame->height;
+
+    int buffer_size = av_image_alloc(new_frame->data, new_frame->linesize,
+                                     new_frame->width, new_frame->height,
+                                     static_cast<AVPixelFormat>(new_frame->format), 1);
+    
+    //将返回的数组内容复制回 frame->data
+    std::memmove(new_frame->data[0], y_info.ptr, frame->height * frame->width);
+    std::memmove(new_frame->data[1], u_info.ptr, (frame->height / 2) * (frame->width / 2));
+    std::memmove(new_frame->data[2], v_info.ptr, (frame->height / 2) * (frame->width / 2));
+
+    res = new_frame;
+    std::cout<<"test";
+}
 
     // Call the process_frame function in the Python module
-    processing_module.attr("process_yuv_frame")(numpy_frame[0], numpy_frame[1], numpy_frame[2], frame->width, frame->height);
-}
+    // uint8_t* data1 = new uint8_t[frame->width*frame->height];
+    // uint8_t* data2 = new uint8_t[frame->width*frame->height/4];
+    // uint8_t* data3 = new uint8_t[frame->width*frame->height/4];
+    // memcpy(data1, frame->data[0], frame->height*frame->width);
+    // memcpy(data2, frame->data[1], frame->height*frame->width/4);
+    // memcpy(data3, frame->data[2], frame->height*frame->width/4);
+    // processing_module.attr("process_yuv_frame")(reinterpret_cast<uintptr_t>(data1),
+    //                                         reinterpret_cast<uintptr_t>(data2),
+    //                                         reinterpret_cast<uintptr_t>(data3),
+    //                                         frame->width, frame->height);
+    // memcpy(frame->data[0], data1, frame->height*frame->width);
+    // memcpy(frame->data[1], data2, frame->height*frame->width/4);
+    // memcpy(frame->data[2], data3, frame->height*frame->width/4);
+    // delete[] data1;
+    // delete[] data2;
+    // delete[] data3;

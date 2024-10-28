@@ -12,11 +12,12 @@ namespace py = pybind11;
 
 // FFmpeg
 extern "C"{
-    #include <libavutil/frame.h>
+    #include "libavcodec/avcodec.h"
+    #include <libavutil/imgutils.h>
 }
 
 void py_test();
 
-void py_process(AVFrame* frame);
+void py_process(AVFrame* frame, AVFrame*& res);
 
 void initialize_python_environment();

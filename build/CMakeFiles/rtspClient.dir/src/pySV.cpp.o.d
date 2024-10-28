@@ -1153,10 +1153,11 @@ CMakeFiles/rtspClient.dir/src/pySV.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__numeric/saturation_arithmetic.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__numeric/transform_exclusive_scan.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__numeric/transform_inclusive_scan.h \
-  /Users/sunday/Desktop/Code/rtspClient/include/ffmpeg/libavutil/frame.h \
+  /Users/sunday/Desktop/Code/rtspClient/include/ffmpeg/libavcodec/avcodec.h \
+  /Users/sunday/Desktop/Code/rtspClient/include/ffmpeg/libavutil/samplefmt.h \
+  /Users/sunday/Desktop/Code/rtspClient/include/ffmpeg/libavutil/attributes.h \
   /Users/sunday/Desktop/Code/rtspClient/include/ffmpeg/libavutil/avutil.h \
   /Users/sunday/Desktop/Code/rtspClient/include/ffmpeg/libavutil/common.h \
-  /Users/sunday/Desktop/Code/rtspClient/include/ffmpeg/libavutil/attributes.h \
   /Users/sunday/Desktop/Code/rtspClient/include/ffmpeg/libavutil/error.h \
   /Users/sunday/Desktop/Code/rtspClient/include/ffmpeg/libavutil/macros.h \
   /Users/sunday/Desktop/Code/rtspClient/include/ffmpeg/libavutil/avconfig.h \
@@ -1170,4 +1171,15 @@ CMakeFiles/rtspClient.dir/src/pySV.cpp.o: \
   /Users/sunday/Desktop/Code/rtspClient/include/ffmpeg/libavutil/buffer.h \
   /Users/sunday/Desktop/Code/rtspClient/include/ffmpeg/libavutil/channel_layout.h \
   /Users/sunday/Desktop/Code/rtspClient/include/ffmpeg/libavutil/dict.h \
-  /Users/sunday/Desktop/Code/rtspClient/include/ffmpeg/libavutil/samplefmt.h
+  /Users/sunday/Desktop/Code/rtspClient/include/ffmpeg/libavutil/frame.h \
+  /Users/sunday/Desktop/Code/rtspClient/include/ffmpeg/libavcodec/codec.h \
+  /Users/sunday/Desktop/Code/rtspClient/include/ffmpeg/libavutil/hwcontext.h \
+  /Users/sunday/Desktop/Code/rtspClient/include/ffmpeg/libavcodec/codec_id.h \
+  /Users/sunday/Desktop/Code/rtspClient/include/ffmpeg/libavcodec/version_major.h \
+  /Users/sunday/Desktop/Code/rtspClient/include/ffmpeg/libavcodec/defs.h \
+  /Users/sunday/Desktop/Code/rtspClient/include/ffmpeg/libavcodec/packet.h \
+  /Users/sunday/Desktop/Code/rtspClient/include/ffmpeg/libavcodec/version.h \
+  /Users/sunday/Desktop/Code/rtspClient/include/ffmpeg/libavcodec/codec_desc.h \
+  /Users/sunday/Desktop/Code/rtspClient/include/ffmpeg/libavcodec/codec_par.h \
+  /Users/sunday/Desktop/Code/rtspClient/include/ffmpeg/libavutil/imgutils.h \
+  /Users/sunday/Desktop/Code/rtspClient/include/ffmpeg/libavutil/pixdesc.h

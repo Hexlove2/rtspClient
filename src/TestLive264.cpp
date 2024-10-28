@@ -632,9 +632,9 @@ DummySink::DummySink(UsageEnvironment &env, MediaSubsession &subsession,
   fStreamId = strDup(streamId);
   fReceiveBuffer = new u_int8_t[DUMMY_SINK_RECEIVE_BUFFER_SIZE];
 
-  std::string fileName = "./save/23/output_" + oss.str() + ".h264";
+  std::string fileName = "./save/28/output_" + oss.str() + ".h264";
   fOutputFile = fopen(fileName.c_str(), "wb");
-  aacFile     = fopen("./save/23/audio.aac", "wb");
+  aacFile     = fopen("./save/28/audio.aac", "wb");
 }
 
 DummySink::~DummySink() {
@@ -868,8 +868,8 @@ static void thread_codec() {
   std::unique_lock<std::mutex> lockS(m_set);
   cv_set.wait(lockS, []() { return !set; });
 
-  ctx->width = fd.width;
-  ctx->height = fd.height;
+  ctx->width   = fd.width;
+  ctx->height  = fd.height;
   ctx->pix_fmt = fd.format;
 
   ctx->time_base.num = 1;
@@ -881,6 +881,7 @@ static void thread_codec() {
   }
 
   AVFrame *frame;
+  AVFrame *res;
   while (1) {
 
     std::unique_lock<std::mutex> lock2(mutex2);
@@ -890,9 +891,9 @@ static void thread_codec() {
     frame = queueFrame.front();
     queueFrame.pop();
 
-    py_process(frame);
+    py_process(frame, res);
 
-    if (avcodec_send_frame(ctx, frame) < 0) {
+    if (avcodec_send_frame(ctx, res) < 0) {
       std::cerr << "Error sending a frame for encoding" << std::endl;
       continue;
     }
@@ -912,7 +913,8 @@ static void thread_codec() {
       queue265.push(std::make_pair(data, size));
       cv3.notify_one();
     }
-    av_frame_free(&frame);
+    //av_frame_free(&frame);
+    av_frame_free(&res);
   }
   avcodec_free_context(&ctx);
 }
@@ -921,7 +923,7 @@ static void thread_save() {
 
   int count = 0;
   FILE *h265;
-  std::string fileName = "./save/23/output_" + oss.str() + ".h265";
+  std::string fileName = "./save/28/output_" + oss.str() + ".h265";
   h265 = fopen(fileName.c_str(), "wb");
 
   while (1) {
@@ -987,10 +989,10 @@ static void ad_set(char* descripition)
     convertedValue |= (a3 & 0x0F) << 4;   // a3 (third nibble) -> bits 7-4
     convertedValue |= (a4 & 0x0F); 
 
-    ad.profile = (convertedValue >> 11)   & 0x1F;
+    ad.profile    = (convertedValue >> 11)   & 0x1F;
     ad.sampleRate = (convertedValue >> 7) & 0x0F;
-    ad.channels = (convertedValue >> 3)   & 0x0F;
-    ad.is_set = true;
+    ad.channels   = (convertedValue >> 3)   & 0x0F;
+    ad.is_set     = true;
 }
 
 static bool inc_head(uint8_t* data, int type){
