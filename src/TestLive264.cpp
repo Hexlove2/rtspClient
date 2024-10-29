@@ -29,6 +29,7 @@ extern "C" {
 #include "pySV.hh"
 
 #define maxFrame 5000
+#define DATE1 "29"
 // client->>server: DESCRIBE
 // server->>client: 200 OK (SDP)
 // client->>server: SETUP
@@ -618,7 +619,7 @@ StreamClientState::~StreamClientState() {
 
 // Even though we're not going to be doing anything with the incoming data, we
 // still need to receive it. Define the size of the buffer that we'll use:
-#define DUMMY_SINK_RECEIVE_BUFFER_SIZE 1000000
+#define DUMMY_SINK_RECEIVE_BUFFER_SIZE 10000000
 
 DummySink *DummySink::createNew(UsageEnvironment &env,
                                 MediaSubsession &subsession,
@@ -632,9 +633,10 @@ DummySink::DummySink(UsageEnvironment &env, MediaSubsession &subsession,
   fStreamId = strDup(streamId);
   fReceiveBuffer = new u_int8_t[DUMMY_SINK_RECEIVE_BUFFER_SIZE];
 
-  std::string fileName = "./save/28/output_" + oss.str() + ".h264";
+  std::string fileName = std::string("./save/")+ DATE1 + "/output_" + oss.str() + ".h264";
   fOutputFile = fopen(fileName.c_str(), "wb");
-  aacFile     = fopen("./save/28/audio.aac", "wb");
+  std::string accfileName  = std::string("./save/")+DATE1 +"/audio.aac";
+  aacFile     = fopen(accfileName.c_str(), "wb");
 }
 
 DummySink::~DummySink() {
@@ -913,7 +915,7 @@ static void thread_codec() {
       queue265.push(std::make_pair(data, size));
       cv3.notify_one();
     }
-    //av_frame_free(&frame);
+    av_frame_free(&frame);
     av_frame_free(&res);
   }
   avcodec_free_context(&ctx);
@@ -923,7 +925,7 @@ static void thread_save() {
 
   int count = 0;
   FILE *h265;
-  std::string fileName = "./save/28/output_" + oss.str() + ".h265";
+  std::string fileName = std::string("./save/")+ DATE1 + "/output_" + oss.str() + ".h265";
   h265 = fopen(fileName.c_str(), "wb");
 
   while (1) {
