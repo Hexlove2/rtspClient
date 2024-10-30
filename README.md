@@ -1,6 +1,16 @@
 # rtspClient
  It'a test about rtsp stream Client
 
+```sh
+cd build
+cmake..
+make
+cd ../bin
+./rtspClient <rtsp stream url>
+```
+
+
+
 ## Platform
 **MacOS15**
 

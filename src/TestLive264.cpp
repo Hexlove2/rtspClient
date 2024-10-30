@@ -29,7 +29,7 @@ extern "C" {
 #include "pySV.hh"
 
 #define maxFrame 5000
-#define DATE1 "29"
+#define DATE1 "30"
 // client->>server: DESCRIBE
 // server->>client: 200 OK (SDP)
 // client->>server: SETUP
@@ -74,6 +74,7 @@ struct AudioData ad;
 int count264;
 std::ostringstream oss;
 Boolean set;
+Boolean firstFrame;
 
 void continueAfterDESCRIBE(RTSPClient *rtspClient, int resultCode,
                            char *resultString);
@@ -637,6 +638,7 @@ DummySink::DummySink(UsageEnvironment &env, MediaSubsession &subsession,
   fOutputFile = fopen(fileName.c_str(), "wb");
   std::string accfileName  = std::string("./save/")+DATE1 +"/audio.aac";
   aacFile     = fopen(accfileName.c_str(), "wb");
+  firstFrame = true;
 }
 
 DummySink::~DummySink() {
@@ -658,7 +660,7 @@ void DummySink::afterGettingFrame(void *clientData, unsigned frameSize,
 // If you don't wanna see debugging output for each received frame, then comment
 // out the following line:
 #define DEBUG_PRINT_EACH_RECEIVED_FRAME 1
-
+#define DEBUG_PRINT_NPT 1
 void DummySink::afterGettingFrame(unsigned frameSize,
                                   unsigned numTruncatedBytes,
                                   struct timeval presentationTime,
@@ -666,6 +668,7 @@ void DummySink::afterGettingFrame(unsigned frameSize,
   // We've just received a frame of data. (Optionally) print out information
   // about it:
 #ifdef DEBUG_PRINT_EACH_RECEIVED_FRAME
+if (fSubsession.mediumName() == std::string("video")){
   if (fStreamId != NULL)
     envir() << "Stream \"" << fStreamId << "\";";
   envir() << fSubsession.mediumName() << "/" << fSubsession.codecName()
@@ -686,7 +689,9 @@ void DummySink::afterGettingFrame(unsigned frameSize,
 #ifdef DEBUG_PRINT_NPT
   envir() << "\tNPT: " << fSubsession.getNormalPlayTime(presentationTime);
 #endif
-  envir() << "\n";
+  envir() << "\n";  
+}
+
 #endif
 if (fSubsession.mediumName() == std::string("video")){
 
@@ -694,11 +699,21 @@ if (fSubsession.mediumName() == std::string("video")){
   {
     const uint8_t startCode[] = {0x00, 0x00, 0x00, 0x01};
     count264++;
+
     if (count264 <= maxFrame)
     {
       if (fSubsession.codecName() == std::string("H264")) {
       // Add NAL start code if it's missing   
       fwrite(startCode, 1, sizeof(startCode), fOutputFile);
+      }
+      if(firstFrame){
+        unsigned int num;
+        SPropRecord *sps = parseSPropParameterSets(fSubsession.fmtp_spropparametersets(), num);
+        fwrite(sps[0].sPropBytes, sps[0].sPropLength, 1, fOutputFile);
+        fwrite(startCode, 1, sizeof(startCode), fOutputFile);
+        fwrite(sps[1].sPropBytes, sps[1].sPropLength, 1, fOutputFile);
+        firstFrame = false;
+        delete [] sps;
       }
       fwrite(fReceiveBuffer, 1, frameSize, fOutputFile);
     }
@@ -853,8 +868,8 @@ static void thread_codec() {
 #ifdef _WIN32
   codec = avcodec_find_encoder(AV_CODEC_ID_HEVC);
 #elif defined(__APPLE__)
-  // codec = avcodec_find_encoder_by_name("hevc_videotoolbox");
-  codec = avcodec_find_encoder(AV_CODEC_ID_HEVC);
+  codec = avcodec_find_encoder_by_name("hevc_videotoolbox");
+  //codec = avcodec_find_encoder(AV_CODEC_ID_HEVC);
 #endif
   if (!codec) {
     std::cerr << "Failed to find the encoder!" << std::endl;
