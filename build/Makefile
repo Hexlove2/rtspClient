@@ -153,6 +153,4734 @@ src/TestLive264.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/TestLive264.cpp.s
 .PHONY : src/TestLive264.cpp.s
 
+src/live555/BasicUsageEnvironment/BasicHashTable.o: src/live555/BasicUsageEnvironment/BasicHashTable.cpp.o
+.PHONY : src/live555/BasicUsageEnvironment/BasicHashTable.o
+
+# target to build an object file
+src/live555/BasicUsageEnvironment/BasicHashTable.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicHashTable.cpp.o
+.PHONY : src/live555/BasicUsageEnvironment/BasicHashTable.cpp.o
+
+src/live555/BasicUsageEnvironment/BasicHashTable.i: src/live555/BasicUsageEnvironment/BasicHashTable.cpp.i
+.PHONY : src/live555/BasicUsageEnvironment/BasicHashTable.i
+
+# target to preprocess a source file
+src/live555/BasicUsageEnvironment/BasicHashTable.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicHashTable.cpp.i
+.PHONY : src/live555/BasicUsageEnvironment/BasicHashTable.cpp.i
+
+src/live555/BasicUsageEnvironment/BasicHashTable.s: src/live555/BasicUsageEnvironment/BasicHashTable.cpp.s
+.PHONY : src/live555/BasicUsageEnvironment/BasicHashTable.s
+
+# target to generate assembly for a file
+src/live555/BasicUsageEnvironment/BasicHashTable.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicHashTable.cpp.s
+.PHONY : src/live555/BasicUsageEnvironment/BasicHashTable.cpp.s
+
+src/live555/BasicUsageEnvironment/BasicTaskScheduler.o: src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp.o
+.PHONY : src/live555/BasicUsageEnvironment/BasicTaskScheduler.o
+
+# target to build an object file
+src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp.o
+.PHONY : src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp.o
+
+src/live555/BasicUsageEnvironment/BasicTaskScheduler.i: src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp.i
+.PHONY : src/live555/BasicUsageEnvironment/BasicTaskScheduler.i
+
+# target to preprocess a source file
+src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp.i
+.PHONY : src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp.i
+
+src/live555/BasicUsageEnvironment/BasicTaskScheduler.s: src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp.s
+.PHONY : src/live555/BasicUsageEnvironment/BasicTaskScheduler.s
+
+# target to generate assembly for a file
+src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp.s
+.PHONY : src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp.s
+
+src/live555/BasicUsageEnvironment/BasicTaskScheduler0.o: src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp.o
+.PHONY : src/live555/BasicUsageEnvironment/BasicTaskScheduler0.o
+
+# target to build an object file
+src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp.o
+.PHONY : src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp.o
+
+src/live555/BasicUsageEnvironment/BasicTaskScheduler0.i: src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp.i
+.PHONY : src/live555/BasicUsageEnvironment/BasicTaskScheduler0.i
+
+# target to preprocess a source file
+src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp.i
+.PHONY : src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp.i
+
+src/live555/BasicUsageEnvironment/BasicTaskScheduler0.s: src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp.s
+.PHONY : src/live555/BasicUsageEnvironment/BasicTaskScheduler0.s
+
+# target to generate assembly for a file
+src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp.s
+.PHONY : src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp.s
+
+src/live555/BasicUsageEnvironment/BasicUsageEnvironment.o: src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp.o
+.PHONY : src/live555/BasicUsageEnvironment/BasicUsageEnvironment.o
+
+# target to build an object file
+src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp.o
+.PHONY : src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp.o
+
+src/live555/BasicUsageEnvironment/BasicUsageEnvironment.i: src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp.i
+.PHONY : src/live555/BasicUsageEnvironment/BasicUsageEnvironment.i
+
+# target to preprocess a source file
+src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp.i
+.PHONY : src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp.i
+
+src/live555/BasicUsageEnvironment/BasicUsageEnvironment.s: src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp.s
+.PHONY : src/live555/BasicUsageEnvironment/BasicUsageEnvironment.s
+
+# target to generate assembly for a file
+src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp.s
+.PHONY : src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp.s
+
+src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.o: src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp.o
+.PHONY : src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.o
+
+# target to build an object file
+src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp.o
+.PHONY : src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp.o
+
+src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.i: src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp.i
+.PHONY : src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.i
+
+# target to preprocess a source file
+src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp.i
+.PHONY : src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp.i
+
+src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.s: src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp.s
+.PHONY : src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.s
+
+# target to generate assembly for a file
+src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp.s
+.PHONY : src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp.s
+
+src/live555/BasicUsageEnvironment/DelayQueue.o: src/live555/BasicUsageEnvironment/DelayQueue.cpp.o
+.PHONY : src/live555/BasicUsageEnvironment/DelayQueue.o
+
+# target to build an object file
+src/live555/BasicUsageEnvironment/DelayQueue.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/DelayQueue.cpp.o
+.PHONY : src/live555/BasicUsageEnvironment/DelayQueue.cpp.o
+
+src/live555/BasicUsageEnvironment/DelayQueue.i: src/live555/BasicUsageEnvironment/DelayQueue.cpp.i
+.PHONY : src/live555/BasicUsageEnvironment/DelayQueue.i
+
+# target to preprocess a source file
+src/live555/BasicUsageEnvironment/DelayQueue.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/DelayQueue.cpp.i
+.PHONY : src/live555/BasicUsageEnvironment/DelayQueue.cpp.i
+
+src/live555/BasicUsageEnvironment/DelayQueue.s: src/live555/BasicUsageEnvironment/DelayQueue.cpp.s
+.PHONY : src/live555/BasicUsageEnvironment/DelayQueue.s
+
+# target to generate assembly for a file
+src/live555/BasicUsageEnvironment/DelayQueue.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/DelayQueue.cpp.s
+.PHONY : src/live555/BasicUsageEnvironment/DelayQueue.cpp.s
+
+src/live555/UsageEnvironment/HashTable.o: src/live555/UsageEnvironment/HashTable.cpp.o
+.PHONY : src/live555/UsageEnvironment/HashTable.o
+
+# target to build an object file
+src/live555/UsageEnvironment/HashTable.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/HashTable.cpp.o
+.PHONY : src/live555/UsageEnvironment/HashTable.cpp.o
+
+src/live555/UsageEnvironment/HashTable.i: src/live555/UsageEnvironment/HashTable.cpp.i
+.PHONY : src/live555/UsageEnvironment/HashTable.i
+
+# target to preprocess a source file
+src/live555/UsageEnvironment/HashTable.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/HashTable.cpp.i
+.PHONY : src/live555/UsageEnvironment/HashTable.cpp.i
+
+src/live555/UsageEnvironment/HashTable.s: src/live555/UsageEnvironment/HashTable.cpp.s
+.PHONY : src/live555/UsageEnvironment/HashTable.s
+
+# target to generate assembly for a file
+src/live555/UsageEnvironment/HashTable.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/HashTable.cpp.s
+.PHONY : src/live555/UsageEnvironment/HashTable.cpp.s
+
+src/live555/UsageEnvironment/UsageEnvironment.o: src/live555/UsageEnvironment/UsageEnvironment.cpp.o
+.PHONY : src/live555/UsageEnvironment/UsageEnvironment.o
+
+# target to build an object file
+src/live555/UsageEnvironment/UsageEnvironment.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/UsageEnvironment.cpp.o
+.PHONY : src/live555/UsageEnvironment/UsageEnvironment.cpp.o
+
+src/live555/UsageEnvironment/UsageEnvironment.i: src/live555/UsageEnvironment/UsageEnvironment.cpp.i
+.PHONY : src/live555/UsageEnvironment/UsageEnvironment.i
+
+# target to preprocess a source file
+src/live555/UsageEnvironment/UsageEnvironment.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/UsageEnvironment.cpp.i
+.PHONY : src/live555/UsageEnvironment/UsageEnvironment.cpp.i
+
+src/live555/UsageEnvironment/UsageEnvironment.s: src/live555/UsageEnvironment/UsageEnvironment.cpp.s
+.PHONY : src/live555/UsageEnvironment/UsageEnvironment.s
+
+# target to generate assembly for a file
+src/live555/UsageEnvironment/UsageEnvironment.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/UsageEnvironment.cpp.s
+.PHONY : src/live555/UsageEnvironment/UsageEnvironment.cpp.s
+
+src/live555/UsageEnvironment/strDup.o: src/live555/UsageEnvironment/strDup.cpp.o
+.PHONY : src/live555/UsageEnvironment/strDup.o
+
+# target to build an object file
+src/live555/UsageEnvironment/strDup.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/strDup.cpp.o
+.PHONY : src/live555/UsageEnvironment/strDup.cpp.o
+
+src/live555/UsageEnvironment/strDup.i: src/live555/UsageEnvironment/strDup.cpp.i
+.PHONY : src/live555/UsageEnvironment/strDup.i
+
+# target to preprocess a source file
+src/live555/UsageEnvironment/strDup.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/strDup.cpp.i
+.PHONY : src/live555/UsageEnvironment/strDup.cpp.i
+
+src/live555/UsageEnvironment/strDup.s: src/live555/UsageEnvironment/strDup.cpp.s
+.PHONY : src/live555/UsageEnvironment/strDup.s
+
+# target to generate assembly for a file
+src/live555/UsageEnvironment/strDup.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/strDup.cpp.s
+.PHONY : src/live555/UsageEnvironment/strDup.cpp.s
+
+src/live555/groupsock/GroupEId.o: src/live555/groupsock/GroupEId.cpp.o
+.PHONY : src/live555/groupsock/GroupEId.o
+
+# target to build an object file
+src/live555/groupsock/GroupEId.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupEId.cpp.o
+.PHONY : src/live555/groupsock/GroupEId.cpp.o
+
+src/live555/groupsock/GroupEId.i: src/live555/groupsock/GroupEId.cpp.i
+.PHONY : src/live555/groupsock/GroupEId.i
+
+# target to preprocess a source file
+src/live555/groupsock/GroupEId.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupEId.cpp.i
+.PHONY : src/live555/groupsock/GroupEId.cpp.i
+
+src/live555/groupsock/GroupEId.s: src/live555/groupsock/GroupEId.cpp.s
+.PHONY : src/live555/groupsock/GroupEId.s
+
+# target to generate assembly for a file
+src/live555/groupsock/GroupEId.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupEId.cpp.s
+.PHONY : src/live555/groupsock/GroupEId.cpp.s
+
+src/live555/groupsock/Groupsock.o: src/live555/groupsock/Groupsock.cpp.o
+.PHONY : src/live555/groupsock/Groupsock.o
+
+# target to build an object file
+src/live555/groupsock/Groupsock.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/groupsock/Groupsock.cpp.o
+.PHONY : src/live555/groupsock/Groupsock.cpp.o
+
+src/live555/groupsock/Groupsock.i: src/live555/groupsock/Groupsock.cpp.i
+.PHONY : src/live555/groupsock/Groupsock.i
+
+# target to preprocess a source file
+src/live555/groupsock/Groupsock.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/groupsock/Groupsock.cpp.i
+.PHONY : src/live555/groupsock/Groupsock.cpp.i
+
+src/live555/groupsock/Groupsock.s: src/live555/groupsock/Groupsock.cpp.s
+.PHONY : src/live555/groupsock/Groupsock.s
+
+# target to generate assembly for a file
+src/live555/groupsock/Groupsock.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/groupsock/Groupsock.cpp.s
+.PHONY : src/live555/groupsock/Groupsock.cpp.s
+
+src/live555/groupsock/GroupsockHelper.o: src/live555/groupsock/GroupsockHelper.cpp.o
+.PHONY : src/live555/groupsock/GroupsockHelper.o
+
+# target to build an object file
+src/live555/groupsock/GroupsockHelper.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupsockHelper.cpp.o
+.PHONY : src/live555/groupsock/GroupsockHelper.cpp.o
+
+src/live555/groupsock/GroupsockHelper.i: src/live555/groupsock/GroupsockHelper.cpp.i
+.PHONY : src/live555/groupsock/GroupsockHelper.i
+
+# target to preprocess a source file
+src/live555/groupsock/GroupsockHelper.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupsockHelper.cpp.i
+.PHONY : src/live555/groupsock/GroupsockHelper.cpp.i
+
+src/live555/groupsock/GroupsockHelper.s: src/live555/groupsock/GroupsockHelper.cpp.s
+.PHONY : src/live555/groupsock/GroupsockHelper.s
+
+# target to generate assembly for a file
+src/live555/groupsock/GroupsockHelper.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupsockHelper.cpp.s
+.PHONY : src/live555/groupsock/GroupsockHelper.cpp.s
+
+src/live555/groupsock/IOHandlers.o: src/live555/groupsock/IOHandlers.cpp.o
+.PHONY : src/live555/groupsock/IOHandlers.o
+
+# target to build an object file
+src/live555/groupsock/IOHandlers.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/groupsock/IOHandlers.cpp.o
+.PHONY : src/live555/groupsock/IOHandlers.cpp.o
+
+src/live555/groupsock/IOHandlers.i: src/live555/groupsock/IOHandlers.cpp.i
+.PHONY : src/live555/groupsock/IOHandlers.i
+
+# target to preprocess a source file
+src/live555/groupsock/IOHandlers.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/groupsock/IOHandlers.cpp.i
+.PHONY : src/live555/groupsock/IOHandlers.cpp.i
+
+src/live555/groupsock/IOHandlers.s: src/live555/groupsock/IOHandlers.cpp.s
+.PHONY : src/live555/groupsock/IOHandlers.s
+
+# target to generate assembly for a file
+src/live555/groupsock/IOHandlers.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/groupsock/IOHandlers.cpp.s
+.PHONY : src/live555/groupsock/IOHandlers.cpp.s
+
+src/live555/groupsock/NetAddress.o: src/live555/groupsock/NetAddress.cpp.o
+.PHONY : src/live555/groupsock/NetAddress.o
+
+# target to build an object file
+src/live555/groupsock/NetAddress.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/groupsock/NetAddress.cpp.o
+.PHONY : src/live555/groupsock/NetAddress.cpp.o
+
+src/live555/groupsock/NetAddress.i: src/live555/groupsock/NetAddress.cpp.i
+.PHONY : src/live555/groupsock/NetAddress.i
+
+# target to preprocess a source file
+src/live555/groupsock/NetAddress.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/groupsock/NetAddress.cpp.i
+.PHONY : src/live555/groupsock/NetAddress.cpp.i
+
+src/live555/groupsock/NetAddress.s: src/live555/groupsock/NetAddress.cpp.s
+.PHONY : src/live555/groupsock/NetAddress.s
+
+# target to generate assembly for a file
+src/live555/groupsock/NetAddress.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/groupsock/NetAddress.cpp.s
+.PHONY : src/live555/groupsock/NetAddress.cpp.s
+
+src/live555/groupsock/NetInterface.o: src/live555/groupsock/NetInterface.cpp.o
+.PHONY : src/live555/groupsock/NetInterface.o
+
+# target to build an object file
+src/live555/groupsock/NetInterface.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/groupsock/NetInterface.cpp.o
+.PHONY : src/live555/groupsock/NetInterface.cpp.o
+
+src/live555/groupsock/NetInterface.i: src/live555/groupsock/NetInterface.cpp.i
+.PHONY : src/live555/groupsock/NetInterface.i
+
+# target to preprocess a source file
+src/live555/groupsock/NetInterface.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/groupsock/NetInterface.cpp.i
+.PHONY : src/live555/groupsock/NetInterface.cpp.i
+
+src/live555/groupsock/NetInterface.s: src/live555/groupsock/NetInterface.cpp.s
+.PHONY : src/live555/groupsock/NetInterface.s
+
+# target to generate assembly for a file
+src/live555/groupsock/NetInterface.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/groupsock/NetInterface.cpp.s
+.PHONY : src/live555/groupsock/NetInterface.cpp.s
+
+src/live555/groupsock/inet.o: src/live555/groupsock/inet.c.o
+.PHONY : src/live555/groupsock/inet.o
+
+# target to build an object file
+src/live555/groupsock/inet.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/groupsock/inet.c.o
+.PHONY : src/live555/groupsock/inet.c.o
+
+src/live555/groupsock/inet.i: src/live555/groupsock/inet.c.i
+.PHONY : src/live555/groupsock/inet.i
+
+# target to preprocess a source file
+src/live555/groupsock/inet.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/groupsock/inet.c.i
+.PHONY : src/live555/groupsock/inet.c.i
+
+src/live555/groupsock/inet.s: src/live555/groupsock/inet.c.s
+.PHONY : src/live555/groupsock/inet.s
+
+# target to generate assembly for a file
+src/live555/groupsock/inet.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/groupsock/inet.c.s
+.PHONY : src/live555/groupsock/inet.c.s
+
+src/live555/liveMedia/AC3AudioFileServerMediaSubsession.o: src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/AC3AudioFileServerMediaSubsession.o
+
+# target to build an object file
+src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp.o
+
+src/live555/liveMedia/AC3AudioFileServerMediaSubsession.i: src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/AC3AudioFileServerMediaSubsession.i
+
+# target to preprocess a source file
+src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp.i
+
+src/live555/liveMedia/AC3AudioFileServerMediaSubsession.s: src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/AC3AudioFileServerMediaSubsession.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp.s
+
+src/live555/liveMedia/AC3AudioRTPSink.o: src/live555/liveMedia/AC3AudioRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/AC3AudioRTPSink.o
+
+# target to build an object file
+src/live555/liveMedia/AC3AudioRTPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/AC3AudioRTPSink.cpp.o
+
+src/live555/liveMedia/AC3AudioRTPSink.i: src/live555/liveMedia/AC3AudioRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/AC3AudioRTPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/AC3AudioRTPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/AC3AudioRTPSink.cpp.i
+
+src/live555/liveMedia/AC3AudioRTPSink.s: src/live555/liveMedia/AC3AudioRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/AC3AudioRTPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/AC3AudioRTPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/AC3AudioRTPSink.cpp.s
+
+src/live555/liveMedia/AC3AudioRTPSource.o: src/live555/liveMedia/AC3AudioRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/AC3AudioRTPSource.o
+
+# target to build an object file
+src/live555/liveMedia/AC3AudioRTPSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/AC3AudioRTPSource.cpp.o
+
+src/live555/liveMedia/AC3AudioRTPSource.i: src/live555/liveMedia/AC3AudioRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/AC3AudioRTPSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/AC3AudioRTPSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/AC3AudioRTPSource.cpp.i
+
+src/live555/liveMedia/AC3AudioRTPSource.s: src/live555/liveMedia/AC3AudioRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/AC3AudioRTPSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/AC3AudioRTPSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/AC3AudioRTPSource.cpp.s
+
+src/live555/liveMedia/AC3AudioStreamFramer.o: src/live555/liveMedia/AC3AudioStreamFramer.cpp.o
+.PHONY : src/live555/liveMedia/AC3AudioStreamFramer.o
+
+# target to build an object file
+src/live555/liveMedia/AC3AudioStreamFramer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioStreamFramer.cpp.o
+.PHONY : src/live555/liveMedia/AC3AudioStreamFramer.cpp.o
+
+src/live555/liveMedia/AC3AudioStreamFramer.i: src/live555/liveMedia/AC3AudioStreamFramer.cpp.i
+.PHONY : src/live555/liveMedia/AC3AudioStreamFramer.i
+
+# target to preprocess a source file
+src/live555/liveMedia/AC3AudioStreamFramer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioStreamFramer.cpp.i
+.PHONY : src/live555/liveMedia/AC3AudioStreamFramer.cpp.i
+
+src/live555/liveMedia/AC3AudioStreamFramer.s: src/live555/liveMedia/AC3AudioStreamFramer.cpp.s
+.PHONY : src/live555/liveMedia/AC3AudioStreamFramer.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/AC3AudioStreamFramer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioStreamFramer.cpp.s
+.PHONY : src/live555/liveMedia/AC3AudioStreamFramer.cpp.s
+
+src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.o: src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.o
+
+# target to build an object file
+src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp.o
+
+src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.i: src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.i
+
+# target to preprocess a source file
+src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp.i
+
+src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.s: src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp.s
+
+src/live555/liveMedia/ADTSAudioFileSource.o: src/live555/liveMedia/ADTSAudioFileSource.cpp.o
+.PHONY : src/live555/liveMedia/ADTSAudioFileSource.o
+
+# target to build an object file
+src/live555/liveMedia/ADTSAudioFileSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileSource.cpp.o
+.PHONY : src/live555/liveMedia/ADTSAudioFileSource.cpp.o
+
+src/live555/liveMedia/ADTSAudioFileSource.i: src/live555/liveMedia/ADTSAudioFileSource.cpp.i
+.PHONY : src/live555/liveMedia/ADTSAudioFileSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/ADTSAudioFileSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileSource.cpp.i
+.PHONY : src/live555/liveMedia/ADTSAudioFileSource.cpp.i
+
+src/live555/liveMedia/ADTSAudioFileSource.s: src/live555/liveMedia/ADTSAudioFileSource.cpp.s
+.PHONY : src/live555/liveMedia/ADTSAudioFileSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/ADTSAudioFileSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileSource.cpp.s
+.PHONY : src/live555/liveMedia/ADTSAudioFileSource.cpp.s
+
+src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.o: src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp.o
+.PHONY : src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.o
+
+# target to build an object file
+src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp.o
+.PHONY : src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp.o
+
+src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.i: src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp.i
+.PHONY : src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.i
+
+# target to preprocess a source file
+src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp.i
+.PHONY : src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp.i
+
+src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.s: src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp.s
+.PHONY : src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp.s
+.PHONY : src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp.s
+
+src/live555/liveMedia/AMRAudioFileServerMediaSubsession.o: src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/AMRAudioFileServerMediaSubsession.o
+
+# target to build an object file
+src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp.o
+
+src/live555/liveMedia/AMRAudioFileServerMediaSubsession.i: src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/AMRAudioFileServerMediaSubsession.i
+
+# target to preprocess a source file
+src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp.i
+
+src/live555/liveMedia/AMRAudioFileServerMediaSubsession.s: src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/AMRAudioFileServerMediaSubsession.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp.s
+
+src/live555/liveMedia/AMRAudioFileSink.o: src/live555/liveMedia/AMRAudioFileSink.cpp.o
+.PHONY : src/live555/liveMedia/AMRAudioFileSink.o
+
+# target to build an object file
+src/live555/liveMedia/AMRAudioFileSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSink.cpp.o
+.PHONY : src/live555/liveMedia/AMRAudioFileSink.cpp.o
+
+src/live555/liveMedia/AMRAudioFileSink.i: src/live555/liveMedia/AMRAudioFileSink.cpp.i
+.PHONY : src/live555/liveMedia/AMRAudioFileSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/AMRAudioFileSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSink.cpp.i
+.PHONY : src/live555/liveMedia/AMRAudioFileSink.cpp.i
+
+src/live555/liveMedia/AMRAudioFileSink.s: src/live555/liveMedia/AMRAudioFileSink.cpp.s
+.PHONY : src/live555/liveMedia/AMRAudioFileSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/AMRAudioFileSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSink.cpp.s
+.PHONY : src/live555/liveMedia/AMRAudioFileSink.cpp.s
+
+src/live555/liveMedia/AMRAudioFileSource.o: src/live555/liveMedia/AMRAudioFileSource.cpp.o
+.PHONY : src/live555/liveMedia/AMRAudioFileSource.o
+
+# target to build an object file
+src/live555/liveMedia/AMRAudioFileSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSource.cpp.o
+.PHONY : src/live555/liveMedia/AMRAudioFileSource.cpp.o
+
+src/live555/liveMedia/AMRAudioFileSource.i: src/live555/liveMedia/AMRAudioFileSource.cpp.i
+.PHONY : src/live555/liveMedia/AMRAudioFileSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/AMRAudioFileSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSource.cpp.i
+.PHONY : src/live555/liveMedia/AMRAudioFileSource.cpp.i
+
+src/live555/liveMedia/AMRAudioFileSource.s: src/live555/liveMedia/AMRAudioFileSource.cpp.s
+.PHONY : src/live555/liveMedia/AMRAudioFileSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/AMRAudioFileSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSource.cpp.s
+.PHONY : src/live555/liveMedia/AMRAudioFileSource.cpp.s
+
+src/live555/liveMedia/AMRAudioRTPSink.o: src/live555/liveMedia/AMRAudioRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/AMRAudioRTPSink.o
+
+# target to build an object file
+src/live555/liveMedia/AMRAudioRTPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/AMRAudioRTPSink.cpp.o
+
+src/live555/liveMedia/AMRAudioRTPSink.i: src/live555/liveMedia/AMRAudioRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/AMRAudioRTPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/AMRAudioRTPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/AMRAudioRTPSink.cpp.i
+
+src/live555/liveMedia/AMRAudioRTPSink.s: src/live555/liveMedia/AMRAudioRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/AMRAudioRTPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/AMRAudioRTPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/AMRAudioRTPSink.cpp.s
+
+src/live555/liveMedia/AMRAudioRTPSource.o: src/live555/liveMedia/AMRAudioRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/AMRAudioRTPSource.o
+
+# target to build an object file
+src/live555/liveMedia/AMRAudioRTPSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/AMRAudioRTPSource.cpp.o
+
+src/live555/liveMedia/AMRAudioRTPSource.i: src/live555/liveMedia/AMRAudioRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/AMRAudioRTPSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/AMRAudioRTPSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/AMRAudioRTPSource.cpp.i
+
+src/live555/liveMedia/AMRAudioRTPSource.s: src/live555/liveMedia/AMRAudioRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/AMRAudioRTPSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/AMRAudioRTPSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/AMRAudioRTPSource.cpp.s
+
+src/live555/liveMedia/AMRAudioSource.o: src/live555/liveMedia/AMRAudioSource.cpp.o
+.PHONY : src/live555/liveMedia/AMRAudioSource.o
+
+# target to build an object file
+src/live555/liveMedia/AMRAudioSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioSource.cpp.o
+.PHONY : src/live555/liveMedia/AMRAudioSource.cpp.o
+
+src/live555/liveMedia/AMRAudioSource.i: src/live555/liveMedia/AMRAudioSource.cpp.i
+.PHONY : src/live555/liveMedia/AMRAudioSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/AMRAudioSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioSource.cpp.i
+.PHONY : src/live555/liveMedia/AMRAudioSource.cpp.i
+
+src/live555/liveMedia/AMRAudioSource.s: src/live555/liveMedia/AMRAudioSource.cpp.s
+.PHONY : src/live555/liveMedia/AMRAudioSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/AMRAudioSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioSource.cpp.s
+.PHONY : src/live555/liveMedia/AMRAudioSource.cpp.s
+
+src/live555/liveMedia/AVIFileSink.o: src/live555/liveMedia/AVIFileSink.cpp.o
+.PHONY : src/live555/liveMedia/AVIFileSink.o
+
+# target to build an object file
+src/live555/liveMedia/AVIFileSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AVIFileSink.cpp.o
+.PHONY : src/live555/liveMedia/AVIFileSink.cpp.o
+
+src/live555/liveMedia/AVIFileSink.i: src/live555/liveMedia/AVIFileSink.cpp.i
+.PHONY : src/live555/liveMedia/AVIFileSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/AVIFileSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AVIFileSink.cpp.i
+.PHONY : src/live555/liveMedia/AVIFileSink.cpp.i
+
+src/live555/liveMedia/AVIFileSink.s: src/live555/liveMedia/AVIFileSink.cpp.s
+.PHONY : src/live555/liveMedia/AVIFileSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/AVIFileSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AVIFileSink.cpp.s
+.PHONY : src/live555/liveMedia/AVIFileSink.cpp.s
+
+src/live555/liveMedia/AudioInputDevice.o: src/live555/liveMedia/AudioInputDevice.cpp.o
+.PHONY : src/live555/liveMedia/AudioInputDevice.o
+
+# target to build an object file
+src/live555/liveMedia/AudioInputDevice.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioInputDevice.cpp.o
+.PHONY : src/live555/liveMedia/AudioInputDevice.cpp.o
+
+src/live555/liveMedia/AudioInputDevice.i: src/live555/liveMedia/AudioInputDevice.cpp.i
+.PHONY : src/live555/liveMedia/AudioInputDevice.i
+
+# target to preprocess a source file
+src/live555/liveMedia/AudioInputDevice.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioInputDevice.cpp.i
+.PHONY : src/live555/liveMedia/AudioInputDevice.cpp.i
+
+src/live555/liveMedia/AudioInputDevice.s: src/live555/liveMedia/AudioInputDevice.cpp.s
+.PHONY : src/live555/liveMedia/AudioInputDevice.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/AudioInputDevice.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioInputDevice.cpp.s
+.PHONY : src/live555/liveMedia/AudioInputDevice.cpp.s
+
+src/live555/liveMedia/AudioRTPSink.o: src/live555/liveMedia/AudioRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/AudioRTPSink.o
+
+# target to build an object file
+src/live555/liveMedia/AudioRTPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/AudioRTPSink.cpp.o
+
+src/live555/liveMedia/AudioRTPSink.i: src/live555/liveMedia/AudioRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/AudioRTPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/AudioRTPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/AudioRTPSink.cpp.i
+
+src/live555/liveMedia/AudioRTPSink.s: src/live555/liveMedia/AudioRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/AudioRTPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/AudioRTPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/AudioRTPSink.cpp.s
+
+src/live555/liveMedia/Base64.o: src/live555/liveMedia/Base64.cpp.o
+.PHONY : src/live555/liveMedia/Base64.o
+
+# target to build an object file
+src/live555/liveMedia/Base64.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/Base64.cpp.o
+.PHONY : src/live555/liveMedia/Base64.cpp.o
+
+src/live555/liveMedia/Base64.i: src/live555/liveMedia/Base64.cpp.i
+.PHONY : src/live555/liveMedia/Base64.i
+
+# target to preprocess a source file
+src/live555/liveMedia/Base64.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/Base64.cpp.i
+.PHONY : src/live555/liveMedia/Base64.cpp.i
+
+src/live555/liveMedia/Base64.s: src/live555/liveMedia/Base64.cpp.s
+.PHONY : src/live555/liveMedia/Base64.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/Base64.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/Base64.cpp.s
+.PHONY : src/live555/liveMedia/Base64.cpp.s
+
+src/live555/liveMedia/BasicUDPSink.o: src/live555/liveMedia/BasicUDPSink.cpp.o
+.PHONY : src/live555/liveMedia/BasicUDPSink.o
+
+# target to build an object file
+src/live555/liveMedia/BasicUDPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSink.cpp.o
+.PHONY : src/live555/liveMedia/BasicUDPSink.cpp.o
+
+src/live555/liveMedia/BasicUDPSink.i: src/live555/liveMedia/BasicUDPSink.cpp.i
+.PHONY : src/live555/liveMedia/BasicUDPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/BasicUDPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSink.cpp.i
+.PHONY : src/live555/liveMedia/BasicUDPSink.cpp.i
+
+src/live555/liveMedia/BasicUDPSink.s: src/live555/liveMedia/BasicUDPSink.cpp.s
+.PHONY : src/live555/liveMedia/BasicUDPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/BasicUDPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSink.cpp.s
+.PHONY : src/live555/liveMedia/BasicUDPSink.cpp.s
+
+src/live555/liveMedia/BasicUDPSource.o: src/live555/liveMedia/BasicUDPSource.cpp.o
+.PHONY : src/live555/liveMedia/BasicUDPSource.o
+
+# target to build an object file
+src/live555/liveMedia/BasicUDPSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSource.cpp.o
+.PHONY : src/live555/liveMedia/BasicUDPSource.cpp.o
+
+src/live555/liveMedia/BasicUDPSource.i: src/live555/liveMedia/BasicUDPSource.cpp.i
+.PHONY : src/live555/liveMedia/BasicUDPSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/BasicUDPSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSource.cpp.i
+.PHONY : src/live555/liveMedia/BasicUDPSource.cpp.i
+
+src/live555/liveMedia/BasicUDPSource.s: src/live555/liveMedia/BasicUDPSource.cpp.s
+.PHONY : src/live555/liveMedia/BasicUDPSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/BasicUDPSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSource.cpp.s
+.PHONY : src/live555/liveMedia/BasicUDPSource.cpp.s
+
+src/live555/liveMedia/BitVector.o: src/live555/liveMedia/BitVector.cpp.o
+.PHONY : src/live555/liveMedia/BitVector.o
+
+# target to build an object file
+src/live555/liveMedia/BitVector.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/BitVector.cpp.o
+.PHONY : src/live555/liveMedia/BitVector.cpp.o
+
+src/live555/liveMedia/BitVector.i: src/live555/liveMedia/BitVector.cpp.i
+.PHONY : src/live555/liveMedia/BitVector.i
+
+# target to preprocess a source file
+src/live555/liveMedia/BitVector.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/BitVector.cpp.i
+.PHONY : src/live555/liveMedia/BitVector.cpp.i
+
+src/live555/liveMedia/BitVector.s: src/live555/liveMedia/BitVector.cpp.s
+.PHONY : src/live555/liveMedia/BitVector.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/BitVector.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/BitVector.cpp.s
+.PHONY : src/live555/liveMedia/BitVector.cpp.s
+
+src/live555/liveMedia/ByteStreamFileSource.o: src/live555/liveMedia/ByteStreamFileSource.cpp.o
+.PHONY : src/live555/liveMedia/ByteStreamFileSource.o
+
+# target to build an object file
+src/live555/liveMedia/ByteStreamFileSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamFileSource.cpp.o
+.PHONY : src/live555/liveMedia/ByteStreamFileSource.cpp.o
+
+src/live555/liveMedia/ByteStreamFileSource.i: src/live555/liveMedia/ByteStreamFileSource.cpp.i
+.PHONY : src/live555/liveMedia/ByteStreamFileSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/ByteStreamFileSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamFileSource.cpp.i
+.PHONY : src/live555/liveMedia/ByteStreamFileSource.cpp.i
+
+src/live555/liveMedia/ByteStreamFileSource.s: src/live555/liveMedia/ByteStreamFileSource.cpp.s
+.PHONY : src/live555/liveMedia/ByteStreamFileSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/ByteStreamFileSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamFileSource.cpp.s
+.PHONY : src/live555/liveMedia/ByteStreamFileSource.cpp.s
+
+src/live555/liveMedia/ByteStreamMemoryBufferSource.o: src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp.o
+.PHONY : src/live555/liveMedia/ByteStreamMemoryBufferSource.o
+
+# target to build an object file
+src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp.o
+.PHONY : src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp.o
+
+src/live555/liveMedia/ByteStreamMemoryBufferSource.i: src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp.i
+.PHONY : src/live555/liveMedia/ByteStreamMemoryBufferSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp.i
+.PHONY : src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp.i
+
+src/live555/liveMedia/ByteStreamMemoryBufferSource.s: src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp.s
+.PHONY : src/live555/liveMedia/ByteStreamMemoryBufferSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp.s
+.PHONY : src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp.s
+
+src/live555/liveMedia/ByteStreamMultiFileSource.o: src/live555/liveMedia/ByteStreamMultiFileSource.cpp.o
+.PHONY : src/live555/liveMedia/ByteStreamMultiFileSource.o
+
+# target to build an object file
+src/live555/liveMedia/ByteStreamMultiFileSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMultiFileSource.cpp.o
+.PHONY : src/live555/liveMedia/ByteStreamMultiFileSource.cpp.o
+
+src/live555/liveMedia/ByteStreamMultiFileSource.i: src/live555/liveMedia/ByteStreamMultiFileSource.cpp.i
+.PHONY : src/live555/liveMedia/ByteStreamMultiFileSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/ByteStreamMultiFileSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMultiFileSource.cpp.i
+.PHONY : src/live555/liveMedia/ByteStreamMultiFileSource.cpp.i
+
+src/live555/liveMedia/ByteStreamMultiFileSource.s: src/live555/liveMedia/ByteStreamMultiFileSource.cpp.s
+.PHONY : src/live555/liveMedia/ByteStreamMultiFileSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/ByteStreamMultiFileSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMultiFileSource.cpp.s
+.PHONY : src/live555/liveMedia/ByteStreamMultiFileSource.cpp.s
+
+src/live555/liveMedia/DVVideoFileServerMediaSubsession.o: src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/DVVideoFileServerMediaSubsession.o
+
+# target to build an object file
+src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp.o
+
+src/live555/liveMedia/DVVideoFileServerMediaSubsession.i: src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/DVVideoFileServerMediaSubsession.i
+
+# target to preprocess a source file
+src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp.i
+
+src/live555/liveMedia/DVVideoFileServerMediaSubsession.s: src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/DVVideoFileServerMediaSubsession.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp.s
+
+src/live555/liveMedia/DVVideoRTPSink.o: src/live555/liveMedia/DVVideoRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/DVVideoRTPSink.o
+
+# target to build an object file
+src/live555/liveMedia/DVVideoRTPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/DVVideoRTPSink.cpp.o
+
+src/live555/liveMedia/DVVideoRTPSink.i: src/live555/liveMedia/DVVideoRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/DVVideoRTPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/DVVideoRTPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/DVVideoRTPSink.cpp.i
+
+src/live555/liveMedia/DVVideoRTPSink.s: src/live555/liveMedia/DVVideoRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/DVVideoRTPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/DVVideoRTPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/DVVideoRTPSink.cpp.s
+
+src/live555/liveMedia/DVVideoRTPSource.o: src/live555/liveMedia/DVVideoRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/DVVideoRTPSource.o
+
+# target to build an object file
+src/live555/liveMedia/DVVideoRTPSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/DVVideoRTPSource.cpp.o
+
+src/live555/liveMedia/DVVideoRTPSource.i: src/live555/liveMedia/DVVideoRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/DVVideoRTPSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/DVVideoRTPSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/DVVideoRTPSource.cpp.i
+
+src/live555/liveMedia/DVVideoRTPSource.s: src/live555/liveMedia/DVVideoRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/DVVideoRTPSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/DVVideoRTPSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/DVVideoRTPSource.cpp.s
+
+src/live555/liveMedia/DVVideoStreamFramer.o: src/live555/liveMedia/DVVideoStreamFramer.cpp.o
+.PHONY : src/live555/liveMedia/DVVideoStreamFramer.o
+
+# target to build an object file
+src/live555/liveMedia/DVVideoStreamFramer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoStreamFramer.cpp.o
+.PHONY : src/live555/liveMedia/DVVideoStreamFramer.cpp.o
+
+src/live555/liveMedia/DVVideoStreamFramer.i: src/live555/liveMedia/DVVideoStreamFramer.cpp.i
+.PHONY : src/live555/liveMedia/DVVideoStreamFramer.i
+
+# target to preprocess a source file
+src/live555/liveMedia/DVVideoStreamFramer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoStreamFramer.cpp.i
+.PHONY : src/live555/liveMedia/DVVideoStreamFramer.cpp.i
+
+src/live555/liveMedia/DVVideoStreamFramer.s: src/live555/liveMedia/DVVideoStreamFramer.cpp.s
+.PHONY : src/live555/liveMedia/DVVideoStreamFramer.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/DVVideoStreamFramer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoStreamFramer.cpp.s
+.PHONY : src/live555/liveMedia/DVVideoStreamFramer.cpp.s
+
+src/live555/liveMedia/DeviceSource.o: src/live555/liveMedia/DeviceSource.cpp.o
+.PHONY : src/live555/liveMedia/DeviceSource.o
+
+# target to build an object file
+src/live555/liveMedia/DeviceSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/DeviceSource.cpp.o
+.PHONY : src/live555/liveMedia/DeviceSource.cpp.o
+
+src/live555/liveMedia/DeviceSource.i: src/live555/liveMedia/DeviceSource.cpp.i
+.PHONY : src/live555/liveMedia/DeviceSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/DeviceSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/DeviceSource.cpp.i
+.PHONY : src/live555/liveMedia/DeviceSource.cpp.i
+
+src/live555/liveMedia/DeviceSource.s: src/live555/liveMedia/DeviceSource.cpp.s
+.PHONY : src/live555/liveMedia/DeviceSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/DeviceSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/DeviceSource.cpp.s
+.PHONY : src/live555/liveMedia/DeviceSource.cpp.s
+
+src/live555/liveMedia/DigestAuthentication.o: src/live555/liveMedia/DigestAuthentication.cpp.o
+.PHONY : src/live555/liveMedia/DigestAuthentication.o
+
+# target to build an object file
+src/live555/liveMedia/DigestAuthentication.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/DigestAuthentication.cpp.o
+.PHONY : src/live555/liveMedia/DigestAuthentication.cpp.o
+
+src/live555/liveMedia/DigestAuthentication.i: src/live555/liveMedia/DigestAuthentication.cpp.i
+.PHONY : src/live555/liveMedia/DigestAuthentication.i
+
+# target to preprocess a source file
+src/live555/liveMedia/DigestAuthentication.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/DigestAuthentication.cpp.i
+.PHONY : src/live555/liveMedia/DigestAuthentication.cpp.i
+
+src/live555/liveMedia/DigestAuthentication.s: src/live555/liveMedia/DigestAuthentication.cpp.s
+.PHONY : src/live555/liveMedia/DigestAuthentication.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/DigestAuthentication.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/DigestAuthentication.cpp.s
+.PHONY : src/live555/liveMedia/DigestAuthentication.cpp.s
+
+src/live555/liveMedia/EBMLNumber.o: src/live555/liveMedia/EBMLNumber.cpp.o
+.PHONY : src/live555/liveMedia/EBMLNumber.o
+
+# target to build an object file
+src/live555/liveMedia/EBMLNumber.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/EBMLNumber.cpp.o
+.PHONY : src/live555/liveMedia/EBMLNumber.cpp.o
+
+src/live555/liveMedia/EBMLNumber.i: src/live555/liveMedia/EBMLNumber.cpp.i
+.PHONY : src/live555/liveMedia/EBMLNumber.i
+
+# target to preprocess a source file
+src/live555/liveMedia/EBMLNumber.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/EBMLNumber.cpp.i
+.PHONY : src/live555/liveMedia/EBMLNumber.cpp.i
+
+src/live555/liveMedia/EBMLNumber.s: src/live555/liveMedia/EBMLNumber.cpp.s
+.PHONY : src/live555/liveMedia/EBMLNumber.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/EBMLNumber.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/EBMLNumber.cpp.s
+.PHONY : src/live555/liveMedia/EBMLNumber.cpp.s
+
+src/live555/liveMedia/FileServerMediaSubsession.o: src/live555/liveMedia/FileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/FileServerMediaSubsession.o
+
+# target to build an object file
+src/live555/liveMedia/FileServerMediaSubsession.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/FileServerMediaSubsession.cpp.o
+
+src/live555/liveMedia/FileServerMediaSubsession.i: src/live555/liveMedia/FileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/FileServerMediaSubsession.i
+
+# target to preprocess a source file
+src/live555/liveMedia/FileServerMediaSubsession.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/FileServerMediaSubsession.cpp.i
+
+src/live555/liveMedia/FileServerMediaSubsession.s: src/live555/liveMedia/FileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/FileServerMediaSubsession.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/FileServerMediaSubsession.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/FileServerMediaSubsession.cpp.s
+
+src/live555/liveMedia/FileSink.o: src/live555/liveMedia/FileSink.cpp.o
+.PHONY : src/live555/liveMedia/FileSink.o
+
+# target to build an object file
+src/live555/liveMedia/FileSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileSink.cpp.o
+.PHONY : src/live555/liveMedia/FileSink.cpp.o
+
+src/live555/liveMedia/FileSink.i: src/live555/liveMedia/FileSink.cpp.i
+.PHONY : src/live555/liveMedia/FileSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/FileSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileSink.cpp.i
+.PHONY : src/live555/liveMedia/FileSink.cpp.i
+
+src/live555/liveMedia/FileSink.s: src/live555/liveMedia/FileSink.cpp.s
+.PHONY : src/live555/liveMedia/FileSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/FileSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileSink.cpp.s
+.PHONY : src/live555/liveMedia/FileSink.cpp.s
+
+src/live555/liveMedia/FramedFileSource.o: src/live555/liveMedia/FramedFileSource.cpp.o
+.PHONY : src/live555/liveMedia/FramedFileSource.o
+
+# target to build an object file
+src/live555/liveMedia/FramedFileSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFileSource.cpp.o
+.PHONY : src/live555/liveMedia/FramedFileSource.cpp.o
+
+src/live555/liveMedia/FramedFileSource.i: src/live555/liveMedia/FramedFileSource.cpp.i
+.PHONY : src/live555/liveMedia/FramedFileSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/FramedFileSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFileSource.cpp.i
+.PHONY : src/live555/liveMedia/FramedFileSource.cpp.i
+
+src/live555/liveMedia/FramedFileSource.s: src/live555/liveMedia/FramedFileSource.cpp.s
+.PHONY : src/live555/liveMedia/FramedFileSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/FramedFileSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFileSource.cpp.s
+.PHONY : src/live555/liveMedia/FramedFileSource.cpp.s
+
+src/live555/liveMedia/FramedFilter.o: src/live555/liveMedia/FramedFilter.cpp.o
+.PHONY : src/live555/liveMedia/FramedFilter.o
+
+# target to build an object file
+src/live555/liveMedia/FramedFilter.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFilter.cpp.o
+.PHONY : src/live555/liveMedia/FramedFilter.cpp.o
+
+src/live555/liveMedia/FramedFilter.i: src/live555/liveMedia/FramedFilter.cpp.i
+.PHONY : src/live555/liveMedia/FramedFilter.i
+
+# target to preprocess a source file
+src/live555/liveMedia/FramedFilter.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFilter.cpp.i
+.PHONY : src/live555/liveMedia/FramedFilter.cpp.i
+
+src/live555/liveMedia/FramedFilter.s: src/live555/liveMedia/FramedFilter.cpp.s
+.PHONY : src/live555/liveMedia/FramedFilter.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/FramedFilter.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFilter.cpp.s
+.PHONY : src/live555/liveMedia/FramedFilter.cpp.s
+
+src/live555/liveMedia/FramedSource.o: src/live555/liveMedia/FramedSource.cpp.o
+.PHONY : src/live555/liveMedia/FramedSource.o
+
+# target to build an object file
+src/live555/liveMedia/FramedSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedSource.cpp.o
+.PHONY : src/live555/liveMedia/FramedSource.cpp.o
+
+src/live555/liveMedia/FramedSource.i: src/live555/liveMedia/FramedSource.cpp.i
+.PHONY : src/live555/liveMedia/FramedSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/FramedSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedSource.cpp.i
+.PHONY : src/live555/liveMedia/FramedSource.cpp.i
+
+src/live555/liveMedia/FramedSource.s: src/live555/liveMedia/FramedSource.cpp.s
+.PHONY : src/live555/liveMedia/FramedSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/FramedSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedSource.cpp.s
+.PHONY : src/live555/liveMedia/FramedSource.cpp.s
+
+src/live555/liveMedia/GSMAudioRTPSink.o: src/live555/liveMedia/GSMAudioRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/GSMAudioRTPSink.o
+
+# target to build an object file
+src/live555/liveMedia/GSMAudioRTPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/GSMAudioRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/GSMAudioRTPSink.cpp.o
+
+src/live555/liveMedia/GSMAudioRTPSink.i: src/live555/liveMedia/GSMAudioRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/GSMAudioRTPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/GSMAudioRTPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/GSMAudioRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/GSMAudioRTPSink.cpp.i
+
+src/live555/liveMedia/GSMAudioRTPSink.s: src/live555/liveMedia/GSMAudioRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/GSMAudioRTPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/GSMAudioRTPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/GSMAudioRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/GSMAudioRTPSink.cpp.s
+
+src/live555/liveMedia/GenericMediaServer.o: src/live555/liveMedia/GenericMediaServer.cpp.o
+.PHONY : src/live555/liveMedia/GenericMediaServer.o
+
+# target to build an object file
+src/live555/liveMedia/GenericMediaServer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/GenericMediaServer.cpp.o
+.PHONY : src/live555/liveMedia/GenericMediaServer.cpp.o
+
+src/live555/liveMedia/GenericMediaServer.i: src/live555/liveMedia/GenericMediaServer.cpp.i
+.PHONY : src/live555/liveMedia/GenericMediaServer.i
+
+# target to preprocess a source file
+src/live555/liveMedia/GenericMediaServer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/GenericMediaServer.cpp.i
+.PHONY : src/live555/liveMedia/GenericMediaServer.cpp.i
+
+src/live555/liveMedia/GenericMediaServer.s: src/live555/liveMedia/GenericMediaServer.cpp.s
+.PHONY : src/live555/liveMedia/GenericMediaServer.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/GenericMediaServer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/GenericMediaServer.cpp.s
+.PHONY : src/live555/liveMedia/GenericMediaServer.cpp.s
+
+src/live555/liveMedia/H261VideoRTPSource.o: src/live555/liveMedia/H261VideoRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/H261VideoRTPSource.o
+
+# target to build an object file
+src/live555/liveMedia/H261VideoRTPSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H261VideoRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/H261VideoRTPSource.cpp.o
+
+src/live555/liveMedia/H261VideoRTPSource.i: src/live555/liveMedia/H261VideoRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/H261VideoRTPSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/H261VideoRTPSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H261VideoRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/H261VideoRTPSource.cpp.i
+
+src/live555/liveMedia/H261VideoRTPSource.s: src/live555/liveMedia/H261VideoRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/H261VideoRTPSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/H261VideoRTPSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H261VideoRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/H261VideoRTPSource.cpp.s
+
+src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.o: src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.o
+
+# target to build an object file
+src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp.o
+
+src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.i: src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.i
+
+# target to preprocess a source file
+src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp.i
+
+src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.s: src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp.s
+
+src/live555/liveMedia/H263plusVideoRTPSink.o: src/live555/liveMedia/H263plusVideoRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/H263plusVideoRTPSink.o
+
+# target to build an object file
+src/live555/liveMedia/H263plusVideoRTPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/H263plusVideoRTPSink.cpp.o
+
+src/live555/liveMedia/H263plusVideoRTPSink.i: src/live555/liveMedia/H263plusVideoRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/H263plusVideoRTPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/H263plusVideoRTPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/H263plusVideoRTPSink.cpp.i
+
+src/live555/liveMedia/H263plusVideoRTPSink.s: src/live555/liveMedia/H263plusVideoRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/H263plusVideoRTPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/H263plusVideoRTPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/H263plusVideoRTPSink.cpp.s
+
+src/live555/liveMedia/H263plusVideoRTPSource.o: src/live555/liveMedia/H263plusVideoRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/H263plusVideoRTPSource.o
+
+# target to build an object file
+src/live555/liveMedia/H263plusVideoRTPSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/H263plusVideoRTPSource.cpp.o
+
+src/live555/liveMedia/H263plusVideoRTPSource.i: src/live555/liveMedia/H263plusVideoRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/H263plusVideoRTPSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/H263plusVideoRTPSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/H263plusVideoRTPSource.cpp.i
+
+src/live555/liveMedia/H263plusVideoRTPSource.s: src/live555/liveMedia/H263plusVideoRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/H263plusVideoRTPSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/H263plusVideoRTPSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/H263plusVideoRTPSource.cpp.s
+
+src/live555/liveMedia/H263plusVideoStreamFramer.o: src/live555/liveMedia/H263plusVideoStreamFramer.cpp.o
+.PHONY : src/live555/liveMedia/H263plusVideoStreamFramer.o
+
+# target to build an object file
+src/live555/liveMedia/H263plusVideoStreamFramer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamFramer.cpp.o
+.PHONY : src/live555/liveMedia/H263plusVideoStreamFramer.cpp.o
+
+src/live555/liveMedia/H263plusVideoStreamFramer.i: src/live555/liveMedia/H263plusVideoStreamFramer.cpp.i
+.PHONY : src/live555/liveMedia/H263plusVideoStreamFramer.i
+
+# target to preprocess a source file
+src/live555/liveMedia/H263plusVideoStreamFramer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamFramer.cpp.i
+.PHONY : src/live555/liveMedia/H263plusVideoStreamFramer.cpp.i
+
+src/live555/liveMedia/H263plusVideoStreamFramer.s: src/live555/liveMedia/H263plusVideoStreamFramer.cpp.s
+.PHONY : src/live555/liveMedia/H263plusVideoStreamFramer.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/H263plusVideoStreamFramer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamFramer.cpp.s
+.PHONY : src/live555/liveMedia/H263plusVideoStreamFramer.cpp.s
+
+src/live555/liveMedia/H263plusVideoStreamParser.o: src/live555/liveMedia/H263plusVideoStreamParser.cpp.o
+.PHONY : src/live555/liveMedia/H263plusVideoStreamParser.o
+
+# target to build an object file
+src/live555/liveMedia/H263plusVideoStreamParser.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamParser.cpp.o
+.PHONY : src/live555/liveMedia/H263plusVideoStreamParser.cpp.o
+
+src/live555/liveMedia/H263plusVideoStreamParser.i: src/live555/liveMedia/H263plusVideoStreamParser.cpp.i
+.PHONY : src/live555/liveMedia/H263plusVideoStreamParser.i
+
+# target to preprocess a source file
+src/live555/liveMedia/H263plusVideoStreamParser.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamParser.cpp.i
+.PHONY : src/live555/liveMedia/H263plusVideoStreamParser.cpp.i
+
+src/live555/liveMedia/H263plusVideoStreamParser.s: src/live555/liveMedia/H263plusVideoStreamParser.cpp.s
+.PHONY : src/live555/liveMedia/H263plusVideoStreamParser.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/H263plusVideoStreamParser.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamParser.cpp.s
+.PHONY : src/live555/liveMedia/H263plusVideoStreamParser.cpp.s
+
+src/live555/liveMedia/H264VideoFileServerMediaSubsession.o: src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/H264VideoFileServerMediaSubsession.o
+
+# target to build an object file
+src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp.o
+
+src/live555/liveMedia/H264VideoFileServerMediaSubsession.i: src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/H264VideoFileServerMediaSubsession.i
+
+# target to preprocess a source file
+src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp.i
+
+src/live555/liveMedia/H264VideoFileServerMediaSubsession.s: src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/H264VideoFileServerMediaSubsession.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp.s
+
+src/live555/liveMedia/H264VideoFileSink.o: src/live555/liveMedia/H264VideoFileSink.cpp.o
+.PHONY : src/live555/liveMedia/H264VideoFileSink.o
+
+# target to build an object file
+src/live555/liveMedia/H264VideoFileSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileSink.cpp.o
+.PHONY : src/live555/liveMedia/H264VideoFileSink.cpp.o
+
+src/live555/liveMedia/H264VideoFileSink.i: src/live555/liveMedia/H264VideoFileSink.cpp.i
+.PHONY : src/live555/liveMedia/H264VideoFileSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/H264VideoFileSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileSink.cpp.i
+.PHONY : src/live555/liveMedia/H264VideoFileSink.cpp.i
+
+src/live555/liveMedia/H264VideoFileSink.s: src/live555/liveMedia/H264VideoFileSink.cpp.s
+.PHONY : src/live555/liveMedia/H264VideoFileSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/H264VideoFileSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileSink.cpp.s
+.PHONY : src/live555/liveMedia/H264VideoFileSink.cpp.s
+
+src/live555/liveMedia/H264VideoRTPSink.o: src/live555/liveMedia/H264VideoRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/H264VideoRTPSink.o
+
+# target to build an object file
+src/live555/liveMedia/H264VideoRTPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/H264VideoRTPSink.cpp.o
+
+src/live555/liveMedia/H264VideoRTPSink.i: src/live555/liveMedia/H264VideoRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/H264VideoRTPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/H264VideoRTPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/H264VideoRTPSink.cpp.i
+
+src/live555/liveMedia/H264VideoRTPSink.s: src/live555/liveMedia/H264VideoRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/H264VideoRTPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/H264VideoRTPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/H264VideoRTPSink.cpp.s
+
+src/live555/liveMedia/H264VideoRTPSource.o: src/live555/liveMedia/H264VideoRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/H264VideoRTPSource.o
+
+# target to build an object file
+src/live555/liveMedia/H264VideoRTPSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/H264VideoRTPSource.cpp.o
+
+src/live555/liveMedia/H264VideoRTPSource.i: src/live555/liveMedia/H264VideoRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/H264VideoRTPSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/H264VideoRTPSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/H264VideoRTPSource.cpp.i
+
+src/live555/liveMedia/H264VideoRTPSource.s: src/live555/liveMedia/H264VideoRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/H264VideoRTPSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/H264VideoRTPSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/H264VideoRTPSource.cpp.s
+
+src/live555/liveMedia/H264VideoStreamDiscreteFramer.o: src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp.o
+.PHONY : src/live555/liveMedia/H264VideoStreamDiscreteFramer.o
+
+# target to build an object file
+src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp.o
+.PHONY : src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp.o
+
+src/live555/liveMedia/H264VideoStreamDiscreteFramer.i: src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp.i
+.PHONY : src/live555/liveMedia/H264VideoStreamDiscreteFramer.i
+
+# target to preprocess a source file
+src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp.i
+.PHONY : src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp.i
+
+src/live555/liveMedia/H264VideoStreamDiscreteFramer.s: src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp.s
+.PHONY : src/live555/liveMedia/H264VideoStreamDiscreteFramer.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp.s
+.PHONY : src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp.s
+
+src/live555/liveMedia/H264VideoStreamFramer.o: src/live555/liveMedia/H264VideoStreamFramer.cpp.o
+.PHONY : src/live555/liveMedia/H264VideoStreamFramer.o
+
+# target to build an object file
+src/live555/liveMedia/H264VideoStreamFramer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamFramer.cpp.o
+.PHONY : src/live555/liveMedia/H264VideoStreamFramer.cpp.o
+
+src/live555/liveMedia/H264VideoStreamFramer.i: src/live555/liveMedia/H264VideoStreamFramer.cpp.i
+.PHONY : src/live555/liveMedia/H264VideoStreamFramer.i
+
+# target to preprocess a source file
+src/live555/liveMedia/H264VideoStreamFramer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamFramer.cpp.i
+.PHONY : src/live555/liveMedia/H264VideoStreamFramer.cpp.i
+
+src/live555/liveMedia/H264VideoStreamFramer.s: src/live555/liveMedia/H264VideoStreamFramer.cpp.s
+.PHONY : src/live555/liveMedia/H264VideoStreamFramer.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/H264VideoStreamFramer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamFramer.cpp.s
+.PHONY : src/live555/liveMedia/H264VideoStreamFramer.cpp.s
+
+src/live555/liveMedia/H264or5VideoFileSink.o: src/live555/liveMedia/H264or5VideoFileSink.cpp.o
+.PHONY : src/live555/liveMedia/H264or5VideoFileSink.o
+
+# target to build an object file
+src/live555/liveMedia/H264or5VideoFileSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoFileSink.cpp.o
+.PHONY : src/live555/liveMedia/H264or5VideoFileSink.cpp.o
+
+src/live555/liveMedia/H264or5VideoFileSink.i: src/live555/liveMedia/H264or5VideoFileSink.cpp.i
+.PHONY : src/live555/liveMedia/H264or5VideoFileSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/H264or5VideoFileSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoFileSink.cpp.i
+.PHONY : src/live555/liveMedia/H264or5VideoFileSink.cpp.i
+
+src/live555/liveMedia/H264or5VideoFileSink.s: src/live555/liveMedia/H264or5VideoFileSink.cpp.s
+.PHONY : src/live555/liveMedia/H264or5VideoFileSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/H264or5VideoFileSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoFileSink.cpp.s
+.PHONY : src/live555/liveMedia/H264or5VideoFileSink.cpp.s
+
+src/live555/liveMedia/H264or5VideoRTPSink.o: src/live555/liveMedia/H264or5VideoRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/H264or5VideoRTPSink.o
+
+# target to build an object file
+src/live555/liveMedia/H264or5VideoRTPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/H264or5VideoRTPSink.cpp.o
+
+src/live555/liveMedia/H264or5VideoRTPSink.i: src/live555/liveMedia/H264or5VideoRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/H264or5VideoRTPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/H264or5VideoRTPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/H264or5VideoRTPSink.cpp.i
+
+src/live555/liveMedia/H264or5VideoRTPSink.s: src/live555/liveMedia/H264or5VideoRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/H264or5VideoRTPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/H264or5VideoRTPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/H264or5VideoRTPSink.cpp.s
+
+src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.o: src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp.o
+.PHONY : src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.o
+
+# target to build an object file
+src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp.o
+.PHONY : src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp.o
+
+src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.i: src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp.i
+.PHONY : src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.i
+
+# target to preprocess a source file
+src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp.i
+.PHONY : src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp.i
+
+src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.s: src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp.s
+.PHONY : src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp.s
+.PHONY : src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp.s
+
+src/live555/liveMedia/H264or5VideoStreamFramer.o: src/live555/liveMedia/H264or5VideoStreamFramer.cpp.o
+.PHONY : src/live555/liveMedia/H264or5VideoStreamFramer.o
+
+# target to build an object file
+src/live555/liveMedia/H264or5VideoStreamFramer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamFramer.cpp.o
+.PHONY : src/live555/liveMedia/H264or5VideoStreamFramer.cpp.o
+
+src/live555/liveMedia/H264or5VideoStreamFramer.i: src/live555/liveMedia/H264or5VideoStreamFramer.cpp.i
+.PHONY : src/live555/liveMedia/H264or5VideoStreamFramer.i
+
+# target to preprocess a source file
+src/live555/liveMedia/H264or5VideoStreamFramer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamFramer.cpp.i
+.PHONY : src/live555/liveMedia/H264or5VideoStreamFramer.cpp.i
+
+src/live555/liveMedia/H264or5VideoStreamFramer.s: src/live555/liveMedia/H264or5VideoStreamFramer.cpp.s
+.PHONY : src/live555/liveMedia/H264or5VideoStreamFramer.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/H264or5VideoStreamFramer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamFramer.cpp.s
+.PHONY : src/live555/liveMedia/H264or5VideoStreamFramer.cpp.s
+
+src/live555/liveMedia/H265VideoFileServerMediaSubsession.o: src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/H265VideoFileServerMediaSubsession.o
+
+# target to build an object file
+src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp.o
+
+src/live555/liveMedia/H265VideoFileServerMediaSubsession.i: src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/H265VideoFileServerMediaSubsession.i
+
+# target to preprocess a source file
+src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp.i
+
+src/live555/liveMedia/H265VideoFileServerMediaSubsession.s: src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/H265VideoFileServerMediaSubsession.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp.s
+
+src/live555/liveMedia/H265VideoFileSink.o: src/live555/liveMedia/H265VideoFileSink.cpp.o
+.PHONY : src/live555/liveMedia/H265VideoFileSink.o
+
+# target to build an object file
+src/live555/liveMedia/H265VideoFileSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileSink.cpp.o
+.PHONY : src/live555/liveMedia/H265VideoFileSink.cpp.o
+
+src/live555/liveMedia/H265VideoFileSink.i: src/live555/liveMedia/H265VideoFileSink.cpp.i
+.PHONY : src/live555/liveMedia/H265VideoFileSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/H265VideoFileSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileSink.cpp.i
+.PHONY : src/live555/liveMedia/H265VideoFileSink.cpp.i
+
+src/live555/liveMedia/H265VideoFileSink.s: src/live555/liveMedia/H265VideoFileSink.cpp.s
+.PHONY : src/live555/liveMedia/H265VideoFileSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/H265VideoFileSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileSink.cpp.s
+.PHONY : src/live555/liveMedia/H265VideoFileSink.cpp.s
+
+src/live555/liveMedia/H265VideoRTPSink.o: src/live555/liveMedia/H265VideoRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/H265VideoRTPSink.o
+
+# target to build an object file
+src/live555/liveMedia/H265VideoRTPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/H265VideoRTPSink.cpp.o
+
+src/live555/liveMedia/H265VideoRTPSink.i: src/live555/liveMedia/H265VideoRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/H265VideoRTPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/H265VideoRTPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/H265VideoRTPSink.cpp.i
+
+src/live555/liveMedia/H265VideoRTPSink.s: src/live555/liveMedia/H265VideoRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/H265VideoRTPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/H265VideoRTPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/H265VideoRTPSink.cpp.s
+
+src/live555/liveMedia/H265VideoRTPSource.o: src/live555/liveMedia/H265VideoRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/H265VideoRTPSource.o
+
+# target to build an object file
+src/live555/liveMedia/H265VideoRTPSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/H265VideoRTPSource.cpp.o
+
+src/live555/liveMedia/H265VideoRTPSource.i: src/live555/liveMedia/H265VideoRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/H265VideoRTPSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/H265VideoRTPSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/H265VideoRTPSource.cpp.i
+
+src/live555/liveMedia/H265VideoRTPSource.s: src/live555/liveMedia/H265VideoRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/H265VideoRTPSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/H265VideoRTPSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/H265VideoRTPSource.cpp.s
+
+src/live555/liveMedia/H265VideoStreamDiscreteFramer.o: src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp.o
+.PHONY : src/live555/liveMedia/H265VideoStreamDiscreteFramer.o
+
+# target to build an object file
+src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp.o
+.PHONY : src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp.o
+
+src/live555/liveMedia/H265VideoStreamDiscreteFramer.i: src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp.i
+.PHONY : src/live555/liveMedia/H265VideoStreamDiscreteFramer.i
+
+# target to preprocess a source file
+src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp.i
+.PHONY : src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp.i
+
+src/live555/liveMedia/H265VideoStreamDiscreteFramer.s: src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp.s
+.PHONY : src/live555/liveMedia/H265VideoStreamDiscreteFramer.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp.s
+.PHONY : src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp.s
+
+src/live555/liveMedia/H265VideoStreamFramer.o: src/live555/liveMedia/H265VideoStreamFramer.cpp.o
+.PHONY : src/live555/liveMedia/H265VideoStreamFramer.o
+
+# target to build an object file
+src/live555/liveMedia/H265VideoStreamFramer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamFramer.cpp.o
+.PHONY : src/live555/liveMedia/H265VideoStreamFramer.cpp.o
+
+src/live555/liveMedia/H265VideoStreamFramer.i: src/live555/liveMedia/H265VideoStreamFramer.cpp.i
+.PHONY : src/live555/liveMedia/H265VideoStreamFramer.i
+
+# target to preprocess a source file
+src/live555/liveMedia/H265VideoStreamFramer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamFramer.cpp.i
+.PHONY : src/live555/liveMedia/H265VideoStreamFramer.cpp.i
+
+src/live555/liveMedia/H265VideoStreamFramer.s: src/live555/liveMedia/H265VideoStreamFramer.cpp.s
+.PHONY : src/live555/liveMedia/H265VideoStreamFramer.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/H265VideoStreamFramer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamFramer.cpp.s
+.PHONY : src/live555/liveMedia/H265VideoStreamFramer.cpp.s
+
+src/live555/liveMedia/HLSSegmenter.o: src/live555/liveMedia/HLSSegmenter.cpp.o
+.PHONY : src/live555/liveMedia/HLSSegmenter.o
+
+# target to build an object file
+src/live555/liveMedia/HLSSegmenter.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/HLSSegmenter.cpp.o
+.PHONY : src/live555/liveMedia/HLSSegmenter.cpp.o
+
+src/live555/liveMedia/HLSSegmenter.i: src/live555/liveMedia/HLSSegmenter.cpp.i
+.PHONY : src/live555/liveMedia/HLSSegmenter.i
+
+# target to preprocess a source file
+src/live555/liveMedia/HLSSegmenter.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/HLSSegmenter.cpp.i
+.PHONY : src/live555/liveMedia/HLSSegmenter.cpp.i
+
+src/live555/liveMedia/HLSSegmenter.s: src/live555/liveMedia/HLSSegmenter.cpp.s
+.PHONY : src/live555/liveMedia/HLSSegmenter.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/HLSSegmenter.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/HLSSegmenter.cpp.s
+.PHONY : src/live555/liveMedia/HLSSegmenter.cpp.s
+
+src/live555/liveMedia/HMAC_SHA1.o: src/live555/liveMedia/HMAC_SHA1.cpp.o
+.PHONY : src/live555/liveMedia/HMAC_SHA1.o
+
+# target to build an object file
+src/live555/liveMedia/HMAC_SHA1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/HMAC_SHA1.cpp.o
+.PHONY : src/live555/liveMedia/HMAC_SHA1.cpp.o
+
+src/live555/liveMedia/HMAC_SHA1.i: src/live555/liveMedia/HMAC_SHA1.cpp.i
+.PHONY : src/live555/liveMedia/HMAC_SHA1.i
+
+# target to preprocess a source file
+src/live555/liveMedia/HMAC_SHA1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/HMAC_SHA1.cpp.i
+.PHONY : src/live555/liveMedia/HMAC_SHA1.cpp.i
+
+src/live555/liveMedia/HMAC_SHA1.s: src/live555/liveMedia/HMAC_SHA1.cpp.s
+.PHONY : src/live555/liveMedia/HMAC_SHA1.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/HMAC_SHA1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/HMAC_SHA1.cpp.s
+.PHONY : src/live555/liveMedia/HMAC_SHA1.cpp.s
+
+src/live555/liveMedia/InputFile.o: src/live555/liveMedia/InputFile.cpp.o
+.PHONY : src/live555/liveMedia/InputFile.o
+
+# target to build an object file
+src/live555/liveMedia/InputFile.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/InputFile.cpp.o
+.PHONY : src/live555/liveMedia/InputFile.cpp.o
+
+src/live555/liveMedia/InputFile.i: src/live555/liveMedia/InputFile.cpp.i
+.PHONY : src/live555/liveMedia/InputFile.i
+
+# target to preprocess a source file
+src/live555/liveMedia/InputFile.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/InputFile.cpp.i
+.PHONY : src/live555/liveMedia/InputFile.cpp.i
+
+src/live555/liveMedia/InputFile.s: src/live555/liveMedia/InputFile.cpp.s
+.PHONY : src/live555/liveMedia/InputFile.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/InputFile.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/InputFile.cpp.s
+.PHONY : src/live555/liveMedia/InputFile.cpp.s
+
+src/live555/liveMedia/JPEG2000VideoRTPSink.o: src/live555/liveMedia/JPEG2000VideoRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/JPEG2000VideoRTPSink.o
+
+# target to build an object file
+src/live555/liveMedia/JPEG2000VideoRTPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/JPEG2000VideoRTPSink.cpp.o
+
+src/live555/liveMedia/JPEG2000VideoRTPSink.i: src/live555/liveMedia/JPEG2000VideoRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/JPEG2000VideoRTPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/JPEG2000VideoRTPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/JPEG2000VideoRTPSink.cpp.i
+
+src/live555/liveMedia/JPEG2000VideoRTPSink.s: src/live555/liveMedia/JPEG2000VideoRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/JPEG2000VideoRTPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/JPEG2000VideoRTPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/JPEG2000VideoRTPSink.cpp.s
+
+src/live555/liveMedia/JPEG2000VideoRTPSource.o: src/live555/liveMedia/JPEG2000VideoRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/JPEG2000VideoRTPSource.o
+
+# target to build an object file
+src/live555/liveMedia/JPEG2000VideoRTPSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/JPEG2000VideoRTPSource.cpp.o
+
+src/live555/liveMedia/JPEG2000VideoRTPSource.i: src/live555/liveMedia/JPEG2000VideoRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/JPEG2000VideoRTPSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/JPEG2000VideoRTPSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/JPEG2000VideoRTPSource.cpp.i
+
+src/live555/liveMedia/JPEG2000VideoRTPSource.s: src/live555/liveMedia/JPEG2000VideoRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/JPEG2000VideoRTPSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/JPEG2000VideoRTPSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/JPEG2000VideoRTPSource.cpp.s
+
+src/live555/liveMedia/JPEGVideoRTPSink.o: src/live555/liveMedia/JPEGVideoRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/JPEGVideoRTPSink.o
+
+# target to build an object file
+src/live555/liveMedia/JPEGVideoRTPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/JPEGVideoRTPSink.cpp.o
+
+src/live555/liveMedia/JPEGVideoRTPSink.i: src/live555/liveMedia/JPEGVideoRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/JPEGVideoRTPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/JPEGVideoRTPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/JPEGVideoRTPSink.cpp.i
+
+src/live555/liveMedia/JPEGVideoRTPSink.s: src/live555/liveMedia/JPEGVideoRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/JPEGVideoRTPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/JPEGVideoRTPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/JPEGVideoRTPSink.cpp.s
+
+src/live555/liveMedia/JPEGVideoRTPSource.o: src/live555/liveMedia/JPEGVideoRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/JPEGVideoRTPSource.o
+
+# target to build an object file
+src/live555/liveMedia/JPEGVideoRTPSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/JPEGVideoRTPSource.cpp.o
+
+src/live555/liveMedia/JPEGVideoRTPSource.i: src/live555/liveMedia/JPEGVideoRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/JPEGVideoRTPSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/JPEGVideoRTPSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/JPEGVideoRTPSource.cpp.i
+
+src/live555/liveMedia/JPEGVideoRTPSource.s: src/live555/liveMedia/JPEGVideoRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/JPEGVideoRTPSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/JPEGVideoRTPSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/JPEGVideoRTPSource.cpp.s
+
+src/live555/liveMedia/JPEGVideoSource.o: src/live555/liveMedia/JPEGVideoSource.cpp.o
+.PHONY : src/live555/liveMedia/JPEGVideoSource.o
+
+# target to build an object file
+src/live555/liveMedia/JPEGVideoSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoSource.cpp.o
+.PHONY : src/live555/liveMedia/JPEGVideoSource.cpp.o
+
+src/live555/liveMedia/JPEGVideoSource.i: src/live555/liveMedia/JPEGVideoSource.cpp.i
+.PHONY : src/live555/liveMedia/JPEGVideoSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/JPEGVideoSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoSource.cpp.i
+.PHONY : src/live555/liveMedia/JPEGVideoSource.cpp.i
+
+src/live555/liveMedia/JPEGVideoSource.s: src/live555/liveMedia/JPEGVideoSource.cpp.s
+.PHONY : src/live555/liveMedia/JPEGVideoSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/JPEGVideoSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoSource.cpp.s
+.PHONY : src/live555/liveMedia/JPEGVideoSource.cpp.s
+
+src/live555/liveMedia/Locale.o: src/live555/liveMedia/Locale.cpp.o
+.PHONY : src/live555/liveMedia/Locale.o
+
+# target to build an object file
+src/live555/liveMedia/Locale.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/Locale.cpp.o
+.PHONY : src/live555/liveMedia/Locale.cpp.o
+
+src/live555/liveMedia/Locale.i: src/live555/liveMedia/Locale.cpp.i
+.PHONY : src/live555/liveMedia/Locale.i
+
+# target to preprocess a source file
+src/live555/liveMedia/Locale.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/Locale.cpp.i
+.PHONY : src/live555/liveMedia/Locale.cpp.i
+
+src/live555/liveMedia/Locale.s: src/live555/liveMedia/Locale.cpp.s
+.PHONY : src/live555/liveMedia/Locale.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/Locale.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/Locale.cpp.s
+.PHONY : src/live555/liveMedia/Locale.cpp.s
+
+src/live555/liveMedia/MIKEY.o: src/live555/liveMedia/MIKEY.cpp.o
+.PHONY : src/live555/liveMedia/MIKEY.o
+
+# target to build an object file
+src/live555/liveMedia/MIKEY.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MIKEY.cpp.o
+.PHONY : src/live555/liveMedia/MIKEY.cpp.o
+
+src/live555/liveMedia/MIKEY.i: src/live555/liveMedia/MIKEY.cpp.i
+.PHONY : src/live555/liveMedia/MIKEY.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MIKEY.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MIKEY.cpp.i
+.PHONY : src/live555/liveMedia/MIKEY.cpp.i
+
+src/live555/liveMedia/MIKEY.s: src/live555/liveMedia/MIKEY.cpp.s
+.PHONY : src/live555/liveMedia/MIKEY.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MIKEY.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MIKEY.cpp.s
+.PHONY : src/live555/liveMedia/MIKEY.cpp.s
+
+src/live555/liveMedia/MP3ADU.o: src/live555/liveMedia/MP3ADU.cpp.o
+.PHONY : src/live555/liveMedia/MP3ADU.o
+
+# target to build an object file
+src/live555/liveMedia/MP3ADU.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADU.cpp.o
+.PHONY : src/live555/liveMedia/MP3ADU.cpp.o
+
+src/live555/liveMedia/MP3ADU.i: src/live555/liveMedia/MP3ADU.cpp.i
+.PHONY : src/live555/liveMedia/MP3ADU.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MP3ADU.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADU.cpp.i
+.PHONY : src/live555/liveMedia/MP3ADU.cpp.i
+
+src/live555/liveMedia/MP3ADU.s: src/live555/liveMedia/MP3ADU.cpp.s
+.PHONY : src/live555/liveMedia/MP3ADU.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MP3ADU.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADU.cpp.s
+.PHONY : src/live555/liveMedia/MP3ADU.cpp.s
+
+src/live555/liveMedia/MP3ADURTPSink.o: src/live555/liveMedia/MP3ADURTPSink.cpp.o
+.PHONY : src/live555/liveMedia/MP3ADURTPSink.o
+
+# target to build an object file
+src/live555/liveMedia/MP3ADURTPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSink.cpp.o
+.PHONY : src/live555/liveMedia/MP3ADURTPSink.cpp.o
+
+src/live555/liveMedia/MP3ADURTPSink.i: src/live555/liveMedia/MP3ADURTPSink.cpp.i
+.PHONY : src/live555/liveMedia/MP3ADURTPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MP3ADURTPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSink.cpp.i
+.PHONY : src/live555/liveMedia/MP3ADURTPSink.cpp.i
+
+src/live555/liveMedia/MP3ADURTPSink.s: src/live555/liveMedia/MP3ADURTPSink.cpp.s
+.PHONY : src/live555/liveMedia/MP3ADURTPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MP3ADURTPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSink.cpp.s
+.PHONY : src/live555/liveMedia/MP3ADURTPSink.cpp.s
+
+src/live555/liveMedia/MP3ADURTPSource.o: src/live555/liveMedia/MP3ADURTPSource.cpp.o
+.PHONY : src/live555/liveMedia/MP3ADURTPSource.o
+
+# target to build an object file
+src/live555/liveMedia/MP3ADURTPSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSource.cpp.o
+.PHONY : src/live555/liveMedia/MP3ADURTPSource.cpp.o
+
+src/live555/liveMedia/MP3ADURTPSource.i: src/live555/liveMedia/MP3ADURTPSource.cpp.i
+.PHONY : src/live555/liveMedia/MP3ADURTPSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MP3ADURTPSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSource.cpp.i
+.PHONY : src/live555/liveMedia/MP3ADURTPSource.cpp.i
+
+src/live555/liveMedia/MP3ADURTPSource.s: src/live555/liveMedia/MP3ADURTPSource.cpp.s
+.PHONY : src/live555/liveMedia/MP3ADURTPSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MP3ADURTPSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSource.cpp.s
+.PHONY : src/live555/liveMedia/MP3ADURTPSource.cpp.s
+
+src/live555/liveMedia/MP3ADUTranscoder.o: src/live555/liveMedia/MP3ADUTranscoder.cpp.o
+.PHONY : src/live555/liveMedia/MP3ADUTranscoder.o
+
+# target to build an object file
+src/live555/liveMedia/MP3ADUTranscoder.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUTranscoder.cpp.o
+.PHONY : src/live555/liveMedia/MP3ADUTranscoder.cpp.o
+
+src/live555/liveMedia/MP3ADUTranscoder.i: src/live555/liveMedia/MP3ADUTranscoder.cpp.i
+.PHONY : src/live555/liveMedia/MP3ADUTranscoder.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MP3ADUTranscoder.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUTranscoder.cpp.i
+.PHONY : src/live555/liveMedia/MP3ADUTranscoder.cpp.i
+
+src/live555/liveMedia/MP3ADUTranscoder.s: src/live555/liveMedia/MP3ADUTranscoder.cpp.s
+.PHONY : src/live555/liveMedia/MP3ADUTranscoder.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MP3ADUTranscoder.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUTranscoder.cpp.s
+.PHONY : src/live555/liveMedia/MP3ADUTranscoder.cpp.s
+
+src/live555/liveMedia/MP3ADUdescriptor.o: src/live555/liveMedia/MP3ADUdescriptor.cpp.o
+.PHONY : src/live555/liveMedia/MP3ADUdescriptor.o
+
+# target to build an object file
+src/live555/liveMedia/MP3ADUdescriptor.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUdescriptor.cpp.o
+.PHONY : src/live555/liveMedia/MP3ADUdescriptor.cpp.o
+
+src/live555/liveMedia/MP3ADUdescriptor.i: src/live555/liveMedia/MP3ADUdescriptor.cpp.i
+.PHONY : src/live555/liveMedia/MP3ADUdescriptor.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MP3ADUdescriptor.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUdescriptor.cpp.i
+.PHONY : src/live555/liveMedia/MP3ADUdescriptor.cpp.i
+
+src/live555/liveMedia/MP3ADUdescriptor.s: src/live555/liveMedia/MP3ADUdescriptor.cpp.s
+.PHONY : src/live555/liveMedia/MP3ADUdescriptor.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MP3ADUdescriptor.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUdescriptor.cpp.s
+.PHONY : src/live555/liveMedia/MP3ADUdescriptor.cpp.s
+
+src/live555/liveMedia/MP3ADUinterleaving.o: src/live555/liveMedia/MP3ADUinterleaving.cpp.o
+.PHONY : src/live555/liveMedia/MP3ADUinterleaving.o
+
+# target to build an object file
+src/live555/liveMedia/MP3ADUinterleaving.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUinterleaving.cpp.o
+.PHONY : src/live555/liveMedia/MP3ADUinterleaving.cpp.o
+
+src/live555/liveMedia/MP3ADUinterleaving.i: src/live555/liveMedia/MP3ADUinterleaving.cpp.i
+.PHONY : src/live555/liveMedia/MP3ADUinterleaving.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MP3ADUinterleaving.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUinterleaving.cpp.i
+.PHONY : src/live555/liveMedia/MP3ADUinterleaving.cpp.i
+
+src/live555/liveMedia/MP3ADUinterleaving.s: src/live555/liveMedia/MP3ADUinterleaving.cpp.s
+.PHONY : src/live555/liveMedia/MP3ADUinterleaving.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MP3ADUinterleaving.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUinterleaving.cpp.s
+.PHONY : src/live555/liveMedia/MP3ADUinterleaving.cpp.s
+
+src/live555/liveMedia/MP3AudioFileServerMediaSubsession.o: src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/MP3AudioFileServerMediaSubsession.o
+
+# target to build an object file
+src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp.o
+
+src/live555/liveMedia/MP3AudioFileServerMediaSubsession.i: src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/MP3AudioFileServerMediaSubsession.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp.i
+
+src/live555/liveMedia/MP3AudioFileServerMediaSubsession.s: src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/MP3AudioFileServerMediaSubsession.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp.s
+
+src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.o: src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.o
+
+# target to build an object file
+src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp.o
+
+src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.i: src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp.i
+
+src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.s: src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp.s
+
+src/live555/liveMedia/MP3FileSource.o: src/live555/liveMedia/MP3FileSource.cpp.o
+.PHONY : src/live555/liveMedia/MP3FileSource.o
+
+# target to build an object file
+src/live555/liveMedia/MP3FileSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3FileSource.cpp.o
+.PHONY : src/live555/liveMedia/MP3FileSource.cpp.o
+
+src/live555/liveMedia/MP3FileSource.i: src/live555/liveMedia/MP3FileSource.cpp.i
+.PHONY : src/live555/liveMedia/MP3FileSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MP3FileSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3FileSource.cpp.i
+.PHONY : src/live555/liveMedia/MP3FileSource.cpp.i
+
+src/live555/liveMedia/MP3FileSource.s: src/live555/liveMedia/MP3FileSource.cpp.s
+.PHONY : src/live555/liveMedia/MP3FileSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MP3FileSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3FileSource.cpp.s
+.PHONY : src/live555/liveMedia/MP3FileSource.cpp.s
+
+src/live555/liveMedia/MP3Internals.o: src/live555/liveMedia/MP3Internals.cpp.o
+.PHONY : src/live555/liveMedia/MP3Internals.o
+
+# target to build an object file
+src/live555/liveMedia/MP3Internals.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Internals.cpp.o
+.PHONY : src/live555/liveMedia/MP3Internals.cpp.o
+
+src/live555/liveMedia/MP3Internals.i: src/live555/liveMedia/MP3Internals.cpp.i
+.PHONY : src/live555/liveMedia/MP3Internals.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MP3Internals.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Internals.cpp.i
+.PHONY : src/live555/liveMedia/MP3Internals.cpp.i
+
+src/live555/liveMedia/MP3Internals.s: src/live555/liveMedia/MP3Internals.cpp.s
+.PHONY : src/live555/liveMedia/MP3Internals.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MP3Internals.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Internals.cpp.s
+.PHONY : src/live555/liveMedia/MP3Internals.cpp.s
+
+src/live555/liveMedia/MP3InternalsHuffman.o: src/live555/liveMedia/MP3InternalsHuffman.cpp.o
+.PHONY : src/live555/liveMedia/MP3InternalsHuffman.o
+
+# target to build an object file
+src/live555/liveMedia/MP3InternalsHuffman.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffman.cpp.o
+.PHONY : src/live555/liveMedia/MP3InternalsHuffman.cpp.o
+
+src/live555/liveMedia/MP3InternalsHuffman.i: src/live555/liveMedia/MP3InternalsHuffman.cpp.i
+.PHONY : src/live555/liveMedia/MP3InternalsHuffman.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MP3InternalsHuffman.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffman.cpp.i
+.PHONY : src/live555/liveMedia/MP3InternalsHuffman.cpp.i
+
+src/live555/liveMedia/MP3InternalsHuffman.s: src/live555/liveMedia/MP3InternalsHuffman.cpp.s
+.PHONY : src/live555/liveMedia/MP3InternalsHuffman.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MP3InternalsHuffman.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffman.cpp.s
+.PHONY : src/live555/liveMedia/MP3InternalsHuffman.cpp.s
+
+src/live555/liveMedia/MP3InternalsHuffmanTable.o: src/live555/liveMedia/MP3InternalsHuffmanTable.cpp.o
+.PHONY : src/live555/liveMedia/MP3InternalsHuffmanTable.o
+
+# target to build an object file
+src/live555/liveMedia/MP3InternalsHuffmanTable.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffmanTable.cpp.o
+.PHONY : src/live555/liveMedia/MP3InternalsHuffmanTable.cpp.o
+
+src/live555/liveMedia/MP3InternalsHuffmanTable.i: src/live555/liveMedia/MP3InternalsHuffmanTable.cpp.i
+.PHONY : src/live555/liveMedia/MP3InternalsHuffmanTable.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MP3InternalsHuffmanTable.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffmanTable.cpp.i
+.PHONY : src/live555/liveMedia/MP3InternalsHuffmanTable.cpp.i
+
+src/live555/liveMedia/MP3InternalsHuffmanTable.s: src/live555/liveMedia/MP3InternalsHuffmanTable.cpp.s
+.PHONY : src/live555/liveMedia/MP3InternalsHuffmanTable.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MP3InternalsHuffmanTable.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffmanTable.cpp.s
+.PHONY : src/live555/liveMedia/MP3InternalsHuffmanTable.cpp.s
+
+src/live555/liveMedia/MP3StreamState.o: src/live555/liveMedia/MP3StreamState.cpp.o
+.PHONY : src/live555/liveMedia/MP3StreamState.o
+
+# target to build an object file
+src/live555/liveMedia/MP3StreamState.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3StreamState.cpp.o
+.PHONY : src/live555/liveMedia/MP3StreamState.cpp.o
+
+src/live555/liveMedia/MP3StreamState.i: src/live555/liveMedia/MP3StreamState.cpp.i
+.PHONY : src/live555/liveMedia/MP3StreamState.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MP3StreamState.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3StreamState.cpp.i
+.PHONY : src/live555/liveMedia/MP3StreamState.cpp.i
+
+src/live555/liveMedia/MP3StreamState.s: src/live555/liveMedia/MP3StreamState.cpp.s
+.PHONY : src/live555/liveMedia/MP3StreamState.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MP3StreamState.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3StreamState.cpp.s
+.PHONY : src/live555/liveMedia/MP3StreamState.cpp.s
+
+src/live555/liveMedia/MP3Transcoder.o: src/live555/liveMedia/MP3Transcoder.cpp.o
+.PHONY : src/live555/liveMedia/MP3Transcoder.o
+
+# target to build an object file
+src/live555/liveMedia/MP3Transcoder.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Transcoder.cpp.o
+.PHONY : src/live555/liveMedia/MP3Transcoder.cpp.o
+
+src/live555/liveMedia/MP3Transcoder.i: src/live555/liveMedia/MP3Transcoder.cpp.i
+.PHONY : src/live555/liveMedia/MP3Transcoder.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MP3Transcoder.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Transcoder.cpp.i
+.PHONY : src/live555/liveMedia/MP3Transcoder.cpp.i
+
+src/live555/liveMedia/MP3Transcoder.s: src/live555/liveMedia/MP3Transcoder.cpp.s
+.PHONY : src/live555/liveMedia/MP3Transcoder.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MP3Transcoder.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Transcoder.cpp.s
+.PHONY : src/live555/liveMedia/MP3Transcoder.cpp.s
+
+src/live555/liveMedia/MPEG1or2AudioRTPSink.o: src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/MPEG1or2AudioRTPSink.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp.o
+
+src/live555/liveMedia/MPEG1or2AudioRTPSink.i: src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/MPEG1or2AudioRTPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp.i
+
+src/live555/liveMedia/MPEG1or2AudioRTPSink.s: src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/MPEG1or2AudioRTPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp.s
+
+src/live555/liveMedia/MPEG1or2AudioRTPSource.o: src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/MPEG1or2AudioRTPSource.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp.o
+
+src/live555/liveMedia/MPEG1or2AudioRTPSource.i: src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/MPEG1or2AudioRTPSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp.i
+
+src/live555/liveMedia/MPEG1or2AudioRTPSource.s: src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/MPEG1or2AudioRTPSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp.s
+
+src/live555/liveMedia/MPEG1or2AudioStreamFramer.o: src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp.o
+.PHONY : src/live555/liveMedia/MPEG1or2AudioStreamFramer.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp.o
+.PHONY : src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp.o
+
+src/live555/liveMedia/MPEG1or2AudioStreamFramer.i: src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp.i
+.PHONY : src/live555/liveMedia/MPEG1or2AudioStreamFramer.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp.i
+.PHONY : src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp.i
+
+src/live555/liveMedia/MPEG1or2AudioStreamFramer.s: src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp.s
+.PHONY : src/live555/liveMedia/MPEG1or2AudioStreamFramer.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp.s
+.PHONY : src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp.s
+
+src/live555/liveMedia/MPEG1or2Demux.o: src/live555/liveMedia/MPEG1or2Demux.cpp.o
+.PHONY : src/live555/liveMedia/MPEG1or2Demux.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG1or2Demux.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2Demux.cpp.o
+.PHONY : src/live555/liveMedia/MPEG1or2Demux.cpp.o
+
+src/live555/liveMedia/MPEG1or2Demux.i: src/live555/liveMedia/MPEG1or2Demux.cpp.i
+.PHONY : src/live555/liveMedia/MPEG1or2Demux.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG1or2Demux.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2Demux.cpp.i
+.PHONY : src/live555/liveMedia/MPEG1or2Demux.cpp.i
+
+src/live555/liveMedia/MPEG1or2Demux.s: src/live555/liveMedia/MPEG1or2Demux.cpp.s
+.PHONY : src/live555/liveMedia/MPEG1or2Demux.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG1or2Demux.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2Demux.cpp.s
+.PHONY : src/live555/liveMedia/MPEG1or2Demux.cpp.s
+
+src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.o: src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp.o
+.PHONY : src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp.o
+.PHONY : src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp.o
+
+src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.i: src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp.i
+.PHONY : src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp.i
+.PHONY : src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp.i
+
+src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.s: src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp.s
+.PHONY : src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp.s
+.PHONY : src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp.s
+
+src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.o: src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp.o
+
+src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.i: src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp.i
+
+src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.s: src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp.s
+
+src/live555/liveMedia/MPEG1or2FileServerDemux.o: src/live555/liveMedia/MPEG1or2FileServerDemux.cpp.o
+.PHONY : src/live555/liveMedia/MPEG1or2FileServerDemux.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG1or2FileServerDemux.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2FileServerDemux.cpp.o
+.PHONY : src/live555/liveMedia/MPEG1or2FileServerDemux.cpp.o
+
+src/live555/liveMedia/MPEG1or2FileServerDemux.i: src/live555/liveMedia/MPEG1or2FileServerDemux.cpp.i
+.PHONY : src/live555/liveMedia/MPEG1or2FileServerDemux.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG1or2FileServerDemux.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2FileServerDemux.cpp.i
+.PHONY : src/live555/liveMedia/MPEG1or2FileServerDemux.cpp.i
+
+src/live555/liveMedia/MPEG1or2FileServerDemux.s: src/live555/liveMedia/MPEG1or2FileServerDemux.cpp.s
+.PHONY : src/live555/liveMedia/MPEG1or2FileServerDemux.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG1or2FileServerDemux.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2FileServerDemux.cpp.s
+.PHONY : src/live555/liveMedia/MPEG1or2FileServerDemux.cpp.s
+
+src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.o: src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp.o
+
+src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.i: src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp.i
+
+src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.s: src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp.s
+
+src/live555/liveMedia/MPEG1or2VideoRTPSink.o: src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/MPEG1or2VideoRTPSink.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp.o
+
+src/live555/liveMedia/MPEG1or2VideoRTPSink.i: src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/MPEG1or2VideoRTPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp.i
+
+src/live555/liveMedia/MPEG1or2VideoRTPSink.s: src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/MPEG1or2VideoRTPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp.s
+
+src/live555/liveMedia/MPEG1or2VideoRTPSource.o: src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/MPEG1or2VideoRTPSource.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp.o
+
+src/live555/liveMedia/MPEG1or2VideoRTPSource.i: src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/MPEG1or2VideoRTPSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp.i
+
+src/live555/liveMedia/MPEG1or2VideoRTPSource.s: src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/MPEG1or2VideoRTPSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp.s
+
+src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.o: src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp.o
+.PHONY : src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp.o
+.PHONY : src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp.o
+
+src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.i: src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp.i
+.PHONY : src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp.i
+.PHONY : src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp.i
+
+src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.s: src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp.s
+.PHONY : src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp.s
+.PHONY : src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp.s
+
+src/live555/liveMedia/MPEG1or2VideoStreamFramer.o: src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp.o
+.PHONY : src/live555/liveMedia/MPEG1or2VideoStreamFramer.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp.o
+.PHONY : src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp.o
+
+src/live555/liveMedia/MPEG1or2VideoStreamFramer.i: src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp.i
+.PHONY : src/live555/liveMedia/MPEG1or2VideoStreamFramer.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp.i
+.PHONY : src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp.i
+
+src/live555/liveMedia/MPEG1or2VideoStreamFramer.s: src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp.s
+.PHONY : src/live555/liveMedia/MPEG1or2VideoStreamFramer.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp.s
+.PHONY : src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp.s
+
+src/live555/liveMedia/MPEG2IndexFromTransportStream.o: src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2IndexFromTransportStream.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp.o
+
+src/live555/liveMedia/MPEG2IndexFromTransportStream.i: src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2IndexFromTransportStream.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp.i
+
+src/live555/liveMedia/MPEG2IndexFromTransportStream.s: src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2IndexFromTransportStream.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp.s
+
+src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.o: src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp.o
+
+src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.i: src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp.i
+
+src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.s: src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp.s
+
+src/live555/liveMedia/MPEG2TransportStreamAccumulator.o: src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamAccumulator.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp.o
+
+src/live555/liveMedia/MPEG2TransportStreamAccumulator.i: src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamAccumulator.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp.i
+
+src/live555/liveMedia/MPEG2TransportStreamAccumulator.s: src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamAccumulator.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp.s
+
+src/live555/liveMedia/MPEG2TransportStreamDemux.o: src/live555/liveMedia/MPEG2TransportStreamDemux.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamDemux.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG2TransportStreamDemux.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemux.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamDemux.cpp.o
+
+src/live555/liveMedia/MPEG2TransportStreamDemux.i: src/live555/liveMedia/MPEG2TransportStreamDemux.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamDemux.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG2TransportStreamDemux.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemux.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamDemux.cpp.i
+
+src/live555/liveMedia/MPEG2TransportStreamDemux.s: src/live555/liveMedia/MPEG2TransportStreamDemux.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamDemux.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG2TransportStreamDemux.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemux.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamDemux.cpp.s
+
+src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.o: src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp.o
+
+src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.i: src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp.i
+
+src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.s: src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp.s
+
+src/live555/liveMedia/MPEG2TransportStreamFramer.o: src/live555/liveMedia/MPEG2TransportStreamFramer.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamFramer.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG2TransportStreamFramer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFramer.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamFramer.cpp.o
+
+src/live555/liveMedia/MPEG2TransportStreamFramer.i: src/live555/liveMedia/MPEG2TransportStreamFramer.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamFramer.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG2TransportStreamFramer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFramer.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamFramer.cpp.i
+
+src/live555/liveMedia/MPEG2TransportStreamFramer.s: src/live555/liveMedia/MPEG2TransportStreamFramer.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamFramer.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG2TransportStreamFramer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFramer.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamFramer.cpp.s
+
+src/live555/liveMedia/MPEG2TransportStreamFromESSource.o: src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamFromESSource.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp.o
+
+src/live555/liveMedia/MPEG2TransportStreamFromESSource.i: src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamFromESSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp.i
+
+src/live555/liveMedia/MPEG2TransportStreamFromESSource.s: src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamFromESSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp.s
+
+src/live555/liveMedia/MPEG2TransportStreamFromPESSource.o: src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamFromPESSource.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp.o
+
+src/live555/liveMedia/MPEG2TransportStreamFromPESSource.i: src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamFromPESSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp.i
+
+src/live555/liveMedia/MPEG2TransportStreamFromPESSource.s: src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamFromPESSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp.s
+
+src/live555/liveMedia/MPEG2TransportStreamIndexFile.o: src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamIndexFile.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp.o
+
+src/live555/liveMedia/MPEG2TransportStreamIndexFile.i: src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamIndexFile.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp.i
+
+src/live555/liveMedia/MPEG2TransportStreamIndexFile.s: src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamIndexFile.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp.s
+
+src/live555/liveMedia/MPEG2TransportStreamMultiplexor.o: src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamMultiplexor.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp.o
+
+src/live555/liveMedia/MPEG2TransportStreamMultiplexor.i: src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamMultiplexor.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp.i
+
+src/live555/liveMedia/MPEG2TransportStreamMultiplexor.s: src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamMultiplexor.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp.s
+
+src/live555/liveMedia/MPEG2TransportStreamParser.o: src/live555/liveMedia/MPEG2TransportStreamParser.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamParser.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG2TransportStreamParser.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamParser.cpp.o
+
+src/live555/liveMedia/MPEG2TransportStreamParser.i: src/live555/liveMedia/MPEG2TransportStreamParser.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamParser.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG2TransportStreamParser.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamParser.cpp.i
+
+src/live555/liveMedia/MPEG2TransportStreamParser.s: src/live555/liveMedia/MPEG2TransportStreamParser.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamParser.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG2TransportStreamParser.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamParser.cpp.s
+
+src/live555/liveMedia/MPEG2TransportStreamParser_PAT.o: src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamParser_PAT.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp.o
+
+src/live555/liveMedia/MPEG2TransportStreamParser_PAT.i: src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamParser_PAT.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp.i
+
+src/live555/liveMedia/MPEG2TransportStreamParser_PAT.s: src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamParser_PAT.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp.s
+
+src/live555/liveMedia/MPEG2TransportStreamParser_PMT.o: src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamParser_PMT.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp.o
+
+src/live555/liveMedia/MPEG2TransportStreamParser_PMT.i: src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamParser_PMT.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp.i
+
+src/live555/liveMedia/MPEG2TransportStreamParser_PMT.s: src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamParser_PMT.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp.s
+
+src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.o: src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp.o
+
+src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.i: src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp.i
+
+src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.s: src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp.s
+
+src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.o: src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp.o
+
+src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.i: src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp.i
+
+src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.s: src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp.s
+
+src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.o: src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp.o
+
+src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.i: src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp.i
+
+src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.s: src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp.s
+
+src/live555/liveMedia/MPEG4ESVideoRTPSink.o: src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/MPEG4ESVideoRTPSink.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp.o
+
+src/live555/liveMedia/MPEG4ESVideoRTPSink.i: src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/MPEG4ESVideoRTPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp.i
+
+src/live555/liveMedia/MPEG4ESVideoRTPSink.s: src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/MPEG4ESVideoRTPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp.s
+
+src/live555/liveMedia/MPEG4ESVideoRTPSource.o: src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/MPEG4ESVideoRTPSource.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp.o
+
+src/live555/liveMedia/MPEG4ESVideoRTPSource.i: src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/MPEG4ESVideoRTPSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp.i
+
+src/live555/liveMedia/MPEG4ESVideoRTPSource.s: src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/MPEG4ESVideoRTPSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp.s
+
+src/live555/liveMedia/MPEG4GenericRTPSink.o: src/live555/liveMedia/MPEG4GenericRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/MPEG4GenericRTPSink.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG4GenericRTPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/MPEG4GenericRTPSink.cpp.o
+
+src/live555/liveMedia/MPEG4GenericRTPSink.i: src/live555/liveMedia/MPEG4GenericRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/MPEG4GenericRTPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG4GenericRTPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/MPEG4GenericRTPSink.cpp.i
+
+src/live555/liveMedia/MPEG4GenericRTPSink.s: src/live555/liveMedia/MPEG4GenericRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/MPEG4GenericRTPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG4GenericRTPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/MPEG4GenericRTPSink.cpp.s
+
+src/live555/liveMedia/MPEG4GenericRTPSource.o: src/live555/liveMedia/MPEG4GenericRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/MPEG4GenericRTPSource.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG4GenericRTPSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/MPEG4GenericRTPSource.cpp.o
+
+src/live555/liveMedia/MPEG4GenericRTPSource.i: src/live555/liveMedia/MPEG4GenericRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/MPEG4GenericRTPSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG4GenericRTPSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/MPEG4GenericRTPSource.cpp.i
+
+src/live555/liveMedia/MPEG4GenericRTPSource.s: src/live555/liveMedia/MPEG4GenericRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/MPEG4GenericRTPSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG4GenericRTPSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/MPEG4GenericRTPSource.cpp.s
+
+src/live555/liveMedia/MPEG4LATMAudioRTPSink.o: src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/MPEG4LATMAudioRTPSink.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp.o
+
+src/live555/liveMedia/MPEG4LATMAudioRTPSink.i: src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/MPEG4LATMAudioRTPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp.i
+
+src/live555/liveMedia/MPEG4LATMAudioRTPSink.s: src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/MPEG4LATMAudioRTPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp.s
+
+src/live555/liveMedia/MPEG4LATMAudioRTPSource.o: src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/MPEG4LATMAudioRTPSource.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp.o
+
+src/live555/liveMedia/MPEG4LATMAudioRTPSource.i: src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/MPEG4LATMAudioRTPSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp.i
+
+src/live555/liveMedia/MPEG4LATMAudioRTPSource.s: src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/MPEG4LATMAudioRTPSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp.s
+
+src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.o: src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp.o
+
+src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.i: src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp.i
+
+src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.s: src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp.s
+
+src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.o: src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp.o
+.PHONY : src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp.o
+.PHONY : src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp.o
+
+src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.i: src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp.i
+.PHONY : src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp.i
+.PHONY : src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp.i
+
+src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.s: src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp.s
+.PHONY : src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp.s
+.PHONY : src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp.s
+
+src/live555/liveMedia/MPEG4VideoStreamFramer.o: src/live555/liveMedia/MPEG4VideoStreamFramer.cpp.o
+.PHONY : src/live555/liveMedia/MPEG4VideoStreamFramer.o
+
+# target to build an object file
+src/live555/liveMedia/MPEG4VideoStreamFramer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamFramer.cpp.o
+.PHONY : src/live555/liveMedia/MPEG4VideoStreamFramer.cpp.o
+
+src/live555/liveMedia/MPEG4VideoStreamFramer.i: src/live555/liveMedia/MPEG4VideoStreamFramer.cpp.i
+.PHONY : src/live555/liveMedia/MPEG4VideoStreamFramer.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEG4VideoStreamFramer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamFramer.cpp.i
+.PHONY : src/live555/liveMedia/MPEG4VideoStreamFramer.cpp.i
+
+src/live555/liveMedia/MPEG4VideoStreamFramer.s: src/live555/liveMedia/MPEG4VideoStreamFramer.cpp.s
+.PHONY : src/live555/liveMedia/MPEG4VideoStreamFramer.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEG4VideoStreamFramer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamFramer.cpp.s
+.PHONY : src/live555/liveMedia/MPEG4VideoStreamFramer.cpp.s
+
+src/live555/liveMedia/MPEGVideoStreamFramer.o: src/live555/liveMedia/MPEGVideoStreamFramer.cpp.o
+.PHONY : src/live555/liveMedia/MPEGVideoStreamFramer.o
+
+# target to build an object file
+src/live555/liveMedia/MPEGVideoStreamFramer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamFramer.cpp.o
+.PHONY : src/live555/liveMedia/MPEGVideoStreamFramer.cpp.o
+
+src/live555/liveMedia/MPEGVideoStreamFramer.i: src/live555/liveMedia/MPEGVideoStreamFramer.cpp.i
+.PHONY : src/live555/liveMedia/MPEGVideoStreamFramer.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEGVideoStreamFramer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamFramer.cpp.i
+.PHONY : src/live555/liveMedia/MPEGVideoStreamFramer.cpp.i
+
+src/live555/liveMedia/MPEGVideoStreamFramer.s: src/live555/liveMedia/MPEGVideoStreamFramer.cpp.s
+.PHONY : src/live555/liveMedia/MPEGVideoStreamFramer.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEGVideoStreamFramer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamFramer.cpp.s
+.PHONY : src/live555/liveMedia/MPEGVideoStreamFramer.cpp.s
+
+src/live555/liveMedia/MPEGVideoStreamParser.o: src/live555/liveMedia/MPEGVideoStreamParser.cpp.o
+.PHONY : src/live555/liveMedia/MPEGVideoStreamParser.o
+
+# target to build an object file
+src/live555/liveMedia/MPEGVideoStreamParser.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamParser.cpp.o
+.PHONY : src/live555/liveMedia/MPEGVideoStreamParser.cpp.o
+
+src/live555/liveMedia/MPEGVideoStreamParser.i: src/live555/liveMedia/MPEGVideoStreamParser.cpp.i
+.PHONY : src/live555/liveMedia/MPEGVideoStreamParser.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MPEGVideoStreamParser.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamParser.cpp.i
+.PHONY : src/live555/liveMedia/MPEGVideoStreamParser.cpp.i
+
+src/live555/liveMedia/MPEGVideoStreamParser.s: src/live555/liveMedia/MPEGVideoStreamParser.cpp.s
+.PHONY : src/live555/liveMedia/MPEGVideoStreamParser.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MPEGVideoStreamParser.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamParser.cpp.s
+.PHONY : src/live555/liveMedia/MPEGVideoStreamParser.cpp.s
+
+src/live555/liveMedia/MatroskaDemuxedTrack.o: src/live555/liveMedia/MatroskaDemuxedTrack.cpp.o
+.PHONY : src/live555/liveMedia/MatroskaDemuxedTrack.o
+
+# target to build an object file
+src/live555/liveMedia/MatroskaDemuxedTrack.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaDemuxedTrack.cpp.o
+.PHONY : src/live555/liveMedia/MatroskaDemuxedTrack.cpp.o
+
+src/live555/liveMedia/MatroskaDemuxedTrack.i: src/live555/liveMedia/MatroskaDemuxedTrack.cpp.i
+.PHONY : src/live555/liveMedia/MatroskaDemuxedTrack.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MatroskaDemuxedTrack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaDemuxedTrack.cpp.i
+.PHONY : src/live555/liveMedia/MatroskaDemuxedTrack.cpp.i
+
+src/live555/liveMedia/MatroskaDemuxedTrack.s: src/live555/liveMedia/MatroskaDemuxedTrack.cpp.s
+.PHONY : src/live555/liveMedia/MatroskaDemuxedTrack.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MatroskaDemuxedTrack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaDemuxedTrack.cpp.s
+.PHONY : src/live555/liveMedia/MatroskaDemuxedTrack.cpp.s
+
+src/live555/liveMedia/MatroskaFile.o: src/live555/liveMedia/MatroskaFile.cpp.o
+.PHONY : src/live555/liveMedia/MatroskaFile.o
+
+# target to build an object file
+src/live555/liveMedia/MatroskaFile.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFile.cpp.o
+.PHONY : src/live555/liveMedia/MatroskaFile.cpp.o
+
+src/live555/liveMedia/MatroskaFile.i: src/live555/liveMedia/MatroskaFile.cpp.i
+.PHONY : src/live555/liveMedia/MatroskaFile.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MatroskaFile.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFile.cpp.i
+.PHONY : src/live555/liveMedia/MatroskaFile.cpp.i
+
+src/live555/liveMedia/MatroskaFile.s: src/live555/liveMedia/MatroskaFile.cpp.s
+.PHONY : src/live555/liveMedia/MatroskaFile.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MatroskaFile.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFile.cpp.s
+.PHONY : src/live555/liveMedia/MatroskaFile.cpp.s
+
+src/live555/liveMedia/MatroskaFileParser.o: src/live555/liveMedia/MatroskaFileParser.cpp.o
+.PHONY : src/live555/liveMedia/MatroskaFileParser.o
+
+# target to build an object file
+src/live555/liveMedia/MatroskaFileParser.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileParser.cpp.o
+.PHONY : src/live555/liveMedia/MatroskaFileParser.cpp.o
+
+src/live555/liveMedia/MatroskaFileParser.i: src/live555/liveMedia/MatroskaFileParser.cpp.i
+.PHONY : src/live555/liveMedia/MatroskaFileParser.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MatroskaFileParser.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileParser.cpp.i
+.PHONY : src/live555/liveMedia/MatroskaFileParser.cpp.i
+
+src/live555/liveMedia/MatroskaFileParser.s: src/live555/liveMedia/MatroskaFileParser.cpp.s
+.PHONY : src/live555/liveMedia/MatroskaFileParser.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MatroskaFileParser.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileParser.cpp.s
+.PHONY : src/live555/liveMedia/MatroskaFileParser.cpp.s
+
+src/live555/liveMedia/MatroskaFileServerDemux.o: src/live555/liveMedia/MatroskaFileServerDemux.cpp.o
+.PHONY : src/live555/liveMedia/MatroskaFileServerDemux.o
+
+# target to build an object file
+src/live555/liveMedia/MatroskaFileServerDemux.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerDemux.cpp.o
+.PHONY : src/live555/liveMedia/MatroskaFileServerDemux.cpp.o
+
+src/live555/liveMedia/MatroskaFileServerDemux.i: src/live555/liveMedia/MatroskaFileServerDemux.cpp.i
+.PHONY : src/live555/liveMedia/MatroskaFileServerDemux.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MatroskaFileServerDemux.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerDemux.cpp.i
+.PHONY : src/live555/liveMedia/MatroskaFileServerDemux.cpp.i
+
+src/live555/liveMedia/MatroskaFileServerDemux.s: src/live555/liveMedia/MatroskaFileServerDemux.cpp.s
+.PHONY : src/live555/liveMedia/MatroskaFileServerDemux.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MatroskaFileServerDemux.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerDemux.cpp.s
+.PHONY : src/live555/liveMedia/MatroskaFileServerDemux.cpp.s
+
+src/live555/liveMedia/MatroskaFileServerMediaSubsession.o: src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/MatroskaFileServerMediaSubsession.o
+
+# target to build an object file
+src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp.o
+
+src/live555/liveMedia/MatroskaFileServerMediaSubsession.i: src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/MatroskaFileServerMediaSubsession.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp.i
+
+src/live555/liveMedia/MatroskaFileServerMediaSubsession.s: src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/MatroskaFileServerMediaSubsession.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp.s
+
+src/live555/liveMedia/Media.o: src/live555/liveMedia/Media.cpp.o
+.PHONY : src/live555/liveMedia/Media.o
+
+# target to build an object file
+src/live555/liveMedia/Media.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/Media.cpp.o
+.PHONY : src/live555/liveMedia/Media.cpp.o
+
+src/live555/liveMedia/Media.i: src/live555/liveMedia/Media.cpp.i
+.PHONY : src/live555/liveMedia/Media.i
+
+# target to preprocess a source file
+src/live555/liveMedia/Media.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/Media.cpp.i
+.PHONY : src/live555/liveMedia/Media.cpp.i
+
+src/live555/liveMedia/Media.s: src/live555/liveMedia/Media.cpp.s
+.PHONY : src/live555/liveMedia/Media.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/Media.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/Media.cpp.s
+.PHONY : src/live555/liveMedia/Media.cpp.s
+
+src/live555/liveMedia/MediaSession.o: src/live555/liveMedia/MediaSession.cpp.o
+.PHONY : src/live555/liveMedia/MediaSession.o
+
+# target to build an object file
+src/live555/liveMedia/MediaSession.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSession.cpp.o
+.PHONY : src/live555/liveMedia/MediaSession.cpp.o
+
+src/live555/liveMedia/MediaSession.i: src/live555/liveMedia/MediaSession.cpp.i
+.PHONY : src/live555/liveMedia/MediaSession.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MediaSession.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSession.cpp.i
+.PHONY : src/live555/liveMedia/MediaSession.cpp.i
+
+src/live555/liveMedia/MediaSession.s: src/live555/liveMedia/MediaSession.cpp.s
+.PHONY : src/live555/liveMedia/MediaSession.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MediaSession.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSession.cpp.s
+.PHONY : src/live555/liveMedia/MediaSession.cpp.s
+
+src/live555/liveMedia/MediaSink.o: src/live555/liveMedia/MediaSink.cpp.o
+.PHONY : src/live555/liveMedia/MediaSink.o
+
+# target to build an object file
+src/live555/liveMedia/MediaSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSink.cpp.o
+.PHONY : src/live555/liveMedia/MediaSink.cpp.o
+
+src/live555/liveMedia/MediaSink.i: src/live555/liveMedia/MediaSink.cpp.i
+.PHONY : src/live555/liveMedia/MediaSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MediaSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSink.cpp.i
+.PHONY : src/live555/liveMedia/MediaSink.cpp.i
+
+src/live555/liveMedia/MediaSink.s: src/live555/liveMedia/MediaSink.cpp.s
+.PHONY : src/live555/liveMedia/MediaSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MediaSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSink.cpp.s
+.PHONY : src/live555/liveMedia/MediaSink.cpp.s
+
+src/live555/liveMedia/MediaSource.o: src/live555/liveMedia/MediaSource.cpp.o
+.PHONY : src/live555/liveMedia/MediaSource.o
+
+# target to build an object file
+src/live555/liveMedia/MediaSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSource.cpp.o
+.PHONY : src/live555/liveMedia/MediaSource.cpp.o
+
+src/live555/liveMedia/MediaSource.i: src/live555/liveMedia/MediaSource.cpp.i
+.PHONY : src/live555/liveMedia/MediaSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MediaSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSource.cpp.i
+.PHONY : src/live555/liveMedia/MediaSource.cpp.i
+
+src/live555/liveMedia/MediaSource.s: src/live555/liveMedia/MediaSource.cpp.s
+.PHONY : src/live555/liveMedia/MediaSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MediaSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSource.cpp.s
+.PHONY : src/live555/liveMedia/MediaSource.cpp.s
+
+src/live555/liveMedia/MultiFramedRTPSink.o: src/live555/liveMedia/MultiFramedRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/MultiFramedRTPSink.o
+
+# target to build an object file
+src/live555/liveMedia/MultiFramedRTPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/MultiFramedRTPSink.cpp.o
+
+src/live555/liveMedia/MultiFramedRTPSink.i: src/live555/liveMedia/MultiFramedRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/MultiFramedRTPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MultiFramedRTPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/MultiFramedRTPSink.cpp.i
+
+src/live555/liveMedia/MultiFramedRTPSink.s: src/live555/liveMedia/MultiFramedRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/MultiFramedRTPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MultiFramedRTPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/MultiFramedRTPSink.cpp.s
+
+src/live555/liveMedia/MultiFramedRTPSource.o: src/live555/liveMedia/MultiFramedRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/MultiFramedRTPSource.o
+
+# target to build an object file
+src/live555/liveMedia/MultiFramedRTPSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/MultiFramedRTPSource.cpp.o
+
+src/live555/liveMedia/MultiFramedRTPSource.i: src/live555/liveMedia/MultiFramedRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/MultiFramedRTPSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/MultiFramedRTPSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/MultiFramedRTPSource.cpp.i
+
+src/live555/liveMedia/MultiFramedRTPSource.s: src/live555/liveMedia/MultiFramedRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/MultiFramedRTPSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/MultiFramedRTPSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/MultiFramedRTPSource.cpp.s
+
+src/live555/liveMedia/OggDemuxedTrack.o: src/live555/liveMedia/OggDemuxedTrack.cpp.o
+.PHONY : src/live555/liveMedia/OggDemuxedTrack.o
+
+# target to build an object file
+src/live555/liveMedia/OggDemuxedTrack.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggDemuxedTrack.cpp.o
+.PHONY : src/live555/liveMedia/OggDemuxedTrack.cpp.o
+
+src/live555/liveMedia/OggDemuxedTrack.i: src/live555/liveMedia/OggDemuxedTrack.cpp.i
+.PHONY : src/live555/liveMedia/OggDemuxedTrack.i
+
+# target to preprocess a source file
+src/live555/liveMedia/OggDemuxedTrack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggDemuxedTrack.cpp.i
+.PHONY : src/live555/liveMedia/OggDemuxedTrack.cpp.i
+
+src/live555/liveMedia/OggDemuxedTrack.s: src/live555/liveMedia/OggDemuxedTrack.cpp.s
+.PHONY : src/live555/liveMedia/OggDemuxedTrack.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/OggDemuxedTrack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggDemuxedTrack.cpp.s
+.PHONY : src/live555/liveMedia/OggDemuxedTrack.cpp.s
+
+src/live555/liveMedia/OggFile.o: src/live555/liveMedia/OggFile.cpp.o
+.PHONY : src/live555/liveMedia/OggFile.o
+
+# target to build an object file
+src/live555/liveMedia/OggFile.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFile.cpp.o
+.PHONY : src/live555/liveMedia/OggFile.cpp.o
+
+src/live555/liveMedia/OggFile.i: src/live555/liveMedia/OggFile.cpp.i
+.PHONY : src/live555/liveMedia/OggFile.i
+
+# target to preprocess a source file
+src/live555/liveMedia/OggFile.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFile.cpp.i
+.PHONY : src/live555/liveMedia/OggFile.cpp.i
+
+src/live555/liveMedia/OggFile.s: src/live555/liveMedia/OggFile.cpp.s
+.PHONY : src/live555/liveMedia/OggFile.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/OggFile.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFile.cpp.s
+.PHONY : src/live555/liveMedia/OggFile.cpp.s
+
+src/live555/liveMedia/OggFileParser.o: src/live555/liveMedia/OggFileParser.cpp.o
+.PHONY : src/live555/liveMedia/OggFileParser.o
+
+# target to build an object file
+src/live555/liveMedia/OggFileParser.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileParser.cpp.o
+.PHONY : src/live555/liveMedia/OggFileParser.cpp.o
+
+src/live555/liveMedia/OggFileParser.i: src/live555/liveMedia/OggFileParser.cpp.i
+.PHONY : src/live555/liveMedia/OggFileParser.i
+
+# target to preprocess a source file
+src/live555/liveMedia/OggFileParser.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileParser.cpp.i
+.PHONY : src/live555/liveMedia/OggFileParser.cpp.i
+
+src/live555/liveMedia/OggFileParser.s: src/live555/liveMedia/OggFileParser.cpp.s
+.PHONY : src/live555/liveMedia/OggFileParser.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/OggFileParser.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileParser.cpp.s
+.PHONY : src/live555/liveMedia/OggFileParser.cpp.s
+
+src/live555/liveMedia/OggFileServerDemux.o: src/live555/liveMedia/OggFileServerDemux.cpp.o
+.PHONY : src/live555/liveMedia/OggFileServerDemux.o
+
+# target to build an object file
+src/live555/liveMedia/OggFileServerDemux.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerDemux.cpp.o
+.PHONY : src/live555/liveMedia/OggFileServerDemux.cpp.o
+
+src/live555/liveMedia/OggFileServerDemux.i: src/live555/liveMedia/OggFileServerDemux.cpp.i
+.PHONY : src/live555/liveMedia/OggFileServerDemux.i
+
+# target to preprocess a source file
+src/live555/liveMedia/OggFileServerDemux.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerDemux.cpp.i
+.PHONY : src/live555/liveMedia/OggFileServerDemux.cpp.i
+
+src/live555/liveMedia/OggFileServerDemux.s: src/live555/liveMedia/OggFileServerDemux.cpp.s
+.PHONY : src/live555/liveMedia/OggFileServerDemux.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/OggFileServerDemux.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerDemux.cpp.s
+.PHONY : src/live555/liveMedia/OggFileServerDemux.cpp.s
+
+src/live555/liveMedia/OggFileServerMediaSubsession.o: src/live555/liveMedia/OggFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/OggFileServerMediaSubsession.o
+
+# target to build an object file
+src/live555/liveMedia/OggFileServerMediaSubsession.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/OggFileServerMediaSubsession.cpp.o
+
+src/live555/liveMedia/OggFileServerMediaSubsession.i: src/live555/liveMedia/OggFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/OggFileServerMediaSubsession.i
+
+# target to preprocess a source file
+src/live555/liveMedia/OggFileServerMediaSubsession.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/OggFileServerMediaSubsession.cpp.i
+
+src/live555/liveMedia/OggFileServerMediaSubsession.s: src/live555/liveMedia/OggFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/OggFileServerMediaSubsession.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/OggFileServerMediaSubsession.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/OggFileServerMediaSubsession.cpp.s
+
+src/live555/liveMedia/OggFileSink.o: src/live555/liveMedia/OggFileSink.cpp.o
+.PHONY : src/live555/liveMedia/OggFileSink.o
+
+# target to build an object file
+src/live555/liveMedia/OggFileSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileSink.cpp.o
+.PHONY : src/live555/liveMedia/OggFileSink.cpp.o
+
+src/live555/liveMedia/OggFileSink.i: src/live555/liveMedia/OggFileSink.cpp.i
+.PHONY : src/live555/liveMedia/OggFileSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/OggFileSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileSink.cpp.i
+.PHONY : src/live555/liveMedia/OggFileSink.cpp.i
+
+src/live555/liveMedia/OggFileSink.s: src/live555/liveMedia/OggFileSink.cpp.s
+.PHONY : src/live555/liveMedia/OggFileSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/OggFileSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileSink.cpp.s
+.PHONY : src/live555/liveMedia/OggFileSink.cpp.s
+
+src/live555/liveMedia/OnDemandServerMediaSubsession.o: src/live555/liveMedia/OnDemandServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/OnDemandServerMediaSubsession.o
+
+# target to build an object file
+src/live555/liveMedia/OnDemandServerMediaSubsession.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/OnDemandServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/OnDemandServerMediaSubsession.cpp.o
+
+src/live555/liveMedia/OnDemandServerMediaSubsession.i: src/live555/liveMedia/OnDemandServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/OnDemandServerMediaSubsession.i
+
+# target to preprocess a source file
+src/live555/liveMedia/OnDemandServerMediaSubsession.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/OnDemandServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/OnDemandServerMediaSubsession.cpp.i
+
+src/live555/liveMedia/OnDemandServerMediaSubsession.s: src/live555/liveMedia/OnDemandServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/OnDemandServerMediaSubsession.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/OnDemandServerMediaSubsession.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/OnDemandServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/OnDemandServerMediaSubsession.cpp.s
+
+src/live555/liveMedia/OutputFile.o: src/live555/liveMedia/OutputFile.cpp.o
+.PHONY : src/live555/liveMedia/OutputFile.o
+
+# target to build an object file
+src/live555/liveMedia/OutputFile.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/OutputFile.cpp.o
+.PHONY : src/live555/liveMedia/OutputFile.cpp.o
+
+src/live555/liveMedia/OutputFile.i: src/live555/liveMedia/OutputFile.cpp.i
+.PHONY : src/live555/liveMedia/OutputFile.i
+
+# target to preprocess a source file
+src/live555/liveMedia/OutputFile.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/OutputFile.cpp.i
+.PHONY : src/live555/liveMedia/OutputFile.cpp.i
+
+src/live555/liveMedia/OutputFile.s: src/live555/liveMedia/OutputFile.cpp.s
+.PHONY : src/live555/liveMedia/OutputFile.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/OutputFile.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/OutputFile.cpp.s
+.PHONY : src/live555/liveMedia/OutputFile.cpp.s
+
+src/live555/liveMedia/PassiveServerMediaSubsession.o: src/live555/liveMedia/PassiveServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/PassiveServerMediaSubsession.o
+
+# target to build an object file
+src/live555/liveMedia/PassiveServerMediaSubsession.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/PassiveServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/PassiveServerMediaSubsession.cpp.o
+
+src/live555/liveMedia/PassiveServerMediaSubsession.i: src/live555/liveMedia/PassiveServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/PassiveServerMediaSubsession.i
+
+# target to preprocess a source file
+src/live555/liveMedia/PassiveServerMediaSubsession.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/PassiveServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/PassiveServerMediaSubsession.cpp.i
+
+src/live555/liveMedia/PassiveServerMediaSubsession.s: src/live555/liveMedia/PassiveServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/PassiveServerMediaSubsession.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/PassiveServerMediaSubsession.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/PassiveServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/PassiveServerMediaSubsession.cpp.s
+
+src/live555/liveMedia/ProxyServerMediaSession.o: src/live555/liveMedia/ProxyServerMediaSession.cpp.o
+.PHONY : src/live555/liveMedia/ProxyServerMediaSession.o
+
+# target to build an object file
+src/live555/liveMedia/ProxyServerMediaSession.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/ProxyServerMediaSession.cpp.o
+.PHONY : src/live555/liveMedia/ProxyServerMediaSession.cpp.o
+
+src/live555/liveMedia/ProxyServerMediaSession.i: src/live555/liveMedia/ProxyServerMediaSession.cpp.i
+.PHONY : src/live555/liveMedia/ProxyServerMediaSession.i
+
+# target to preprocess a source file
+src/live555/liveMedia/ProxyServerMediaSession.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/ProxyServerMediaSession.cpp.i
+.PHONY : src/live555/liveMedia/ProxyServerMediaSession.cpp.i
+
+src/live555/liveMedia/ProxyServerMediaSession.s: src/live555/liveMedia/ProxyServerMediaSession.cpp.s
+.PHONY : src/live555/liveMedia/ProxyServerMediaSession.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/ProxyServerMediaSession.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/ProxyServerMediaSession.cpp.s
+.PHONY : src/live555/liveMedia/ProxyServerMediaSession.cpp.s
+
+src/live555/liveMedia/QCELPAudioRTPSource.o: src/live555/liveMedia/QCELPAudioRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/QCELPAudioRTPSource.o
+
+# target to build an object file
+src/live555/liveMedia/QCELPAudioRTPSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/QCELPAudioRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/QCELPAudioRTPSource.cpp.o
+
+src/live555/liveMedia/QCELPAudioRTPSource.i: src/live555/liveMedia/QCELPAudioRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/QCELPAudioRTPSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/QCELPAudioRTPSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/QCELPAudioRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/QCELPAudioRTPSource.cpp.i
+
+src/live555/liveMedia/QCELPAudioRTPSource.s: src/live555/liveMedia/QCELPAudioRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/QCELPAudioRTPSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/QCELPAudioRTPSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/QCELPAudioRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/QCELPAudioRTPSource.cpp.s
+
+src/live555/liveMedia/QuickTimeFileSink.o: src/live555/liveMedia/QuickTimeFileSink.cpp.o
+.PHONY : src/live555/liveMedia/QuickTimeFileSink.o
+
+# target to build an object file
+src/live555/liveMedia/QuickTimeFileSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeFileSink.cpp.o
+.PHONY : src/live555/liveMedia/QuickTimeFileSink.cpp.o
+
+src/live555/liveMedia/QuickTimeFileSink.i: src/live555/liveMedia/QuickTimeFileSink.cpp.i
+.PHONY : src/live555/liveMedia/QuickTimeFileSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/QuickTimeFileSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeFileSink.cpp.i
+.PHONY : src/live555/liveMedia/QuickTimeFileSink.cpp.i
+
+src/live555/liveMedia/QuickTimeFileSink.s: src/live555/liveMedia/QuickTimeFileSink.cpp.s
+.PHONY : src/live555/liveMedia/QuickTimeFileSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/QuickTimeFileSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeFileSink.cpp.s
+.PHONY : src/live555/liveMedia/QuickTimeFileSink.cpp.s
+
+src/live555/liveMedia/QuickTimeGenericRTPSource.o: src/live555/liveMedia/QuickTimeGenericRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/QuickTimeGenericRTPSource.o
+
+# target to build an object file
+src/live555/liveMedia/QuickTimeGenericRTPSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeGenericRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/QuickTimeGenericRTPSource.cpp.o
+
+src/live555/liveMedia/QuickTimeGenericRTPSource.i: src/live555/liveMedia/QuickTimeGenericRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/QuickTimeGenericRTPSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/QuickTimeGenericRTPSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeGenericRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/QuickTimeGenericRTPSource.cpp.i
+
+src/live555/liveMedia/QuickTimeGenericRTPSource.s: src/live555/liveMedia/QuickTimeGenericRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/QuickTimeGenericRTPSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/QuickTimeGenericRTPSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeGenericRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/QuickTimeGenericRTPSource.cpp.s
+
+src/live555/liveMedia/RTCP.o: src/live555/liveMedia/RTCP.cpp.o
+.PHONY : src/live555/liveMedia/RTCP.o
+
+# target to build an object file
+src/live555/liveMedia/RTCP.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTCP.cpp.o
+.PHONY : src/live555/liveMedia/RTCP.cpp.o
+
+src/live555/liveMedia/RTCP.i: src/live555/liveMedia/RTCP.cpp.i
+.PHONY : src/live555/liveMedia/RTCP.i
+
+# target to preprocess a source file
+src/live555/liveMedia/RTCP.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTCP.cpp.i
+.PHONY : src/live555/liveMedia/RTCP.cpp.i
+
+src/live555/liveMedia/RTCP.s: src/live555/liveMedia/RTCP.cpp.s
+.PHONY : src/live555/liveMedia/RTCP.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/RTCP.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTCP.cpp.s
+.PHONY : src/live555/liveMedia/RTCP.cpp.s
+
+src/live555/liveMedia/RTPInterface.o: src/live555/liveMedia/RTPInterface.cpp.o
+.PHONY : src/live555/liveMedia/RTPInterface.o
+
+# target to build an object file
+src/live555/liveMedia/RTPInterface.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPInterface.cpp.o
+.PHONY : src/live555/liveMedia/RTPInterface.cpp.o
+
+src/live555/liveMedia/RTPInterface.i: src/live555/liveMedia/RTPInterface.cpp.i
+.PHONY : src/live555/liveMedia/RTPInterface.i
+
+# target to preprocess a source file
+src/live555/liveMedia/RTPInterface.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPInterface.cpp.i
+.PHONY : src/live555/liveMedia/RTPInterface.cpp.i
+
+src/live555/liveMedia/RTPInterface.s: src/live555/liveMedia/RTPInterface.cpp.s
+.PHONY : src/live555/liveMedia/RTPInterface.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/RTPInterface.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPInterface.cpp.s
+.PHONY : src/live555/liveMedia/RTPInterface.cpp.s
+
+src/live555/liveMedia/RTPSink.o: src/live555/liveMedia/RTPSink.cpp.o
+.PHONY : src/live555/liveMedia/RTPSink.o
+
+# target to build an object file
+src/live555/liveMedia/RTPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSink.cpp.o
+.PHONY : src/live555/liveMedia/RTPSink.cpp.o
+
+src/live555/liveMedia/RTPSink.i: src/live555/liveMedia/RTPSink.cpp.i
+.PHONY : src/live555/liveMedia/RTPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/RTPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSink.cpp.i
+.PHONY : src/live555/liveMedia/RTPSink.cpp.i
+
+src/live555/liveMedia/RTPSink.s: src/live555/liveMedia/RTPSink.cpp.s
+.PHONY : src/live555/liveMedia/RTPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/RTPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSink.cpp.s
+.PHONY : src/live555/liveMedia/RTPSink.cpp.s
+
+src/live555/liveMedia/RTPSource.o: src/live555/liveMedia/RTPSource.cpp.o
+.PHONY : src/live555/liveMedia/RTPSource.o
+
+# target to build an object file
+src/live555/liveMedia/RTPSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSource.cpp.o
+.PHONY : src/live555/liveMedia/RTPSource.cpp.o
+
+src/live555/liveMedia/RTPSource.i: src/live555/liveMedia/RTPSource.cpp.i
+.PHONY : src/live555/liveMedia/RTPSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/RTPSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSource.cpp.i
+.PHONY : src/live555/liveMedia/RTPSource.cpp.i
+
+src/live555/liveMedia/RTPSource.s: src/live555/liveMedia/RTPSource.cpp.s
+.PHONY : src/live555/liveMedia/RTPSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/RTPSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSource.cpp.s
+.PHONY : src/live555/liveMedia/RTPSource.cpp.s
+
+src/live555/liveMedia/RTSPClient.o: src/live555/liveMedia/RTSPClient.cpp.o
+.PHONY : src/live555/liveMedia/RTSPClient.o
+
+# target to build an object file
+src/live555/liveMedia/RTSPClient.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPClient.cpp.o
+.PHONY : src/live555/liveMedia/RTSPClient.cpp.o
+
+src/live555/liveMedia/RTSPClient.i: src/live555/liveMedia/RTSPClient.cpp.i
+.PHONY : src/live555/liveMedia/RTSPClient.i
+
+# target to preprocess a source file
+src/live555/liveMedia/RTSPClient.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPClient.cpp.i
+.PHONY : src/live555/liveMedia/RTSPClient.cpp.i
+
+src/live555/liveMedia/RTSPClient.s: src/live555/liveMedia/RTSPClient.cpp.s
+.PHONY : src/live555/liveMedia/RTSPClient.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/RTSPClient.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPClient.cpp.s
+.PHONY : src/live555/liveMedia/RTSPClient.cpp.s
+
+src/live555/liveMedia/RTSPCommon.o: src/live555/liveMedia/RTSPCommon.cpp.o
+.PHONY : src/live555/liveMedia/RTSPCommon.o
+
+# target to build an object file
+src/live555/liveMedia/RTSPCommon.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPCommon.cpp.o
+.PHONY : src/live555/liveMedia/RTSPCommon.cpp.o
+
+src/live555/liveMedia/RTSPCommon.i: src/live555/liveMedia/RTSPCommon.cpp.i
+.PHONY : src/live555/liveMedia/RTSPCommon.i
+
+# target to preprocess a source file
+src/live555/liveMedia/RTSPCommon.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPCommon.cpp.i
+.PHONY : src/live555/liveMedia/RTSPCommon.cpp.i
+
+src/live555/liveMedia/RTSPCommon.s: src/live555/liveMedia/RTSPCommon.cpp.s
+.PHONY : src/live555/liveMedia/RTSPCommon.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/RTSPCommon.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPCommon.cpp.s
+.PHONY : src/live555/liveMedia/RTSPCommon.cpp.s
+
+src/live555/liveMedia/RTSPRegisterSender.o: src/live555/liveMedia/RTSPRegisterSender.cpp.o
+.PHONY : src/live555/liveMedia/RTSPRegisterSender.o
+
+# target to build an object file
+src/live555/liveMedia/RTSPRegisterSender.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPRegisterSender.cpp.o
+.PHONY : src/live555/liveMedia/RTSPRegisterSender.cpp.o
+
+src/live555/liveMedia/RTSPRegisterSender.i: src/live555/liveMedia/RTSPRegisterSender.cpp.i
+.PHONY : src/live555/liveMedia/RTSPRegisterSender.i
+
+# target to preprocess a source file
+src/live555/liveMedia/RTSPRegisterSender.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPRegisterSender.cpp.i
+.PHONY : src/live555/liveMedia/RTSPRegisterSender.cpp.i
+
+src/live555/liveMedia/RTSPRegisterSender.s: src/live555/liveMedia/RTSPRegisterSender.cpp.s
+.PHONY : src/live555/liveMedia/RTSPRegisterSender.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/RTSPRegisterSender.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPRegisterSender.cpp.s
+.PHONY : src/live555/liveMedia/RTSPRegisterSender.cpp.s
+
+src/live555/liveMedia/RTSPServer.o: src/live555/liveMedia/RTSPServer.cpp.o
+.PHONY : src/live555/liveMedia/RTSPServer.o
+
+# target to build an object file
+src/live555/liveMedia/RTSPServer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServer.cpp.o
+.PHONY : src/live555/liveMedia/RTSPServer.cpp.o
+
+src/live555/liveMedia/RTSPServer.i: src/live555/liveMedia/RTSPServer.cpp.i
+.PHONY : src/live555/liveMedia/RTSPServer.i
+
+# target to preprocess a source file
+src/live555/liveMedia/RTSPServer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServer.cpp.i
+.PHONY : src/live555/liveMedia/RTSPServer.cpp.i
+
+src/live555/liveMedia/RTSPServer.s: src/live555/liveMedia/RTSPServer.cpp.s
+.PHONY : src/live555/liveMedia/RTSPServer.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/RTSPServer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServer.cpp.s
+.PHONY : src/live555/liveMedia/RTSPServer.cpp.s
+
+src/live555/liveMedia/RTSPServerRegister.o: src/live555/liveMedia/RTSPServerRegister.cpp.o
+.PHONY : src/live555/liveMedia/RTSPServerRegister.o
+
+# target to build an object file
+src/live555/liveMedia/RTSPServerRegister.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServerRegister.cpp.o
+.PHONY : src/live555/liveMedia/RTSPServerRegister.cpp.o
+
+src/live555/liveMedia/RTSPServerRegister.i: src/live555/liveMedia/RTSPServerRegister.cpp.i
+.PHONY : src/live555/liveMedia/RTSPServerRegister.i
+
+# target to preprocess a source file
+src/live555/liveMedia/RTSPServerRegister.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServerRegister.cpp.i
+.PHONY : src/live555/liveMedia/RTSPServerRegister.cpp.i
+
+src/live555/liveMedia/RTSPServerRegister.s: src/live555/liveMedia/RTSPServerRegister.cpp.s
+.PHONY : src/live555/liveMedia/RTSPServerRegister.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/RTSPServerRegister.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServerRegister.cpp.s
+.PHONY : src/live555/liveMedia/RTSPServerRegister.cpp.s
+
+src/live555/liveMedia/RawVideoRTPSink.o: src/live555/liveMedia/RawVideoRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/RawVideoRTPSink.o
+
+# target to build an object file
+src/live555/liveMedia/RawVideoRTPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/RawVideoRTPSink.cpp.o
+
+src/live555/liveMedia/RawVideoRTPSink.i: src/live555/liveMedia/RawVideoRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/RawVideoRTPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/RawVideoRTPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/RawVideoRTPSink.cpp.i
+
+src/live555/liveMedia/RawVideoRTPSink.s: src/live555/liveMedia/RawVideoRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/RawVideoRTPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/RawVideoRTPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/RawVideoRTPSink.cpp.s
+
+src/live555/liveMedia/RawVideoRTPSource.o: src/live555/liveMedia/RawVideoRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/RawVideoRTPSource.o
+
+# target to build an object file
+src/live555/liveMedia/RawVideoRTPSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/RawVideoRTPSource.cpp.o
+
+src/live555/liveMedia/RawVideoRTPSource.i: src/live555/liveMedia/RawVideoRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/RawVideoRTPSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/RawVideoRTPSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/RawVideoRTPSource.cpp.i
+
+src/live555/liveMedia/RawVideoRTPSource.s: src/live555/liveMedia/RawVideoRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/RawVideoRTPSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/RawVideoRTPSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/RawVideoRTPSource.cpp.s
+
+src/live555/liveMedia/SIPClient.o: src/live555/liveMedia/SIPClient.cpp.o
+.PHONY : src/live555/liveMedia/SIPClient.o
+
+# target to build an object file
+src/live555/liveMedia/SIPClient.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/SIPClient.cpp.o
+.PHONY : src/live555/liveMedia/SIPClient.cpp.o
+
+src/live555/liveMedia/SIPClient.i: src/live555/liveMedia/SIPClient.cpp.i
+.PHONY : src/live555/liveMedia/SIPClient.i
+
+# target to preprocess a source file
+src/live555/liveMedia/SIPClient.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/SIPClient.cpp.i
+.PHONY : src/live555/liveMedia/SIPClient.cpp.i
+
+src/live555/liveMedia/SIPClient.s: src/live555/liveMedia/SIPClient.cpp.s
+.PHONY : src/live555/liveMedia/SIPClient.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/SIPClient.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/SIPClient.cpp.s
+.PHONY : src/live555/liveMedia/SIPClient.cpp.s
+
+src/live555/liveMedia/SRTPCryptographicContext.o: src/live555/liveMedia/SRTPCryptographicContext.cpp.o
+.PHONY : src/live555/liveMedia/SRTPCryptographicContext.o
+
+# target to build an object file
+src/live555/liveMedia/SRTPCryptographicContext.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/SRTPCryptographicContext.cpp.o
+.PHONY : src/live555/liveMedia/SRTPCryptographicContext.cpp.o
+
+src/live555/liveMedia/SRTPCryptographicContext.i: src/live555/liveMedia/SRTPCryptographicContext.cpp.i
+.PHONY : src/live555/liveMedia/SRTPCryptographicContext.i
+
+# target to preprocess a source file
+src/live555/liveMedia/SRTPCryptographicContext.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/SRTPCryptographicContext.cpp.i
+.PHONY : src/live555/liveMedia/SRTPCryptographicContext.cpp.i
+
+src/live555/liveMedia/SRTPCryptographicContext.s: src/live555/liveMedia/SRTPCryptographicContext.cpp.s
+.PHONY : src/live555/liveMedia/SRTPCryptographicContext.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/SRTPCryptographicContext.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/SRTPCryptographicContext.cpp.s
+.PHONY : src/live555/liveMedia/SRTPCryptographicContext.cpp.s
+
+src/live555/liveMedia/ServerMediaSession.o: src/live555/liveMedia/ServerMediaSession.cpp.o
+.PHONY : src/live555/liveMedia/ServerMediaSession.o
+
+# target to build an object file
+src/live555/liveMedia/ServerMediaSession.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/ServerMediaSession.cpp.o
+.PHONY : src/live555/liveMedia/ServerMediaSession.cpp.o
+
+src/live555/liveMedia/ServerMediaSession.i: src/live555/liveMedia/ServerMediaSession.cpp.i
+.PHONY : src/live555/liveMedia/ServerMediaSession.i
+
+# target to preprocess a source file
+src/live555/liveMedia/ServerMediaSession.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/ServerMediaSession.cpp.i
+.PHONY : src/live555/liveMedia/ServerMediaSession.cpp.i
+
+src/live555/liveMedia/ServerMediaSession.s: src/live555/liveMedia/ServerMediaSession.cpp.s
+.PHONY : src/live555/liveMedia/ServerMediaSession.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/ServerMediaSession.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/ServerMediaSession.cpp.s
+.PHONY : src/live555/liveMedia/ServerMediaSession.cpp.s
+
+src/live555/liveMedia/SimpleRTPSink.o: src/live555/liveMedia/SimpleRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/SimpleRTPSink.o
+
+# target to build an object file
+src/live555/liveMedia/SimpleRTPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/SimpleRTPSink.cpp.o
+
+src/live555/liveMedia/SimpleRTPSink.i: src/live555/liveMedia/SimpleRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/SimpleRTPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/SimpleRTPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/SimpleRTPSink.cpp.i
+
+src/live555/liveMedia/SimpleRTPSink.s: src/live555/liveMedia/SimpleRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/SimpleRTPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/SimpleRTPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/SimpleRTPSink.cpp.s
+
+src/live555/liveMedia/SimpleRTPSource.o: src/live555/liveMedia/SimpleRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/SimpleRTPSource.o
+
+# target to build an object file
+src/live555/liveMedia/SimpleRTPSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/SimpleRTPSource.cpp.o
+
+src/live555/liveMedia/SimpleRTPSource.i: src/live555/liveMedia/SimpleRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/SimpleRTPSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/SimpleRTPSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/SimpleRTPSource.cpp.i
+
+src/live555/liveMedia/SimpleRTPSource.s: src/live555/liveMedia/SimpleRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/SimpleRTPSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/SimpleRTPSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/SimpleRTPSource.cpp.s
+
+src/live555/liveMedia/StreamParser.o: src/live555/liveMedia/StreamParser.cpp.o
+.PHONY : src/live555/liveMedia/StreamParser.o
+
+# target to build an object file
+src/live555/liveMedia/StreamParser.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamParser.cpp.o
+.PHONY : src/live555/liveMedia/StreamParser.cpp.o
+
+src/live555/liveMedia/StreamParser.i: src/live555/liveMedia/StreamParser.cpp.i
+.PHONY : src/live555/liveMedia/StreamParser.i
+
+# target to preprocess a source file
+src/live555/liveMedia/StreamParser.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamParser.cpp.i
+.PHONY : src/live555/liveMedia/StreamParser.cpp.i
+
+src/live555/liveMedia/StreamParser.s: src/live555/liveMedia/StreamParser.cpp.s
+.PHONY : src/live555/liveMedia/StreamParser.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/StreamParser.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamParser.cpp.s
+.PHONY : src/live555/liveMedia/StreamParser.cpp.s
+
+src/live555/liveMedia/StreamReplicator.o: src/live555/liveMedia/StreamReplicator.cpp.o
+.PHONY : src/live555/liveMedia/StreamReplicator.o
+
+# target to build an object file
+src/live555/liveMedia/StreamReplicator.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamReplicator.cpp.o
+.PHONY : src/live555/liveMedia/StreamReplicator.cpp.o
+
+src/live555/liveMedia/StreamReplicator.i: src/live555/liveMedia/StreamReplicator.cpp.i
+.PHONY : src/live555/liveMedia/StreamReplicator.i
+
+# target to preprocess a source file
+src/live555/liveMedia/StreamReplicator.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamReplicator.cpp.i
+.PHONY : src/live555/liveMedia/StreamReplicator.cpp.i
+
+src/live555/liveMedia/StreamReplicator.s: src/live555/liveMedia/StreamReplicator.cpp.s
+.PHONY : src/live555/liveMedia/StreamReplicator.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/StreamReplicator.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamReplicator.cpp.s
+.PHONY : src/live555/liveMedia/StreamReplicator.cpp.s
+
+src/live555/liveMedia/T140TextRTPSink.o: src/live555/liveMedia/T140TextRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/T140TextRTPSink.o
+
+# target to build an object file
+src/live555/liveMedia/T140TextRTPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/T140TextRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/T140TextRTPSink.cpp.o
+
+src/live555/liveMedia/T140TextRTPSink.i: src/live555/liveMedia/T140TextRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/T140TextRTPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/T140TextRTPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/T140TextRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/T140TextRTPSink.cpp.i
+
+src/live555/liveMedia/T140TextRTPSink.s: src/live555/liveMedia/T140TextRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/T140TextRTPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/T140TextRTPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/T140TextRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/T140TextRTPSink.cpp.s
+
+src/live555/liveMedia/TLSState.o: src/live555/liveMedia/TLSState.cpp.o
+.PHONY : src/live555/liveMedia/TLSState.o
+
+# target to build an object file
+src/live555/liveMedia/TLSState.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/TLSState.cpp.o
+.PHONY : src/live555/liveMedia/TLSState.cpp.o
+
+src/live555/liveMedia/TLSState.i: src/live555/liveMedia/TLSState.cpp.i
+.PHONY : src/live555/liveMedia/TLSState.i
+
+# target to preprocess a source file
+src/live555/liveMedia/TLSState.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/TLSState.cpp.i
+.PHONY : src/live555/liveMedia/TLSState.cpp.i
+
+src/live555/liveMedia/TLSState.s: src/live555/liveMedia/TLSState.cpp.s
+.PHONY : src/live555/liveMedia/TLSState.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/TLSState.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/TLSState.cpp.s
+.PHONY : src/live555/liveMedia/TLSState.cpp.s
+
+src/live555/liveMedia/TextRTPSink.o: src/live555/liveMedia/TextRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/TextRTPSink.o
+
+# target to build an object file
+src/live555/liveMedia/TextRTPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/TextRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/TextRTPSink.cpp.o
+
+src/live555/liveMedia/TextRTPSink.i: src/live555/liveMedia/TextRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/TextRTPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/TextRTPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/TextRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/TextRTPSink.cpp.i
+
+src/live555/liveMedia/TextRTPSink.s: src/live555/liveMedia/TextRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/TextRTPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/TextRTPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/TextRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/TextRTPSink.cpp.s
+
+src/live555/liveMedia/TheoraVideoRTPSink.o: src/live555/liveMedia/TheoraVideoRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/TheoraVideoRTPSink.o
+
+# target to build an object file
+src/live555/liveMedia/TheoraVideoRTPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/TheoraVideoRTPSink.cpp.o
+
+src/live555/liveMedia/TheoraVideoRTPSink.i: src/live555/liveMedia/TheoraVideoRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/TheoraVideoRTPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/TheoraVideoRTPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/TheoraVideoRTPSink.cpp.i
+
+src/live555/liveMedia/TheoraVideoRTPSink.s: src/live555/liveMedia/TheoraVideoRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/TheoraVideoRTPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/TheoraVideoRTPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/TheoraVideoRTPSink.cpp.s
+
+src/live555/liveMedia/TheoraVideoRTPSource.o: src/live555/liveMedia/TheoraVideoRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/TheoraVideoRTPSource.o
+
+# target to build an object file
+src/live555/liveMedia/TheoraVideoRTPSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/TheoraVideoRTPSource.cpp.o
+
+src/live555/liveMedia/TheoraVideoRTPSource.i: src/live555/liveMedia/TheoraVideoRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/TheoraVideoRTPSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/TheoraVideoRTPSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/TheoraVideoRTPSource.cpp.i
+
+src/live555/liveMedia/TheoraVideoRTPSource.s: src/live555/liveMedia/TheoraVideoRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/TheoraVideoRTPSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/TheoraVideoRTPSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/TheoraVideoRTPSource.cpp.s
+
+src/live555/liveMedia/VP8VideoRTPSink.o: src/live555/liveMedia/VP8VideoRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/VP8VideoRTPSink.o
+
+# target to build an object file
+src/live555/liveMedia/VP8VideoRTPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/VP8VideoRTPSink.cpp.o
+
+src/live555/liveMedia/VP8VideoRTPSink.i: src/live555/liveMedia/VP8VideoRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/VP8VideoRTPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/VP8VideoRTPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/VP8VideoRTPSink.cpp.i
+
+src/live555/liveMedia/VP8VideoRTPSink.s: src/live555/liveMedia/VP8VideoRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/VP8VideoRTPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/VP8VideoRTPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/VP8VideoRTPSink.cpp.s
+
+src/live555/liveMedia/VP8VideoRTPSource.o: src/live555/liveMedia/VP8VideoRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/VP8VideoRTPSource.o
+
+# target to build an object file
+src/live555/liveMedia/VP8VideoRTPSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/VP8VideoRTPSource.cpp.o
+
+src/live555/liveMedia/VP8VideoRTPSource.i: src/live555/liveMedia/VP8VideoRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/VP8VideoRTPSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/VP8VideoRTPSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/VP8VideoRTPSource.cpp.i
+
+src/live555/liveMedia/VP8VideoRTPSource.s: src/live555/liveMedia/VP8VideoRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/VP8VideoRTPSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/VP8VideoRTPSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/VP8VideoRTPSource.cpp.s
+
+src/live555/liveMedia/VP9VideoRTPSink.o: src/live555/liveMedia/VP9VideoRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/VP9VideoRTPSink.o
+
+# target to build an object file
+src/live555/liveMedia/VP9VideoRTPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/VP9VideoRTPSink.cpp.o
+
+src/live555/liveMedia/VP9VideoRTPSink.i: src/live555/liveMedia/VP9VideoRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/VP9VideoRTPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/VP9VideoRTPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/VP9VideoRTPSink.cpp.i
+
+src/live555/liveMedia/VP9VideoRTPSink.s: src/live555/liveMedia/VP9VideoRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/VP9VideoRTPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/VP9VideoRTPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/VP9VideoRTPSink.cpp.s
+
+src/live555/liveMedia/VP9VideoRTPSource.o: src/live555/liveMedia/VP9VideoRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/VP9VideoRTPSource.o
+
+# target to build an object file
+src/live555/liveMedia/VP9VideoRTPSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/VP9VideoRTPSource.cpp.o
+
+src/live555/liveMedia/VP9VideoRTPSource.i: src/live555/liveMedia/VP9VideoRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/VP9VideoRTPSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/VP9VideoRTPSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/VP9VideoRTPSource.cpp.i
+
+src/live555/liveMedia/VP9VideoRTPSource.s: src/live555/liveMedia/VP9VideoRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/VP9VideoRTPSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/VP9VideoRTPSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/VP9VideoRTPSource.cpp.s
+
+src/live555/liveMedia/VideoRTPSink.o: src/live555/liveMedia/VideoRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/VideoRTPSink.o
+
+# target to build an object file
+src/live555/liveMedia/VideoRTPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/VideoRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/VideoRTPSink.cpp.o
+
+src/live555/liveMedia/VideoRTPSink.i: src/live555/liveMedia/VideoRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/VideoRTPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/VideoRTPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/VideoRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/VideoRTPSink.cpp.i
+
+src/live555/liveMedia/VideoRTPSink.s: src/live555/liveMedia/VideoRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/VideoRTPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/VideoRTPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/VideoRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/VideoRTPSink.cpp.s
+
+src/live555/liveMedia/VorbisAudioRTPSink.o: src/live555/liveMedia/VorbisAudioRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/VorbisAudioRTPSink.o
+
+# target to build an object file
+src/live555/liveMedia/VorbisAudioRTPSink.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSink.cpp.o
+.PHONY : src/live555/liveMedia/VorbisAudioRTPSink.cpp.o
+
+src/live555/liveMedia/VorbisAudioRTPSink.i: src/live555/liveMedia/VorbisAudioRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/VorbisAudioRTPSink.i
+
+# target to preprocess a source file
+src/live555/liveMedia/VorbisAudioRTPSink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSink.cpp.i
+.PHONY : src/live555/liveMedia/VorbisAudioRTPSink.cpp.i
+
+src/live555/liveMedia/VorbisAudioRTPSink.s: src/live555/liveMedia/VorbisAudioRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/VorbisAudioRTPSink.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/VorbisAudioRTPSink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSink.cpp.s
+.PHONY : src/live555/liveMedia/VorbisAudioRTPSink.cpp.s
+
+src/live555/liveMedia/VorbisAudioRTPSource.o: src/live555/liveMedia/VorbisAudioRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/VorbisAudioRTPSource.o
+
+# target to build an object file
+src/live555/liveMedia/VorbisAudioRTPSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSource.cpp.o
+.PHONY : src/live555/liveMedia/VorbisAudioRTPSource.cpp.o
+
+src/live555/liveMedia/VorbisAudioRTPSource.i: src/live555/liveMedia/VorbisAudioRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/VorbisAudioRTPSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/VorbisAudioRTPSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSource.cpp.i
+.PHONY : src/live555/liveMedia/VorbisAudioRTPSource.cpp.i
+
+src/live555/liveMedia/VorbisAudioRTPSource.s: src/live555/liveMedia/VorbisAudioRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/VorbisAudioRTPSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/VorbisAudioRTPSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSource.cpp.s
+.PHONY : src/live555/liveMedia/VorbisAudioRTPSource.cpp.s
+
+src/live555/liveMedia/WAVAudioFileServerMediaSubsession.o: src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/WAVAudioFileServerMediaSubsession.o
+
+# target to build an object file
+src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp.o
+.PHONY : src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp.o
+
+src/live555/liveMedia/WAVAudioFileServerMediaSubsession.i: src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/WAVAudioFileServerMediaSubsession.i
+
+# target to preprocess a source file
+src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp.i
+.PHONY : src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp.i
+
+src/live555/liveMedia/WAVAudioFileServerMediaSubsession.s: src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/WAVAudioFileServerMediaSubsession.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp.s
+.PHONY : src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp.s
+
+src/live555/liveMedia/WAVAudioFileSource.o: src/live555/liveMedia/WAVAudioFileSource.cpp.o
+.PHONY : src/live555/liveMedia/WAVAudioFileSource.o
+
+# target to build an object file
+src/live555/liveMedia/WAVAudioFileSource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileSource.cpp.o
+.PHONY : src/live555/liveMedia/WAVAudioFileSource.cpp.o
+
+src/live555/liveMedia/WAVAudioFileSource.i: src/live555/liveMedia/WAVAudioFileSource.cpp.i
+.PHONY : src/live555/liveMedia/WAVAudioFileSource.i
+
+# target to preprocess a source file
+src/live555/liveMedia/WAVAudioFileSource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileSource.cpp.i
+.PHONY : src/live555/liveMedia/WAVAudioFileSource.cpp.i
+
+src/live555/liveMedia/WAVAudioFileSource.s: src/live555/liveMedia/WAVAudioFileSource.cpp.s
+.PHONY : src/live555/liveMedia/WAVAudioFileSource.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/WAVAudioFileSource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileSource.cpp.s
+.PHONY : src/live555/liveMedia/WAVAudioFileSource.cpp.s
+
+src/live555/liveMedia/ourMD5.o: src/live555/liveMedia/ourMD5.cpp.o
+.PHONY : src/live555/liveMedia/ourMD5.o
+
+# target to build an object file
+src/live555/liveMedia/ourMD5.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/ourMD5.cpp.o
+.PHONY : src/live555/liveMedia/ourMD5.cpp.o
+
+src/live555/liveMedia/ourMD5.i: src/live555/liveMedia/ourMD5.cpp.i
+.PHONY : src/live555/liveMedia/ourMD5.i
+
+# target to preprocess a source file
+src/live555/liveMedia/ourMD5.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/ourMD5.cpp.i
+.PHONY : src/live555/liveMedia/ourMD5.cpp.i
+
+src/live555/liveMedia/ourMD5.s: src/live555/liveMedia/ourMD5.cpp.s
+.PHONY : src/live555/liveMedia/ourMD5.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/ourMD5.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/ourMD5.cpp.s
+.PHONY : src/live555/liveMedia/ourMD5.cpp.s
+
+src/live555/liveMedia/rtcp_from_spec.o: src/live555/liveMedia/rtcp_from_spec.c.o
+.PHONY : src/live555/liveMedia/rtcp_from_spec.o
+
+# target to build an object file
+src/live555/liveMedia/rtcp_from_spec.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/rtcp_from_spec.c.o
+.PHONY : src/live555/liveMedia/rtcp_from_spec.c.o
+
+src/live555/liveMedia/rtcp_from_spec.i: src/live555/liveMedia/rtcp_from_spec.c.i
+.PHONY : src/live555/liveMedia/rtcp_from_spec.i
+
+# target to preprocess a source file
+src/live555/liveMedia/rtcp_from_spec.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/rtcp_from_spec.c.i
+.PHONY : src/live555/liveMedia/rtcp_from_spec.c.i
+
+src/live555/liveMedia/rtcp_from_spec.s: src/live555/liveMedia/rtcp_from_spec.c.s
+.PHONY : src/live555/liveMedia/rtcp_from_spec.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/rtcp_from_spec.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/rtcp_from_spec.c.s
+.PHONY : src/live555/liveMedia/rtcp_from_spec.c.s
+
+src/live555/liveMedia/uLawAudioFilter.o: src/live555/liveMedia/uLawAudioFilter.cpp.o
+.PHONY : src/live555/liveMedia/uLawAudioFilter.o
+
+# target to build an object file
+src/live555/liveMedia/uLawAudioFilter.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/uLawAudioFilter.cpp.o
+.PHONY : src/live555/liveMedia/uLawAudioFilter.cpp.o
+
+src/live555/liveMedia/uLawAudioFilter.i: src/live555/liveMedia/uLawAudioFilter.cpp.i
+.PHONY : src/live555/liveMedia/uLawAudioFilter.i
+
+# target to preprocess a source file
+src/live555/liveMedia/uLawAudioFilter.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/uLawAudioFilter.cpp.i
+.PHONY : src/live555/liveMedia/uLawAudioFilter.cpp.i
+
+src/live555/liveMedia/uLawAudioFilter.s: src/live555/liveMedia/uLawAudioFilter.cpp.s
+.PHONY : src/live555/liveMedia/uLawAudioFilter.s
+
+# target to generate assembly for a file
+src/live555/liveMedia/uLawAudioFilter.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/rtspClient.dir/build.make CMakeFiles/rtspClient.dir/src/live555/liveMedia/uLawAudioFilter.cpp.s
+.PHONY : src/live555/liveMedia/uLawAudioFilter.cpp.s
+
 src/pySV.o: src/pySV.cpp.o
 .PHONY : src/pySV.o
 
@@ -189,6 +4917,597 @@ help:
 	@echo "... src/TestLive264.o"
 	@echo "... src/TestLive264.i"
 	@echo "... src/TestLive264.s"
+	@echo "... src/live555/BasicUsageEnvironment/BasicHashTable.o"
+	@echo "... src/live555/BasicUsageEnvironment/BasicHashTable.i"
+	@echo "... src/live555/BasicUsageEnvironment/BasicHashTable.s"
+	@echo "... src/live555/BasicUsageEnvironment/BasicTaskScheduler.o"
+	@echo "... src/live555/BasicUsageEnvironment/BasicTaskScheduler.i"
+	@echo "... src/live555/BasicUsageEnvironment/BasicTaskScheduler.s"
+	@echo "... src/live555/BasicUsageEnvironment/BasicTaskScheduler0.o"
+	@echo "... src/live555/BasicUsageEnvironment/BasicTaskScheduler0.i"
+	@echo "... src/live555/BasicUsageEnvironment/BasicTaskScheduler0.s"
+	@echo "... src/live555/BasicUsageEnvironment/BasicUsageEnvironment.o"
+	@echo "... src/live555/BasicUsageEnvironment/BasicUsageEnvironment.i"
+	@echo "... src/live555/BasicUsageEnvironment/BasicUsageEnvironment.s"
+	@echo "... src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.o"
+	@echo "... src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.i"
+	@echo "... src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.s"
+	@echo "... src/live555/BasicUsageEnvironment/DelayQueue.o"
+	@echo "... src/live555/BasicUsageEnvironment/DelayQueue.i"
+	@echo "... src/live555/BasicUsageEnvironment/DelayQueue.s"
+	@echo "... src/live555/UsageEnvironment/HashTable.o"
+	@echo "... src/live555/UsageEnvironment/HashTable.i"
+	@echo "... src/live555/UsageEnvironment/HashTable.s"
+	@echo "... src/live555/UsageEnvironment/UsageEnvironment.o"
+	@echo "... src/live555/UsageEnvironment/UsageEnvironment.i"
+	@echo "... src/live555/UsageEnvironment/UsageEnvironment.s"
+	@echo "... src/live555/UsageEnvironment/strDup.o"
+	@echo "... src/live555/UsageEnvironment/strDup.i"
+	@echo "... src/live555/UsageEnvironment/strDup.s"
+	@echo "... src/live555/groupsock/GroupEId.o"
+	@echo "... src/live555/groupsock/GroupEId.i"
+	@echo "... src/live555/groupsock/GroupEId.s"
+	@echo "... src/live555/groupsock/Groupsock.o"
+	@echo "... src/live555/groupsock/Groupsock.i"
+	@echo "... src/live555/groupsock/Groupsock.s"
+	@echo "... src/live555/groupsock/GroupsockHelper.o"
+	@echo "... src/live555/groupsock/GroupsockHelper.i"
+	@echo "... src/live555/groupsock/GroupsockHelper.s"
+	@echo "... src/live555/groupsock/IOHandlers.o"
+	@echo "... src/live555/groupsock/IOHandlers.i"
+	@echo "... src/live555/groupsock/IOHandlers.s"
+	@echo "... src/live555/groupsock/NetAddress.o"
+	@echo "... src/live555/groupsock/NetAddress.i"
+	@echo "... src/live555/groupsock/NetAddress.s"
+	@echo "... src/live555/groupsock/NetInterface.o"
+	@echo "... src/live555/groupsock/NetInterface.i"
+	@echo "... src/live555/groupsock/NetInterface.s"
+	@echo "... src/live555/groupsock/inet.o"
+	@echo "... src/live555/groupsock/inet.i"
+	@echo "... src/live555/groupsock/inet.s"
+	@echo "... src/live555/liveMedia/AC3AudioFileServerMediaSubsession.o"
+	@echo "... src/live555/liveMedia/AC3AudioFileServerMediaSubsession.i"
+	@echo "... src/live555/liveMedia/AC3AudioFileServerMediaSubsession.s"
+	@echo "... src/live555/liveMedia/AC3AudioRTPSink.o"
+	@echo "... src/live555/liveMedia/AC3AudioRTPSink.i"
+	@echo "... src/live555/liveMedia/AC3AudioRTPSink.s"
+	@echo "... src/live555/liveMedia/AC3AudioRTPSource.o"
+	@echo "... src/live555/liveMedia/AC3AudioRTPSource.i"
+	@echo "... src/live555/liveMedia/AC3AudioRTPSource.s"
+	@echo "... src/live555/liveMedia/AC3AudioStreamFramer.o"
+	@echo "... src/live555/liveMedia/AC3AudioStreamFramer.i"
+	@echo "... src/live555/liveMedia/AC3AudioStreamFramer.s"
+	@echo "... src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.o"
+	@echo "... src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.i"
+	@echo "... src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.s"
+	@echo "... src/live555/liveMedia/ADTSAudioFileSource.o"
+	@echo "... src/live555/liveMedia/ADTSAudioFileSource.i"
+	@echo "... src/live555/liveMedia/ADTSAudioFileSource.s"
+	@echo "... src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.o"
+	@echo "... src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.i"
+	@echo "... src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.s"
+	@echo "... src/live555/liveMedia/AMRAudioFileServerMediaSubsession.o"
+	@echo "... src/live555/liveMedia/AMRAudioFileServerMediaSubsession.i"
+	@echo "... src/live555/liveMedia/AMRAudioFileServerMediaSubsession.s"
+	@echo "... src/live555/liveMedia/AMRAudioFileSink.o"
+	@echo "... src/live555/liveMedia/AMRAudioFileSink.i"
+	@echo "... src/live555/liveMedia/AMRAudioFileSink.s"
+	@echo "... src/live555/liveMedia/AMRAudioFileSource.o"
+	@echo "... src/live555/liveMedia/AMRAudioFileSource.i"
+	@echo "... src/live555/liveMedia/AMRAudioFileSource.s"
+	@echo "... src/live555/liveMedia/AMRAudioRTPSink.o"
+	@echo "... src/live555/liveMedia/AMRAudioRTPSink.i"
+	@echo "... src/live555/liveMedia/AMRAudioRTPSink.s"
+	@echo "... src/live555/liveMedia/AMRAudioRTPSource.o"
+	@echo "... src/live555/liveMedia/AMRAudioRTPSource.i"
+	@echo "... src/live555/liveMedia/AMRAudioRTPSource.s"
+	@echo "... src/live555/liveMedia/AMRAudioSource.o"
+	@echo "... src/live555/liveMedia/AMRAudioSource.i"
+	@echo "... src/live555/liveMedia/AMRAudioSource.s"
+	@echo "... src/live555/liveMedia/AVIFileSink.o"
+	@echo "... src/live555/liveMedia/AVIFileSink.i"
+	@echo "... src/live555/liveMedia/AVIFileSink.s"
+	@echo "... src/live555/liveMedia/AudioInputDevice.o"
+	@echo "... src/live555/liveMedia/AudioInputDevice.i"
+	@echo "... src/live555/liveMedia/AudioInputDevice.s"
+	@echo "... src/live555/liveMedia/AudioRTPSink.o"
+	@echo "... src/live555/liveMedia/AudioRTPSink.i"
+	@echo "... src/live555/liveMedia/AudioRTPSink.s"
+	@echo "... src/live555/liveMedia/Base64.o"
+	@echo "... src/live555/liveMedia/Base64.i"
+	@echo "... src/live555/liveMedia/Base64.s"
+	@echo "... src/live555/liveMedia/BasicUDPSink.o"
+	@echo "... src/live555/liveMedia/BasicUDPSink.i"
+	@echo "... src/live555/liveMedia/BasicUDPSink.s"
+	@echo "... src/live555/liveMedia/BasicUDPSource.o"
+	@echo "... src/live555/liveMedia/BasicUDPSource.i"
+	@echo "... src/live555/liveMedia/BasicUDPSource.s"
+	@echo "... src/live555/liveMedia/BitVector.o"
+	@echo "... src/live555/liveMedia/BitVector.i"
+	@echo "... src/live555/liveMedia/BitVector.s"
+	@echo "... src/live555/liveMedia/ByteStreamFileSource.o"
+	@echo "... src/live555/liveMedia/ByteStreamFileSource.i"
+	@echo "... src/live555/liveMedia/ByteStreamFileSource.s"
+	@echo "... src/live555/liveMedia/ByteStreamMemoryBufferSource.o"
+	@echo "... src/live555/liveMedia/ByteStreamMemoryBufferSource.i"
+	@echo "... src/live555/liveMedia/ByteStreamMemoryBufferSource.s"
+	@echo "... src/live555/liveMedia/ByteStreamMultiFileSource.o"
+	@echo "... src/live555/liveMedia/ByteStreamMultiFileSource.i"
+	@echo "... src/live555/liveMedia/ByteStreamMultiFileSource.s"
+	@echo "... src/live555/liveMedia/DVVideoFileServerMediaSubsession.o"
+	@echo "... src/live555/liveMedia/DVVideoFileServerMediaSubsession.i"
+	@echo "... src/live555/liveMedia/DVVideoFileServerMediaSubsession.s"
+	@echo "... src/live555/liveMedia/DVVideoRTPSink.o"
+	@echo "... src/live555/liveMedia/DVVideoRTPSink.i"
+	@echo "... src/live555/liveMedia/DVVideoRTPSink.s"
+	@echo "... src/live555/liveMedia/DVVideoRTPSource.o"
+	@echo "... src/live555/liveMedia/DVVideoRTPSource.i"
+	@echo "... src/live555/liveMedia/DVVideoRTPSource.s"
+	@echo "... src/live555/liveMedia/DVVideoStreamFramer.o"
+	@echo "... src/live555/liveMedia/DVVideoStreamFramer.i"
+	@echo "... src/live555/liveMedia/DVVideoStreamFramer.s"
+	@echo "... src/live555/liveMedia/DeviceSource.o"
+	@echo "... src/live555/liveMedia/DeviceSource.i"
+	@echo "... src/live555/liveMedia/DeviceSource.s"
+	@echo "... src/live555/liveMedia/DigestAuthentication.o"
+	@echo "... src/live555/liveMedia/DigestAuthentication.i"
+	@echo "... src/live555/liveMedia/DigestAuthentication.s"
+	@echo "... src/live555/liveMedia/EBMLNumber.o"
+	@echo "... src/live555/liveMedia/EBMLNumber.i"
+	@echo "... src/live555/liveMedia/EBMLNumber.s"
+	@echo "... src/live555/liveMedia/FileServerMediaSubsession.o"
+	@echo "... src/live555/liveMedia/FileServerMediaSubsession.i"
+	@echo "... src/live555/liveMedia/FileServerMediaSubsession.s"
+	@echo "... src/live555/liveMedia/FileSink.o"
+	@echo "... src/live555/liveMedia/FileSink.i"
+	@echo "... src/live555/liveMedia/FileSink.s"
+	@echo "... src/live555/liveMedia/FramedFileSource.o"
+	@echo "... src/live555/liveMedia/FramedFileSource.i"
+	@echo "... src/live555/liveMedia/FramedFileSource.s"
+	@echo "... src/live555/liveMedia/FramedFilter.o"
+	@echo "... src/live555/liveMedia/FramedFilter.i"
+	@echo "... src/live555/liveMedia/FramedFilter.s"
+	@echo "... src/live555/liveMedia/FramedSource.o"
+	@echo "... src/live555/liveMedia/FramedSource.i"
+	@echo "... src/live555/liveMedia/FramedSource.s"
+	@echo "... src/live555/liveMedia/GSMAudioRTPSink.o"
+	@echo "... src/live555/liveMedia/GSMAudioRTPSink.i"
+	@echo "... src/live555/liveMedia/GSMAudioRTPSink.s"
+	@echo "... src/live555/liveMedia/GenericMediaServer.o"
+	@echo "... src/live555/liveMedia/GenericMediaServer.i"
+	@echo "... src/live555/liveMedia/GenericMediaServer.s"
+	@echo "... src/live555/liveMedia/H261VideoRTPSource.o"
+	@echo "... src/live555/liveMedia/H261VideoRTPSource.i"
+	@echo "... src/live555/liveMedia/H261VideoRTPSource.s"
+	@echo "... src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.o"
+	@echo "... src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.i"
+	@echo "... src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.s"
+	@echo "... src/live555/liveMedia/H263plusVideoRTPSink.o"
+	@echo "... src/live555/liveMedia/H263plusVideoRTPSink.i"
+	@echo "... src/live555/liveMedia/H263plusVideoRTPSink.s"
+	@echo "... src/live555/liveMedia/H263plusVideoRTPSource.o"
+	@echo "... src/live555/liveMedia/H263plusVideoRTPSource.i"
+	@echo "... src/live555/liveMedia/H263plusVideoRTPSource.s"
+	@echo "... src/live555/liveMedia/H263plusVideoStreamFramer.o"
+	@echo "... src/live555/liveMedia/H263plusVideoStreamFramer.i"
+	@echo "... src/live555/liveMedia/H263plusVideoStreamFramer.s"
+	@echo "... src/live555/liveMedia/H263plusVideoStreamParser.o"
+	@echo "... src/live555/liveMedia/H263plusVideoStreamParser.i"
+	@echo "... src/live555/liveMedia/H263plusVideoStreamParser.s"
+	@echo "... src/live555/liveMedia/H264VideoFileServerMediaSubsession.o"
+	@echo "... src/live555/liveMedia/H264VideoFileServerMediaSubsession.i"
+	@echo "... src/live555/liveMedia/H264VideoFileServerMediaSubsession.s"
+	@echo "... src/live555/liveMedia/H264VideoFileSink.o"
+	@echo "... src/live555/liveMedia/H264VideoFileSink.i"
+	@echo "... src/live555/liveMedia/H264VideoFileSink.s"
+	@echo "... src/live555/liveMedia/H264VideoRTPSink.o"
+	@echo "... src/live555/liveMedia/H264VideoRTPSink.i"
+	@echo "... src/live555/liveMedia/H264VideoRTPSink.s"
+	@echo "... src/live555/liveMedia/H264VideoRTPSource.o"
+	@echo "... src/live555/liveMedia/H264VideoRTPSource.i"
+	@echo "... src/live555/liveMedia/H264VideoRTPSource.s"
+	@echo "... src/live555/liveMedia/H264VideoStreamDiscreteFramer.o"
+	@echo "... src/live555/liveMedia/H264VideoStreamDiscreteFramer.i"
+	@echo "... src/live555/liveMedia/H264VideoStreamDiscreteFramer.s"
+	@echo "... src/live555/liveMedia/H264VideoStreamFramer.o"
+	@echo "... src/live555/liveMedia/H264VideoStreamFramer.i"
+	@echo "... src/live555/liveMedia/H264VideoStreamFramer.s"
+	@echo "... src/live555/liveMedia/H264or5VideoFileSink.o"
+	@echo "... src/live555/liveMedia/H264or5VideoFileSink.i"
+	@echo "... src/live555/liveMedia/H264or5VideoFileSink.s"
+	@echo "... src/live555/liveMedia/H264or5VideoRTPSink.o"
+	@echo "... src/live555/liveMedia/H264or5VideoRTPSink.i"
+	@echo "... src/live555/liveMedia/H264or5VideoRTPSink.s"
+	@echo "... src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.o"
+	@echo "... src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.i"
+	@echo "... src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.s"
+	@echo "... src/live555/liveMedia/H264or5VideoStreamFramer.o"
+	@echo "... src/live555/liveMedia/H264or5VideoStreamFramer.i"
+	@echo "... src/live555/liveMedia/H264or5VideoStreamFramer.s"
+	@echo "... src/live555/liveMedia/H265VideoFileServerMediaSubsession.o"
+	@echo "... src/live555/liveMedia/H265VideoFileServerMediaSubsession.i"
+	@echo "... src/live555/liveMedia/H265VideoFileServerMediaSubsession.s"
+	@echo "... src/live555/liveMedia/H265VideoFileSink.o"
+	@echo "... src/live555/liveMedia/H265VideoFileSink.i"
+	@echo "... src/live555/liveMedia/H265VideoFileSink.s"
+	@echo "... src/live555/liveMedia/H265VideoRTPSink.o"
+	@echo "... src/live555/liveMedia/H265VideoRTPSink.i"
+	@echo "... src/live555/liveMedia/H265VideoRTPSink.s"
+	@echo "... src/live555/liveMedia/H265VideoRTPSource.o"
+	@echo "... src/live555/liveMedia/H265VideoRTPSource.i"
+	@echo "... src/live555/liveMedia/H265VideoRTPSource.s"
+	@echo "... src/live555/liveMedia/H265VideoStreamDiscreteFramer.o"
+	@echo "... src/live555/liveMedia/H265VideoStreamDiscreteFramer.i"
+	@echo "... src/live555/liveMedia/H265VideoStreamDiscreteFramer.s"
+	@echo "... src/live555/liveMedia/H265VideoStreamFramer.o"
+	@echo "... src/live555/liveMedia/H265VideoStreamFramer.i"
+	@echo "... src/live555/liveMedia/H265VideoStreamFramer.s"
+	@echo "... src/live555/liveMedia/HLSSegmenter.o"
+	@echo "... src/live555/liveMedia/HLSSegmenter.i"
+	@echo "... src/live555/liveMedia/HLSSegmenter.s"
+	@echo "... src/live555/liveMedia/HMAC_SHA1.o"
+	@echo "... src/live555/liveMedia/HMAC_SHA1.i"
+	@echo "... src/live555/liveMedia/HMAC_SHA1.s"
+	@echo "... src/live555/liveMedia/InputFile.o"
+	@echo "... src/live555/liveMedia/InputFile.i"
+	@echo "... src/live555/liveMedia/InputFile.s"
+	@echo "... src/live555/liveMedia/JPEG2000VideoRTPSink.o"
+	@echo "... src/live555/liveMedia/JPEG2000VideoRTPSink.i"
+	@echo "... src/live555/liveMedia/JPEG2000VideoRTPSink.s"
+	@echo "... src/live555/liveMedia/JPEG2000VideoRTPSource.o"
+	@echo "... src/live555/liveMedia/JPEG2000VideoRTPSource.i"
+	@echo "... src/live555/liveMedia/JPEG2000VideoRTPSource.s"
+	@echo "... src/live555/liveMedia/JPEGVideoRTPSink.o"
+	@echo "... src/live555/liveMedia/JPEGVideoRTPSink.i"
+	@echo "... src/live555/liveMedia/JPEGVideoRTPSink.s"
+	@echo "... src/live555/liveMedia/JPEGVideoRTPSource.o"
+	@echo "... src/live555/liveMedia/JPEGVideoRTPSource.i"
+	@echo "... src/live555/liveMedia/JPEGVideoRTPSource.s"
+	@echo "... src/live555/liveMedia/JPEGVideoSource.o"
+	@echo "... src/live555/liveMedia/JPEGVideoSource.i"
+	@echo "... src/live555/liveMedia/JPEGVideoSource.s"
+	@echo "... src/live555/liveMedia/Locale.o"
+	@echo "... src/live555/liveMedia/Locale.i"
+	@echo "... src/live555/liveMedia/Locale.s"
+	@echo "... src/live555/liveMedia/MIKEY.o"
+	@echo "... src/live555/liveMedia/MIKEY.i"
+	@echo "... src/live555/liveMedia/MIKEY.s"
+	@echo "... src/live555/liveMedia/MP3ADU.o"
+	@echo "... src/live555/liveMedia/MP3ADU.i"
+	@echo "... src/live555/liveMedia/MP3ADU.s"
+	@echo "... src/live555/liveMedia/MP3ADURTPSink.o"
+	@echo "... src/live555/liveMedia/MP3ADURTPSink.i"
+	@echo "... src/live555/liveMedia/MP3ADURTPSink.s"
+	@echo "... src/live555/liveMedia/MP3ADURTPSource.o"
+	@echo "... src/live555/liveMedia/MP3ADURTPSource.i"
+	@echo "... src/live555/liveMedia/MP3ADURTPSource.s"
+	@echo "... src/live555/liveMedia/MP3ADUTranscoder.o"
+	@echo "... src/live555/liveMedia/MP3ADUTranscoder.i"
+	@echo "... src/live555/liveMedia/MP3ADUTranscoder.s"
+	@echo "... src/live555/liveMedia/MP3ADUdescriptor.o"
+	@echo "... src/live555/liveMedia/MP3ADUdescriptor.i"
+	@echo "... src/live555/liveMedia/MP3ADUdescriptor.s"
+	@echo "... src/live555/liveMedia/MP3ADUinterleaving.o"
+	@echo "... src/live555/liveMedia/MP3ADUinterleaving.i"
+	@echo "... src/live555/liveMedia/MP3ADUinterleaving.s"
+	@echo "... src/live555/liveMedia/MP3AudioFileServerMediaSubsession.o"
+	@echo "... src/live555/liveMedia/MP3AudioFileServerMediaSubsession.i"
+	@echo "... src/live555/liveMedia/MP3AudioFileServerMediaSubsession.s"
+	@echo "... src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.o"
+	@echo "... src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.i"
+	@echo "... src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.s"
+	@echo "... src/live555/liveMedia/MP3FileSource.o"
+	@echo "... src/live555/liveMedia/MP3FileSource.i"
+	@echo "... src/live555/liveMedia/MP3FileSource.s"
+	@echo "... src/live555/liveMedia/MP3Internals.o"
+	@echo "... src/live555/liveMedia/MP3Internals.i"
+	@echo "... src/live555/liveMedia/MP3Internals.s"
+	@echo "... src/live555/liveMedia/MP3InternalsHuffman.o"
+	@echo "... src/live555/liveMedia/MP3InternalsHuffman.i"
+	@echo "... src/live555/liveMedia/MP3InternalsHuffman.s"
+	@echo "... src/live555/liveMedia/MP3InternalsHuffmanTable.o"
+	@echo "... src/live555/liveMedia/MP3InternalsHuffmanTable.i"
+	@echo "... src/live555/liveMedia/MP3InternalsHuffmanTable.s"
+	@echo "... src/live555/liveMedia/MP3StreamState.o"
+	@echo "... src/live555/liveMedia/MP3StreamState.i"
+	@echo "... src/live555/liveMedia/MP3StreamState.s"
+	@echo "... src/live555/liveMedia/MP3Transcoder.o"
+	@echo "... src/live555/liveMedia/MP3Transcoder.i"
+	@echo "... src/live555/liveMedia/MP3Transcoder.s"
+	@echo "... src/live555/liveMedia/MPEG1or2AudioRTPSink.o"
+	@echo "... src/live555/liveMedia/MPEG1or2AudioRTPSink.i"
+	@echo "... src/live555/liveMedia/MPEG1or2AudioRTPSink.s"
+	@echo "... src/live555/liveMedia/MPEG1or2AudioRTPSource.o"
+	@echo "... src/live555/liveMedia/MPEG1or2AudioRTPSource.i"
+	@echo "... src/live555/liveMedia/MPEG1or2AudioRTPSource.s"
+	@echo "... src/live555/liveMedia/MPEG1or2AudioStreamFramer.o"
+	@echo "... src/live555/liveMedia/MPEG1or2AudioStreamFramer.i"
+	@echo "... src/live555/liveMedia/MPEG1or2AudioStreamFramer.s"
+	@echo "... src/live555/liveMedia/MPEG1or2Demux.o"
+	@echo "... src/live555/liveMedia/MPEG1or2Demux.i"
+	@echo "... src/live555/liveMedia/MPEG1or2Demux.s"
+	@echo "... src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.o"
+	@echo "... src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.i"
+	@echo "... src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.s"
+	@echo "... src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.o"
+	@echo "... src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.i"
+	@echo "... src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.s"
+	@echo "... src/live555/liveMedia/MPEG1or2FileServerDemux.o"
+	@echo "... src/live555/liveMedia/MPEG1or2FileServerDemux.i"
+	@echo "... src/live555/liveMedia/MPEG1or2FileServerDemux.s"
+	@echo "... src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.o"
+	@echo "... src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.i"
+	@echo "... src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.s"
+	@echo "... src/live555/liveMedia/MPEG1or2VideoRTPSink.o"
+	@echo "... src/live555/liveMedia/MPEG1or2VideoRTPSink.i"
+	@echo "... src/live555/liveMedia/MPEG1or2VideoRTPSink.s"
+	@echo "... src/live555/liveMedia/MPEG1or2VideoRTPSource.o"
+	@echo "... src/live555/liveMedia/MPEG1or2VideoRTPSource.i"
+	@echo "... src/live555/liveMedia/MPEG1or2VideoRTPSource.s"
+	@echo "... src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.o"
+	@echo "... src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.i"
+	@echo "... src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.s"
+	@echo "... src/live555/liveMedia/MPEG1or2VideoStreamFramer.o"
+	@echo "... src/live555/liveMedia/MPEG1or2VideoStreamFramer.i"
+	@echo "... src/live555/liveMedia/MPEG1or2VideoStreamFramer.s"
+	@echo "... src/live555/liveMedia/MPEG2IndexFromTransportStream.o"
+	@echo "... src/live555/liveMedia/MPEG2IndexFromTransportStream.i"
+	@echo "... src/live555/liveMedia/MPEG2IndexFromTransportStream.s"
+	@echo "... src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.o"
+	@echo "... src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.i"
+	@echo "... src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.s"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamAccumulator.o"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamAccumulator.i"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamAccumulator.s"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamDemux.o"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamDemux.i"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamDemux.s"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.o"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.i"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.s"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamFramer.o"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamFramer.i"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamFramer.s"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamFromESSource.o"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamFromESSource.i"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamFromESSource.s"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamFromPESSource.o"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamFromPESSource.i"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamFromPESSource.s"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamIndexFile.o"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamIndexFile.i"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamIndexFile.s"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamMultiplexor.o"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamMultiplexor.i"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamMultiplexor.s"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamParser.o"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamParser.i"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamParser.s"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamParser_PAT.o"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamParser_PAT.i"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamParser_PAT.s"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamParser_PMT.o"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamParser_PMT.i"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamParser_PMT.s"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.o"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.i"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.s"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.o"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.i"
+	@echo "... src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.s"
+	@echo "... src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.o"
+	@echo "... src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.i"
+	@echo "... src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.s"
+	@echo "... src/live555/liveMedia/MPEG4ESVideoRTPSink.o"
+	@echo "... src/live555/liveMedia/MPEG4ESVideoRTPSink.i"
+	@echo "... src/live555/liveMedia/MPEG4ESVideoRTPSink.s"
+	@echo "... src/live555/liveMedia/MPEG4ESVideoRTPSource.o"
+	@echo "... src/live555/liveMedia/MPEG4ESVideoRTPSource.i"
+	@echo "... src/live555/liveMedia/MPEG4ESVideoRTPSource.s"
+	@echo "... src/live555/liveMedia/MPEG4GenericRTPSink.o"
+	@echo "... src/live555/liveMedia/MPEG4GenericRTPSink.i"
+	@echo "... src/live555/liveMedia/MPEG4GenericRTPSink.s"
+	@echo "... src/live555/liveMedia/MPEG4GenericRTPSource.o"
+	@echo "... src/live555/liveMedia/MPEG4GenericRTPSource.i"
+	@echo "... src/live555/liveMedia/MPEG4GenericRTPSource.s"
+	@echo "... src/live555/liveMedia/MPEG4LATMAudioRTPSink.o"
+	@echo "... src/live555/liveMedia/MPEG4LATMAudioRTPSink.i"
+	@echo "... src/live555/liveMedia/MPEG4LATMAudioRTPSink.s"
+	@echo "... src/live555/liveMedia/MPEG4LATMAudioRTPSource.o"
+	@echo "... src/live555/liveMedia/MPEG4LATMAudioRTPSource.i"
+	@echo "... src/live555/liveMedia/MPEG4LATMAudioRTPSource.s"
+	@echo "... src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.o"
+	@echo "... src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.i"
+	@echo "... src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.s"
+	@echo "... src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.o"
+	@echo "... src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.i"
+	@echo "... src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.s"
+	@echo "... src/live555/liveMedia/MPEG4VideoStreamFramer.o"
+	@echo "... src/live555/liveMedia/MPEG4VideoStreamFramer.i"
+	@echo "... src/live555/liveMedia/MPEG4VideoStreamFramer.s"
+	@echo "... src/live555/liveMedia/MPEGVideoStreamFramer.o"
+	@echo "... src/live555/liveMedia/MPEGVideoStreamFramer.i"
+	@echo "... src/live555/liveMedia/MPEGVideoStreamFramer.s"
+	@echo "... src/live555/liveMedia/MPEGVideoStreamParser.o"
+	@echo "... src/live555/liveMedia/MPEGVideoStreamParser.i"
+	@echo "... src/live555/liveMedia/MPEGVideoStreamParser.s"
+	@echo "... src/live555/liveMedia/MatroskaDemuxedTrack.o"
+	@echo "... src/live555/liveMedia/MatroskaDemuxedTrack.i"
+	@echo "... src/live555/liveMedia/MatroskaDemuxedTrack.s"
+	@echo "... src/live555/liveMedia/MatroskaFile.o"
+	@echo "... src/live555/liveMedia/MatroskaFile.i"
+	@echo "... src/live555/liveMedia/MatroskaFile.s"
+	@echo "... src/live555/liveMedia/MatroskaFileParser.o"
+	@echo "... src/live555/liveMedia/MatroskaFileParser.i"
+	@echo "... src/live555/liveMedia/MatroskaFileParser.s"
+	@echo "... src/live555/liveMedia/MatroskaFileServerDemux.o"
+	@echo "... src/live555/liveMedia/MatroskaFileServerDemux.i"
+	@echo "... src/live555/liveMedia/MatroskaFileServerDemux.s"
+	@echo "... src/live555/liveMedia/MatroskaFileServerMediaSubsession.o"
+	@echo "... src/live555/liveMedia/MatroskaFileServerMediaSubsession.i"
+	@echo "... src/live555/liveMedia/MatroskaFileServerMediaSubsession.s"
+	@echo "... src/live555/liveMedia/Media.o"
+	@echo "... src/live555/liveMedia/Media.i"
+	@echo "... src/live555/liveMedia/Media.s"
+	@echo "... src/live555/liveMedia/MediaSession.o"
+	@echo "... src/live555/liveMedia/MediaSession.i"
+	@echo "... src/live555/liveMedia/MediaSession.s"
+	@echo "... src/live555/liveMedia/MediaSink.o"
+	@echo "... src/live555/liveMedia/MediaSink.i"
+	@echo "... src/live555/liveMedia/MediaSink.s"
+	@echo "... src/live555/liveMedia/MediaSource.o"
+	@echo "... src/live555/liveMedia/MediaSource.i"
+	@echo "... src/live555/liveMedia/MediaSource.s"
+	@echo "... src/live555/liveMedia/MultiFramedRTPSink.o"
+	@echo "... src/live555/liveMedia/MultiFramedRTPSink.i"
+	@echo "... src/live555/liveMedia/MultiFramedRTPSink.s"
+	@echo "... src/live555/liveMedia/MultiFramedRTPSource.o"
+	@echo "... src/live555/liveMedia/MultiFramedRTPSource.i"
+	@echo "... src/live555/liveMedia/MultiFramedRTPSource.s"
+	@echo "... src/live555/liveMedia/OggDemuxedTrack.o"
+	@echo "... src/live555/liveMedia/OggDemuxedTrack.i"
+	@echo "... src/live555/liveMedia/OggDemuxedTrack.s"
+	@echo "... src/live555/liveMedia/OggFile.o"
+	@echo "... src/live555/liveMedia/OggFile.i"
+	@echo "... src/live555/liveMedia/OggFile.s"
+	@echo "... src/live555/liveMedia/OggFileParser.o"
+	@echo "... src/live555/liveMedia/OggFileParser.i"
+	@echo "... src/live555/liveMedia/OggFileParser.s"
+	@echo "... src/live555/liveMedia/OggFileServerDemux.o"
+	@echo "... src/live555/liveMedia/OggFileServerDemux.i"
+	@echo "... src/live555/liveMedia/OggFileServerDemux.s"
+	@echo "... src/live555/liveMedia/OggFileServerMediaSubsession.o"
+	@echo "... src/live555/liveMedia/OggFileServerMediaSubsession.i"
+	@echo "... src/live555/liveMedia/OggFileServerMediaSubsession.s"
+	@echo "... src/live555/liveMedia/OggFileSink.o"
+	@echo "... src/live555/liveMedia/OggFileSink.i"
+	@echo "... src/live555/liveMedia/OggFileSink.s"
+	@echo "... src/live555/liveMedia/OnDemandServerMediaSubsession.o"
+	@echo "... src/live555/liveMedia/OnDemandServerMediaSubsession.i"
+	@echo "... src/live555/liveMedia/OnDemandServerMediaSubsession.s"
+	@echo "... src/live555/liveMedia/OutputFile.o"
+	@echo "... src/live555/liveMedia/OutputFile.i"
+	@echo "... src/live555/liveMedia/OutputFile.s"
+	@echo "... src/live555/liveMedia/PassiveServerMediaSubsession.o"
+	@echo "... src/live555/liveMedia/PassiveServerMediaSubsession.i"
+	@echo "... src/live555/liveMedia/PassiveServerMediaSubsession.s"
+	@echo "... src/live555/liveMedia/ProxyServerMediaSession.o"
+	@echo "... src/live555/liveMedia/ProxyServerMediaSession.i"
+	@echo "... src/live555/liveMedia/ProxyServerMediaSession.s"
+	@echo "... src/live555/liveMedia/QCELPAudioRTPSource.o"
+	@echo "... src/live555/liveMedia/QCELPAudioRTPSource.i"
+	@echo "... src/live555/liveMedia/QCELPAudioRTPSource.s"
+	@echo "... src/live555/liveMedia/QuickTimeFileSink.o"
+	@echo "... src/live555/liveMedia/QuickTimeFileSink.i"
+	@echo "... src/live555/liveMedia/QuickTimeFileSink.s"
+	@echo "... src/live555/liveMedia/QuickTimeGenericRTPSource.o"
+	@echo "... src/live555/liveMedia/QuickTimeGenericRTPSource.i"
+	@echo "... src/live555/liveMedia/QuickTimeGenericRTPSource.s"
+	@echo "... src/live555/liveMedia/RTCP.o"
+	@echo "... src/live555/liveMedia/RTCP.i"
+	@echo "... src/live555/liveMedia/RTCP.s"
+	@echo "... src/live555/liveMedia/RTPInterface.o"
+	@echo "... src/live555/liveMedia/RTPInterface.i"
+	@echo "... src/live555/liveMedia/RTPInterface.s"
+	@echo "... src/live555/liveMedia/RTPSink.o"
+	@echo "... src/live555/liveMedia/RTPSink.i"
+	@echo "... src/live555/liveMedia/RTPSink.s"
+	@echo "... src/live555/liveMedia/RTPSource.o"
+	@echo "... src/live555/liveMedia/RTPSource.i"
+	@echo "... src/live555/liveMedia/RTPSource.s"
+	@echo "... src/live555/liveMedia/RTSPClient.o"
+	@echo "... src/live555/liveMedia/RTSPClient.i"
+	@echo "... src/live555/liveMedia/RTSPClient.s"
+	@echo "... src/live555/liveMedia/RTSPCommon.o"
+	@echo "... src/live555/liveMedia/RTSPCommon.i"
+	@echo "... src/live555/liveMedia/RTSPCommon.s"
+	@echo "... src/live555/liveMedia/RTSPRegisterSender.o"
+	@echo "... src/live555/liveMedia/RTSPRegisterSender.i"
+	@echo "... src/live555/liveMedia/RTSPRegisterSender.s"
+	@echo "... src/live555/liveMedia/RTSPServer.o"
+	@echo "... src/live555/liveMedia/RTSPServer.i"
+	@echo "... src/live555/liveMedia/RTSPServer.s"
+	@echo "... src/live555/liveMedia/RTSPServerRegister.o"
+	@echo "... src/live555/liveMedia/RTSPServerRegister.i"
+	@echo "... src/live555/liveMedia/RTSPServerRegister.s"
+	@echo "... src/live555/liveMedia/RawVideoRTPSink.o"
+	@echo "... src/live555/liveMedia/RawVideoRTPSink.i"
+	@echo "... src/live555/liveMedia/RawVideoRTPSink.s"
+	@echo "... src/live555/liveMedia/RawVideoRTPSource.o"
+	@echo "... src/live555/liveMedia/RawVideoRTPSource.i"
+	@echo "... src/live555/liveMedia/RawVideoRTPSource.s"
+	@echo "... src/live555/liveMedia/SIPClient.o"
+	@echo "... src/live555/liveMedia/SIPClient.i"
+	@echo "... src/live555/liveMedia/SIPClient.s"
+	@echo "... src/live555/liveMedia/SRTPCryptographicContext.o"
+	@echo "... src/live555/liveMedia/SRTPCryptographicContext.i"
+	@echo "... src/live555/liveMedia/SRTPCryptographicContext.s"
+	@echo "... src/live555/liveMedia/ServerMediaSession.o"
+	@echo "... src/live555/liveMedia/ServerMediaSession.i"
+	@echo "... src/live555/liveMedia/ServerMediaSession.s"
+	@echo "... src/live555/liveMedia/SimpleRTPSink.o"
+	@echo "... src/live555/liveMedia/SimpleRTPSink.i"
+	@echo "... src/live555/liveMedia/SimpleRTPSink.s"
+	@echo "... src/live555/liveMedia/SimpleRTPSource.o"
+	@echo "... src/live555/liveMedia/SimpleRTPSource.i"
+	@echo "... src/live555/liveMedia/SimpleRTPSource.s"
+	@echo "... src/live555/liveMedia/StreamParser.o"
+	@echo "... src/live555/liveMedia/StreamParser.i"
+	@echo "... src/live555/liveMedia/StreamParser.s"
+	@echo "... src/live555/liveMedia/StreamReplicator.o"
+	@echo "... src/live555/liveMedia/StreamReplicator.i"
+	@echo "... src/live555/liveMedia/StreamReplicator.s"
+	@echo "... src/live555/liveMedia/T140TextRTPSink.o"
+	@echo "... src/live555/liveMedia/T140TextRTPSink.i"
+	@echo "... src/live555/liveMedia/T140TextRTPSink.s"
+	@echo "... src/live555/liveMedia/TLSState.o"
+	@echo "... src/live555/liveMedia/TLSState.i"
+	@echo "... src/live555/liveMedia/TLSState.s"
+	@echo "... src/live555/liveMedia/TextRTPSink.o"
+	@echo "... src/live555/liveMedia/TextRTPSink.i"
+	@echo "... src/live555/liveMedia/TextRTPSink.s"
+	@echo "... src/live555/liveMedia/TheoraVideoRTPSink.o"
+	@echo "... src/live555/liveMedia/TheoraVideoRTPSink.i"
+	@echo "... src/live555/liveMedia/TheoraVideoRTPSink.s"
+	@echo "... src/live555/liveMedia/TheoraVideoRTPSource.o"
+	@echo "... src/live555/liveMedia/TheoraVideoRTPSource.i"
+	@echo "... src/live555/liveMedia/TheoraVideoRTPSource.s"
+	@echo "... src/live555/liveMedia/VP8VideoRTPSink.o"
+	@echo "... src/live555/liveMedia/VP8VideoRTPSink.i"
+	@echo "... src/live555/liveMedia/VP8VideoRTPSink.s"
+	@echo "... src/live555/liveMedia/VP8VideoRTPSource.o"
+	@echo "... src/live555/liveMedia/VP8VideoRTPSource.i"
+	@echo "... src/live555/liveMedia/VP8VideoRTPSource.s"
+	@echo "... src/live555/liveMedia/VP9VideoRTPSink.o"
+	@echo "... src/live555/liveMedia/VP9VideoRTPSink.i"
+	@echo "... src/live555/liveMedia/VP9VideoRTPSink.s"
+	@echo "... src/live555/liveMedia/VP9VideoRTPSource.o"
+	@echo "... src/live555/liveMedia/VP9VideoRTPSource.i"
+	@echo "... src/live555/liveMedia/VP9VideoRTPSource.s"
+	@echo "... src/live555/liveMedia/VideoRTPSink.o"
+	@echo "... src/live555/liveMedia/VideoRTPSink.i"
+	@echo "... src/live555/liveMedia/VideoRTPSink.s"
+	@echo "... src/live555/liveMedia/VorbisAudioRTPSink.o"
+	@echo "... src/live555/liveMedia/VorbisAudioRTPSink.i"
+	@echo "... src/live555/liveMedia/VorbisAudioRTPSink.s"
+	@echo "... src/live555/liveMedia/VorbisAudioRTPSource.o"
+	@echo "... src/live555/liveMedia/VorbisAudioRTPSource.i"
+	@echo "... src/live555/liveMedia/VorbisAudioRTPSource.s"
+	@echo "... src/live555/liveMedia/WAVAudioFileServerMediaSubsession.o"
+	@echo "... src/live555/liveMedia/WAVAudioFileServerMediaSubsession.i"
+	@echo "... src/live555/liveMedia/WAVAudioFileServerMediaSubsession.s"
+	@echo "... src/live555/liveMedia/WAVAudioFileSource.o"
+	@echo "... src/live555/liveMedia/WAVAudioFileSource.i"
+	@echo "... src/live555/liveMedia/WAVAudioFileSource.s"
+	@echo "... src/live555/liveMedia/ourMD5.o"
+	@echo "... src/live555/liveMedia/ourMD5.i"
+	@echo "... src/live555/liveMedia/ourMD5.s"
+	@echo "... src/live555/liveMedia/rtcp_from_spec.o"
+	@echo "... src/live555/liveMedia/rtcp_from_spec.i"
+	@echo "... src/live555/liveMedia/rtcp_from_spec.s"
+	@echo "... src/live555/liveMedia/uLawAudioFilter.o"
+	@echo "... src/live555/liveMedia/uLawAudioFilter.i"
+	@echo "... src/live555/liveMedia/uLawAudioFilter.s"
 	@echo "... src/pySV.o"
 	@echo "... src/pySV.i"
 	@echo "... src/pySV.s"

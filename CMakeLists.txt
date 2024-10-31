@@ -37,20 +37,42 @@ include_directories(/opt/anaconda3/envs/media/include/python3.9)
 # 设置库路径
 link_directories(${CMAKE_SOURCE_DIR}/lib)
 link_directories(/opt/anaconda3/envs/media/lib)
+link_directories(${CMAKE_SOURCE_DIR}/src/live555/BasicUsageEnvironment)
+link_directories(${CMAKE_SOURCE_DIR}/src/live555/groupsock)
+link_directories(${CMAKE_SOURCE_DIR}/src/live555/liveMedia)
+link_directories(${CMAKE_SOURCE_DIR}/src/live555/UsageEnvironment)
 
 # 查找 src 文件夹中的所有 .cpp 文件并添加到项目中
 file(GLOB SOURCES ${CMAKE_SOURCE_DIR}/src/*.cpp)
 
+# 查找 live555 的所有 .cpp 文件并添加到项目中
+file(GLOB LIVE555_SOURCES
+    ${CMAKE_SOURCE_DIR}/src/live555/*.cpp
+    ${CMAKE_SOURCE_DIR}/src/live555/BasicUsageEnvironment/*.cpp
+    ${CMAKE_SOURCE_DIR}/src/live555/BasicUsageEnvironment/*.c
+    ${CMAKE_SOURCE_DIR}/src/live555/groupsock/*.cpp
+    ${CMAKE_SOURCE_DIR}/src/live555/groupsock/*.c
+    ${CMAKE_SOURCE_DIR}/src/live555/liveMedia/*.cpp
+    ${CMAKE_SOURCE_DIR}/src/live555/liveMedia/*.c
+    ${CMAKE_SOURCE_DIR}/src/live555/UsageEnvironment/*.cpp
+    ${CMAKE_SOURCE_DIR}/src/live555/UsageEnvironment/*.c
+)
+
+# 添加编译选项，参考 Makefile 中的 COMPILE_OPTS
+add_compile_options(
+    -DBSD=1
+    -DSOCKLEN_T=socklen_t
+    -DHAVE_SOCKADDR_LEN=1
+    -DTIME_BASE=int
+    -DNEED_XLOCALE_H=1
+)
+
 # 添加可执行文件
-add_executable(rtspClient ${SOURCES})
+add_executable(rtspClient ${SOURCES} ${LIVE555_SOURCES})
 
 # 链接静态库和必要的库
 target_link_libraries(rtspClient
     libavcodec.61.19.100.dylib
-    libliveMedia.a
-    libgroupsock.a
-    libBasicUsageEnvironment.a
-    libUsageEnvironment.a
     libpython3.9.dylib
     -lpthread
     -lssl
@@ -61,5 +83,4 @@ target_link_libraries(rtspClient
     "-framework CoreMedia"        # 媒体类型
     "-framework CoreVideo"        # 视频缓冲区管理
     "-framework CoreAudio"        # 音频 I/O
-
 )

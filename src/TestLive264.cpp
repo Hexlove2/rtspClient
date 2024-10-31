@@ -29,7 +29,7 @@ extern "C" {
 #include "pySV.hh"
 
 #define maxFrame 5000
-#define DATE1 "30"
+#define DATE1 "31"
 // client->>server: DESCRIBE
 // server->>client: 200 OK (SDP)
 // client->>server: SETUP
@@ -620,7 +620,7 @@ StreamClientState::~StreamClientState() {
 
 // Even though we're not going to be doing anything with the incoming data, we
 // still need to receive it. Define the size of the buffer that we'll use:
-#define DUMMY_SINK_RECEIVE_BUFFER_SIZE 10000000
+#define DUMMY_SINK_RECEIVE_BUFFER_SIZE 1024*1024*20
 
 DummySink *DummySink::createNew(UsageEnvironment &env,
                                 MediaSubsession &subsession,
@@ -865,6 +865,7 @@ static void thread_codec() {
   int result;
   const AVCodec *codec;
   initialize_python_environment();
+  printf("python环境初始化成功!\n");
 #ifdef _WIN32
   codec = avcodec_find_encoder(AV_CODEC_ID_HEVC);
 #elif defined(__APPLE__)

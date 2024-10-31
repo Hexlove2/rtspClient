@@ -97,19 +97,3171 @@ CMakeFiles/rtspClient.dir/src/pySV.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/pySV.cpp.s"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/pySV.cpp -o CMakeFiles/rtspClient.dir/src/pySV.cpp.s
 
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicHashTable.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicHashTable.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/BasicUsageEnvironment/BasicHashTable.cpp
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicHashTable.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicHashTable.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicHashTable.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicHashTable.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicHashTable.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/BasicUsageEnvironment/BasicHashTable.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicHashTable.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicHashTable.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/BasicUsageEnvironment/BasicHashTable.cpp > CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicHashTable.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicHashTable.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicHashTable.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/BasicUsageEnvironment/BasicHashTable.cpp -o CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicHashTable.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp > CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp -o CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp > CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp -o CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp > CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp -o CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp > CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp -o CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/DelayQueue.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/DelayQueue.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/BasicUsageEnvironment/DelayQueue.cpp
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/DelayQueue.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/DelayQueue.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/DelayQueue.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/DelayQueue.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/DelayQueue.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/BasicUsageEnvironment/DelayQueue.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/DelayQueue.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/DelayQueue.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/BasicUsageEnvironment/DelayQueue.cpp > CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/DelayQueue.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/DelayQueue.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/DelayQueue.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/BasicUsageEnvironment/DelayQueue.cpp -o CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/DelayQueue.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/HashTable.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/HashTable.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/UsageEnvironment/HashTable.cpp
+CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/HashTable.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/HashTable.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/HashTable.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/HashTable.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/HashTable.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/UsageEnvironment/HashTable.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/HashTable.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/HashTable.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/UsageEnvironment/HashTable.cpp > CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/HashTable.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/HashTable.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/HashTable.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/UsageEnvironment/HashTable.cpp -o CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/HashTable.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/UsageEnvironment.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/UsageEnvironment.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/UsageEnvironment/UsageEnvironment.cpp
+CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/UsageEnvironment.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/UsageEnvironment.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/UsageEnvironment.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/UsageEnvironment.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/UsageEnvironment.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/UsageEnvironment/UsageEnvironment.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/UsageEnvironment.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/UsageEnvironment.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/UsageEnvironment/UsageEnvironment.cpp > CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/UsageEnvironment.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/UsageEnvironment.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/UsageEnvironment.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/UsageEnvironment/UsageEnvironment.cpp -o CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/UsageEnvironment.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/strDup.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/strDup.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/UsageEnvironment/strDup.cpp
+CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/strDup.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/strDup.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/strDup.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/strDup.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/strDup.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/UsageEnvironment/strDup.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/strDup.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/strDup.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/UsageEnvironment/strDup.cpp > CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/strDup.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/strDup.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/strDup.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/UsageEnvironment/strDup.cpp -o CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/strDup.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupEId.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupEId.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/groupsock/GroupEId.cpp
+CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupEId.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupEId.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupEId.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupEId.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupEId.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/groupsock/GroupEId.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupEId.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupEId.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/groupsock/GroupEId.cpp > CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupEId.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupEId.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupEId.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/groupsock/GroupEId.cpp -o CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupEId.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/groupsock/Groupsock.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/groupsock/Groupsock.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/groupsock/Groupsock.cpp
+CMakeFiles/rtspClient.dir/src/live555/groupsock/Groupsock.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/groupsock/Groupsock.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/groupsock/Groupsock.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/groupsock/Groupsock.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/groupsock/Groupsock.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/groupsock/Groupsock.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/groupsock/Groupsock.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/groupsock/Groupsock.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/groupsock/Groupsock.cpp > CMakeFiles/rtspClient.dir/src/live555/groupsock/Groupsock.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/groupsock/Groupsock.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/groupsock/Groupsock.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/groupsock/Groupsock.cpp -o CMakeFiles/rtspClient.dir/src/live555/groupsock/Groupsock.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupsockHelper.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupsockHelper.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/groupsock/GroupsockHelper.cpp
+CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupsockHelper.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupsockHelper.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupsockHelper.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupsockHelper.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupsockHelper.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/groupsock/GroupsockHelper.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupsockHelper.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupsockHelper.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/groupsock/GroupsockHelper.cpp > CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupsockHelper.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupsockHelper.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupsockHelper.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/groupsock/GroupsockHelper.cpp -o CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupsockHelper.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/groupsock/IOHandlers.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/groupsock/IOHandlers.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/groupsock/IOHandlers.cpp
+CMakeFiles/rtspClient.dir/src/live555/groupsock/IOHandlers.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/groupsock/IOHandlers.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/groupsock/IOHandlers.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/groupsock/IOHandlers.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/groupsock/IOHandlers.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/groupsock/IOHandlers.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/groupsock/IOHandlers.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/groupsock/IOHandlers.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/groupsock/IOHandlers.cpp > CMakeFiles/rtspClient.dir/src/live555/groupsock/IOHandlers.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/groupsock/IOHandlers.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/groupsock/IOHandlers.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/groupsock/IOHandlers.cpp -o CMakeFiles/rtspClient.dir/src/live555/groupsock/IOHandlers.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/groupsock/NetAddress.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/groupsock/NetAddress.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/groupsock/NetAddress.cpp
+CMakeFiles/rtspClient.dir/src/live555/groupsock/NetAddress.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/groupsock/NetAddress.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/groupsock/NetAddress.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/groupsock/NetAddress.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/groupsock/NetAddress.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/groupsock/NetAddress.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/groupsock/NetAddress.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/groupsock/NetAddress.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/groupsock/NetAddress.cpp > CMakeFiles/rtspClient.dir/src/live555/groupsock/NetAddress.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/groupsock/NetAddress.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/groupsock/NetAddress.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/groupsock/NetAddress.cpp -o CMakeFiles/rtspClient.dir/src/live555/groupsock/NetAddress.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/groupsock/NetInterface.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/groupsock/NetInterface.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/groupsock/NetInterface.cpp
+CMakeFiles/rtspClient.dir/src/live555/groupsock/NetInterface.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/groupsock/NetInterface.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/groupsock/NetInterface.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/groupsock/NetInterface.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/groupsock/NetInterface.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/groupsock/NetInterface.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/groupsock/NetInterface.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/groupsock/NetInterface.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/groupsock/NetInterface.cpp > CMakeFiles/rtspClient.dir/src/live555/groupsock/NetInterface.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/groupsock/NetInterface.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/groupsock/NetInterface.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/groupsock/NetInterface.cpp -o CMakeFiles/rtspClient.dir/src/live555/groupsock/NetInterface.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/groupsock/inet.c.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/groupsock/inet.c.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/groupsock/inet.c
+CMakeFiles/rtspClient.dir/src/live555/groupsock/inet.c.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/rtspClient.dir/src/live555/groupsock/inet.c.o"
+	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/groupsock/inet.c.o -MF CMakeFiles/rtspClient.dir/src/live555/groupsock/inet.c.o.d -o CMakeFiles/rtspClient.dir/src/live555/groupsock/inet.c.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/groupsock/inet.c
+
+CMakeFiles/rtspClient.dir/src/live555/groupsock/inet.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/rtspClient.dir/src/live555/groupsock/inet.c.i"
+	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/groupsock/inet.c > CMakeFiles/rtspClient.dir/src/live555/groupsock/inet.c.i
+
+CMakeFiles/rtspClient.dir/src/live555/groupsock/inet.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/rtspClient.dir/src/live555/groupsock/inet.c.s"
+	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/groupsock/inet.c -o CMakeFiles/rtspClient.dir/src/live555/groupsock/inet.c.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AC3AudioRTPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AC3AudioRTPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AC3AudioRTPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AC3AudioRTPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AC3AudioRTPSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AC3AudioRTPSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AC3AudioRTPSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AC3AudioRTPSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioStreamFramer.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioStreamFramer.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AC3AudioStreamFramer.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioStreamFramer.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioStreamFramer.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioStreamFramer.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioStreamFramer.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioStreamFramer.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AC3AudioStreamFramer.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioStreamFramer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioStreamFramer.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AC3AudioStreamFramer.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioStreamFramer.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioStreamFramer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioStreamFramer.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AC3AudioStreamFramer.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioStreamFramer.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ADTSAudioFileSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ADTSAudioFileSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ADTSAudioFileSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ADTSAudioFileSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AMRAudioFileSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AMRAudioFileSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AMRAudioFileSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AMRAudioFileSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AMRAudioFileSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AMRAudioFileSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AMRAudioFileSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AMRAudioFileSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AMRAudioRTPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AMRAudioRTPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AMRAudioRTPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AMRAudioRTPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AMRAudioRTPSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AMRAudioRTPSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AMRAudioRTPSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AMRAudioRTPSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AMRAudioSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AMRAudioSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AMRAudioSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AMRAudioSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AVIFileSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AVIFileSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AVIFileSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AVIFileSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/AVIFileSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/AVIFileSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/AVIFileSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/AVIFileSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AVIFileSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AVIFileSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/AVIFileSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AVIFileSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/AVIFileSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AVIFileSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/AVIFileSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AVIFileSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/AVIFileSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioInputDevice.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioInputDevice.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AudioInputDevice.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioInputDevice.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioInputDevice.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioInputDevice.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioInputDevice.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioInputDevice.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AudioInputDevice.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioInputDevice.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioInputDevice.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AudioInputDevice.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioInputDevice.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioInputDevice.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioInputDevice.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AudioInputDevice.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioInputDevice.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioRTPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioRTPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AudioRTPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioRTPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioRTPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioRTPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioRTPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioRTPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AudioRTPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioRTPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioRTPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AudioRTPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioRTPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioRTPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioRTPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/AudioRTPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioRTPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/Base64.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/Base64.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/Base64.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/Base64.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/Base64.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/Base64.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/Base64.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/Base64.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/Base64.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/Base64.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/Base64.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/Base64.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/Base64.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/Base64.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/Base64.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/Base64.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/Base64.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/BasicUDPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/BasicUDPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/BasicUDPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/BasicUDPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/BasicUDPSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/BasicUDPSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/BasicUDPSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/BasicUDPSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/BitVector.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/BitVector.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/BitVector.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/BitVector.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/BitVector.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/BitVector.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/BitVector.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/BitVector.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/BitVector.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/BitVector.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/BitVector.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/BitVector.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/BitVector.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/BitVector.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/BitVector.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/BitVector.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/BitVector.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamFileSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamFileSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ByteStreamFileSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamFileSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamFileSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamFileSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamFileSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamFileSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ByteStreamFileSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamFileSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamFileSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ByteStreamFileSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamFileSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamFileSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamFileSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ByteStreamFileSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamFileSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMultiFileSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMultiFileSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ByteStreamMultiFileSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMultiFileSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMultiFileSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMultiFileSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMultiFileSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMultiFileSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ByteStreamMultiFileSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMultiFileSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMultiFileSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ByteStreamMultiFileSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMultiFileSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMultiFileSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMultiFileSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ByteStreamMultiFileSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMultiFileSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/DVVideoRTPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/DVVideoRTPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/DVVideoRTPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/DVVideoRTPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/DVVideoRTPSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/DVVideoRTPSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/DVVideoRTPSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/DVVideoRTPSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoStreamFramer.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoStreamFramer.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/DVVideoStreamFramer.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoStreamFramer.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoStreamFramer.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoStreamFramer.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoStreamFramer.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoStreamFramer.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/DVVideoStreamFramer.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoStreamFramer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoStreamFramer.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/DVVideoStreamFramer.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoStreamFramer.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoStreamFramer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoStreamFramer.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/DVVideoStreamFramer.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoStreamFramer.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DeviceSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DeviceSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/DeviceSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DeviceSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/DeviceSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/DeviceSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/DeviceSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/DeviceSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/DeviceSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DeviceSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/DeviceSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/DeviceSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/DeviceSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DeviceSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/DeviceSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/DeviceSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/DeviceSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DigestAuthentication.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DigestAuthentication.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/DigestAuthentication.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DigestAuthentication.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/DigestAuthentication.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/DigestAuthentication.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/DigestAuthentication.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/DigestAuthentication.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/DigestAuthentication.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DigestAuthentication.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/DigestAuthentication.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/DigestAuthentication.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/DigestAuthentication.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/DigestAuthentication.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/DigestAuthentication.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/DigestAuthentication.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/DigestAuthentication.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/EBMLNumber.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/EBMLNumber.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/EBMLNumber.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/EBMLNumber.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/EBMLNumber.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/EBMLNumber.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/EBMLNumber.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/EBMLNumber.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/EBMLNumber.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/EBMLNumber.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/EBMLNumber.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/EBMLNumber.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/EBMLNumber.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/EBMLNumber.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/EBMLNumber.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/EBMLNumber.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/EBMLNumber.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileServerMediaSubsession.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/FileServerMediaSubsession.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileServerMediaSubsession.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileServerMediaSubsession.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileServerMediaSubsession.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileServerMediaSubsession.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/FileServerMediaSubsession.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileServerMediaSubsession.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileServerMediaSubsession.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/FileServerMediaSubsession.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileServerMediaSubsession.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileServerMediaSubsession.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileServerMediaSubsession.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/FileServerMediaSubsession.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileServerMediaSubsession.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/FileSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/FileSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/FileSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/FileSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFileSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFileSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/FramedFileSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFileSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFileSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFileSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFileSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFileSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/FramedFileSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFileSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFileSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/FramedFileSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFileSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFileSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFileSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/FramedFileSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFileSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFilter.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFilter.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/FramedFilter.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFilter.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFilter.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFilter.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFilter.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFilter.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/FramedFilter.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFilter.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFilter.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/FramedFilter.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFilter.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFilter.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFilter.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/FramedFilter.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFilter.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/FramedSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/FramedSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/FramedSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/FramedSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/GSMAudioRTPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/GSMAudioRTPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/GSMAudioRTPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/GSMAudioRTPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/GSMAudioRTPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/GSMAudioRTPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/GSMAudioRTPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/GSMAudioRTPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/GSMAudioRTPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/GSMAudioRTPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/GSMAudioRTPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/GSMAudioRTPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/GSMAudioRTPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/GSMAudioRTPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/GSMAudioRTPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/GSMAudioRTPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/GSMAudioRTPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/GenericMediaServer.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/GenericMediaServer.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/GenericMediaServer.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/GenericMediaServer.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/GenericMediaServer.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/GenericMediaServer.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/GenericMediaServer.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/GenericMediaServer.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/GenericMediaServer.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/GenericMediaServer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/GenericMediaServer.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/GenericMediaServer.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/GenericMediaServer.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/GenericMediaServer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/GenericMediaServer.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/GenericMediaServer.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/GenericMediaServer.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H261VideoRTPSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H261VideoRTPSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H261VideoRTPSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H261VideoRTPSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/H261VideoRTPSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/H261VideoRTPSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/H261VideoRTPSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H261VideoRTPSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H261VideoRTPSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H261VideoRTPSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/H261VideoRTPSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H261VideoRTPSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/H261VideoRTPSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H261VideoRTPSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/H261VideoRTPSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H261VideoRTPSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H261VideoRTPSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H263plusVideoRTPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H263plusVideoRTPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H263plusVideoRTPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H263plusVideoRTPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H263plusVideoRTPSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H263plusVideoRTPSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H263plusVideoRTPSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H263plusVideoRTPSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamFramer.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamFramer.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H263plusVideoStreamFramer.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamFramer.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamFramer.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamFramer.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamFramer.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamFramer.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H263plusVideoStreamFramer.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamFramer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamFramer.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H263plusVideoStreamFramer.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamFramer.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamFramer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamFramer.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H263plusVideoStreamFramer.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamFramer.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamParser.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamParser.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H263plusVideoStreamParser.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamParser.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamParser.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamParser.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamParser.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamParser.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H263plusVideoStreamParser.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamParser.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamParser.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H263plusVideoStreamParser.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamParser.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamParser.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamParser.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H263plusVideoStreamParser.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamParser.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264VideoFileSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264VideoFileSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264VideoFileSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264VideoFileSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264VideoRTPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264VideoRTPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264VideoRTPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264VideoRTPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264VideoRTPSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264VideoRTPSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264VideoRTPSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264VideoRTPSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamFramer.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamFramer.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264VideoStreamFramer.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamFramer.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamFramer.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamFramer.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamFramer.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamFramer.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264VideoStreamFramer.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamFramer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamFramer.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264VideoStreamFramer.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamFramer.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamFramer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamFramer.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264VideoStreamFramer.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamFramer.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoFileSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoFileSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264or5VideoFileSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoFileSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoFileSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoFileSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoFileSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoFileSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264or5VideoFileSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoFileSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoFileSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264or5VideoFileSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoFileSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoFileSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoFileSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264or5VideoFileSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoFileSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoRTPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoRTPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264or5VideoRTPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoRTPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoRTPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoRTPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoRTPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoRTPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264or5VideoRTPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoRTPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoRTPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264or5VideoRTPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoRTPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoRTPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoRTPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264or5VideoRTPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoRTPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamFramer.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamFramer.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264or5VideoStreamFramer.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamFramer.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamFramer.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamFramer.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamFramer.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamFramer.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264or5VideoStreamFramer.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamFramer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamFramer.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264or5VideoStreamFramer.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamFramer.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamFramer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamFramer.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H264or5VideoStreamFramer.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamFramer.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H265VideoFileSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H265VideoFileSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H265VideoFileSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H265VideoFileSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H265VideoRTPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H265VideoRTPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H265VideoRTPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H265VideoRTPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H265VideoRTPSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H265VideoRTPSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H265VideoRTPSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H265VideoRTPSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamFramer.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamFramer.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H265VideoStreamFramer.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamFramer.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamFramer.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamFramer.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamFramer.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamFramer.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H265VideoStreamFramer.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamFramer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamFramer.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H265VideoStreamFramer.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamFramer.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamFramer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamFramer.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/H265VideoStreamFramer.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamFramer.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/HLSSegmenter.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/HLSSegmenter.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/HLSSegmenter.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/HLSSegmenter.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/HLSSegmenter.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/HLSSegmenter.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/HLSSegmenter.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/HLSSegmenter.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/HLSSegmenter.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/HLSSegmenter.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/HLSSegmenter.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/HLSSegmenter.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/HLSSegmenter.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/HLSSegmenter.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/HLSSegmenter.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/HLSSegmenter.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/HLSSegmenter.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/HMAC_SHA1.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/HMAC_SHA1.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/HMAC_SHA1.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/HMAC_SHA1.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/HMAC_SHA1.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/HMAC_SHA1.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/HMAC_SHA1.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/HMAC_SHA1.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/HMAC_SHA1.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/HMAC_SHA1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/HMAC_SHA1.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/HMAC_SHA1.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/HMAC_SHA1.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/HMAC_SHA1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/HMAC_SHA1.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/HMAC_SHA1.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/HMAC_SHA1.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/InputFile.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/InputFile.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/InputFile.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/InputFile.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/InputFile.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/InputFile.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/InputFile.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/InputFile.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/InputFile.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/InputFile.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/InputFile.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/InputFile.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/InputFile.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/InputFile.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/InputFile.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/InputFile.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/InputFile.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/JPEG2000VideoRTPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/JPEG2000VideoRTPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/JPEG2000VideoRTPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/JPEG2000VideoRTPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/JPEG2000VideoRTPSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/JPEG2000VideoRTPSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/JPEG2000VideoRTPSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/JPEG2000VideoRTPSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/JPEGVideoRTPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/JPEGVideoRTPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/JPEGVideoRTPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/JPEGVideoRTPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/JPEGVideoRTPSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/JPEGVideoRTPSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/JPEGVideoRTPSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/JPEGVideoRTPSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/JPEGVideoSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/JPEGVideoSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/JPEGVideoSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/JPEGVideoSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/Locale.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/Locale.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/Locale.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/Locale.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/Locale.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/Locale.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/Locale.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/Locale.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/Locale.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/Locale.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/Locale.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/Locale.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/Locale.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/Locale.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/Locale.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/Locale.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/Locale.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MIKEY.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MIKEY.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MIKEY.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MIKEY.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MIKEY.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MIKEY.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MIKEY.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MIKEY.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MIKEY.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MIKEY.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MIKEY.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MIKEY.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MIKEY.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MIKEY.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MIKEY.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MIKEY.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MIKEY.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADU.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADU.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3ADU.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADU.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADU.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADU.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADU.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADU.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3ADU.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADU.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADU.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3ADU.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADU.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADU.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADU.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3ADU.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADU.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3ADURTPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3ADURTPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3ADURTPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3ADURTPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3ADURTPSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3ADURTPSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3ADURTPSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3ADURTPSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUTranscoder.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUTranscoder.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3ADUTranscoder.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUTranscoder.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUTranscoder.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUTranscoder.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUTranscoder.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUTranscoder.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3ADUTranscoder.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUTranscoder.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUTranscoder.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3ADUTranscoder.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUTranscoder.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUTranscoder.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUTranscoder.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3ADUTranscoder.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUTranscoder.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUdescriptor.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUdescriptor.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3ADUdescriptor.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUdescriptor.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUdescriptor.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUdescriptor.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUdescriptor.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUdescriptor.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3ADUdescriptor.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUdescriptor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUdescriptor.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3ADUdescriptor.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUdescriptor.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUdescriptor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUdescriptor.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3ADUdescriptor.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUdescriptor.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUinterleaving.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUinterleaving.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3ADUinterleaving.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUinterleaving.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUinterleaving.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUinterleaving.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUinterleaving.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUinterleaving.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3ADUinterleaving.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUinterleaving.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUinterleaving.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3ADUinterleaving.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUinterleaving.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUinterleaving.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUinterleaving.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3ADUinterleaving.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUinterleaving.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3FileSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3FileSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3FileSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3FileSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3FileSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3FileSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3FileSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3FileSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3FileSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3FileSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3FileSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3FileSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3FileSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3FileSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3FileSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3FileSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3FileSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Internals.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Internals.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3Internals.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Internals.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Internals.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Internals.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Internals.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Internals.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3Internals.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Internals.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Internals.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3Internals.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Internals.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Internals.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Internals.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3Internals.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Internals.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffman.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffman.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3InternalsHuffman.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffman.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffman.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffman.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffman.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffman.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3InternalsHuffman.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffman.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffman.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3InternalsHuffman.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffman.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffman.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffman.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3InternalsHuffman.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffman.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffmanTable.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffmanTable.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3InternalsHuffmanTable.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffmanTable.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffmanTable.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffmanTable.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffmanTable.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffmanTable.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3InternalsHuffmanTable.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffmanTable.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffmanTable.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3InternalsHuffmanTable.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffmanTable.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffmanTable.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffmanTable.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3InternalsHuffmanTable.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffmanTable.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3StreamState.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3StreamState.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3StreamState.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3StreamState.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3StreamState.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3StreamState.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3StreamState.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3StreamState.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3StreamState.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3StreamState.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3StreamState.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3StreamState.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3StreamState.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3StreamState.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3StreamState.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3StreamState.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3StreamState.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Transcoder.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Transcoder.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3Transcoder.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Transcoder.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Transcoder.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Transcoder.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Transcoder.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Transcoder.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3Transcoder.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Transcoder.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Transcoder.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3Transcoder.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Transcoder.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Transcoder.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Transcoder.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MP3Transcoder.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Transcoder.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2Demux.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2Demux.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2Demux.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2Demux.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2Demux.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2Demux.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2Demux.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2Demux.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2Demux.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2Demux.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2Demux.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2Demux.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2Demux.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2Demux.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2Demux.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2Demux.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2Demux.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2FileServerDemux.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2FileServerDemux.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2FileServerDemux.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2FileServerDemux.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2FileServerDemux.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2FileServerDemux.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2FileServerDemux.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2FileServerDemux.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2FileServerDemux.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2FileServerDemux.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2FileServerDemux.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2FileServerDemux.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2FileServerDemux.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2FileServerDemux.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2FileServerDemux.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2FileServerDemux.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2FileServerDemux.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemux.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemux.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamDemux.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemux.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemux.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemux.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemux.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemux.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamDemux.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemux.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemux.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamDemux.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemux.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemux.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemux.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamDemux.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemux.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFramer.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFramer.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamFramer.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFramer.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFramer.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFramer.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFramer.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFramer.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamFramer.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFramer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFramer.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamFramer.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFramer.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFramer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFramer.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamFramer.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFramer.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamParser.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamParser.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamParser.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamParser.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_130) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4GenericRTPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4GenericRTPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4GenericRTPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4GenericRTPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4GenericRTPSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_133) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4GenericRTPSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4GenericRTPSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4GenericRTPSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_134) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_135) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_136) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_137) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamFramer.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamFramer.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4VideoStreamFramer.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamFramer.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_138) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamFramer.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamFramer.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamFramer.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamFramer.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4VideoStreamFramer.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamFramer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamFramer.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4VideoStreamFramer.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamFramer.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamFramer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamFramer.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEG4VideoStreamFramer.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamFramer.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamFramer.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamFramer.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEGVideoStreamFramer.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamFramer.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_139) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamFramer.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamFramer.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamFramer.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamFramer.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEGVideoStreamFramer.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamFramer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamFramer.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEGVideoStreamFramer.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamFramer.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamFramer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamFramer.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEGVideoStreamFramer.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamFramer.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamParser.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamParser.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEGVideoStreamParser.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamParser.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_140) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamParser.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamParser.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamParser.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamParser.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEGVideoStreamParser.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamParser.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamParser.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEGVideoStreamParser.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamParser.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamParser.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamParser.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MPEGVideoStreamParser.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamParser.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaDemuxedTrack.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaDemuxedTrack.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MatroskaDemuxedTrack.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaDemuxedTrack.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_141) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaDemuxedTrack.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaDemuxedTrack.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaDemuxedTrack.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaDemuxedTrack.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MatroskaDemuxedTrack.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaDemuxedTrack.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaDemuxedTrack.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MatroskaDemuxedTrack.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaDemuxedTrack.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaDemuxedTrack.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaDemuxedTrack.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MatroskaDemuxedTrack.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaDemuxedTrack.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFile.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFile.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MatroskaFile.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFile.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_142) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFile.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFile.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFile.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFile.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MatroskaFile.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFile.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFile.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MatroskaFile.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFile.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFile.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFile.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MatroskaFile.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFile.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileParser.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileParser.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MatroskaFileParser.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileParser.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_143) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileParser.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileParser.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileParser.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileParser.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MatroskaFileParser.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileParser.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileParser.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MatroskaFileParser.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileParser.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileParser.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileParser.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MatroskaFileParser.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileParser.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerDemux.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerDemux.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MatroskaFileServerDemux.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerDemux.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_144) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerDemux.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerDemux.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerDemux.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerDemux.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MatroskaFileServerDemux.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerDemux.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerDemux.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MatroskaFileServerDemux.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerDemux.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerDemux.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerDemux.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MatroskaFileServerDemux.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerDemux.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_145) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/Media.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/Media.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/Media.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/Media.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_146) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/Media.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/Media.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/Media.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/Media.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/Media.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/Media.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/Media.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/Media.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/Media.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/Media.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/Media.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/Media.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/Media.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSession.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSession.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MediaSession.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSession.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_147) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSession.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSession.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSession.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSession.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MediaSession.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSession.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSession.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MediaSession.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSession.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSession.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSession.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MediaSession.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSession.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MediaSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_148) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MediaSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MediaSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MediaSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MediaSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_149) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MediaSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MediaSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MediaSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MultiFramedRTPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_150) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MultiFramedRTPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MultiFramedRTPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MultiFramedRTPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MultiFramedRTPSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_151) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MultiFramedRTPSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MultiFramedRTPSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/MultiFramedRTPSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggDemuxedTrack.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggDemuxedTrack.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OggDemuxedTrack.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggDemuxedTrack.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_152) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggDemuxedTrack.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggDemuxedTrack.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggDemuxedTrack.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggDemuxedTrack.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OggDemuxedTrack.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggDemuxedTrack.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggDemuxedTrack.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OggDemuxedTrack.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggDemuxedTrack.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggDemuxedTrack.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggDemuxedTrack.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OggDemuxedTrack.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggDemuxedTrack.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFile.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFile.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OggFile.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFile.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_153) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFile.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFile.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFile.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFile.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OggFile.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFile.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFile.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OggFile.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFile.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFile.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFile.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OggFile.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFile.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileParser.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileParser.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OggFileParser.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileParser.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_154) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileParser.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileParser.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileParser.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileParser.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OggFileParser.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileParser.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileParser.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OggFileParser.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileParser.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileParser.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileParser.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OggFileParser.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileParser.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerDemux.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerDemux.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OggFileServerDemux.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerDemux.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_155) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerDemux.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerDemux.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerDemux.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerDemux.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OggFileServerDemux.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerDemux.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerDemux.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OggFileServerDemux.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerDemux.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerDemux.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerDemux.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OggFileServerDemux.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerDemux.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerMediaSubsession.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OggFileServerMediaSubsession.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_156) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerMediaSubsession.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerMediaSubsession.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerMediaSubsession.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerMediaSubsession.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OggFileServerMediaSubsession.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerMediaSubsession.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerMediaSubsession.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OggFileServerMediaSubsession.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerMediaSubsession.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerMediaSubsession.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerMediaSubsession.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OggFileServerMediaSubsession.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerMediaSubsession.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OggFileSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_157) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OggFileSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OggFileSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OggFileSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OnDemandServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OnDemandServerMediaSubsession.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OnDemandServerMediaSubsession.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OnDemandServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_158) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/OnDemandServerMediaSubsession.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/OnDemandServerMediaSubsession.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/OnDemandServerMediaSubsession.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/OnDemandServerMediaSubsession.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OnDemandServerMediaSubsession.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OnDemandServerMediaSubsession.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/OnDemandServerMediaSubsession.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OnDemandServerMediaSubsession.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/OnDemandServerMediaSubsession.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OnDemandServerMediaSubsession.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/OnDemandServerMediaSubsession.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OnDemandServerMediaSubsession.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/OnDemandServerMediaSubsession.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OutputFile.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OutputFile.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OutputFile.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OutputFile.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_159) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/OutputFile.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/OutputFile.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/OutputFile.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/OutputFile.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OutputFile.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OutputFile.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/OutputFile.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OutputFile.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/OutputFile.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/OutputFile.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/OutputFile.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/OutputFile.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/OutputFile.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/PassiveServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/PassiveServerMediaSubsession.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/PassiveServerMediaSubsession.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/PassiveServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_160) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/PassiveServerMediaSubsession.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/PassiveServerMediaSubsession.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/PassiveServerMediaSubsession.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/PassiveServerMediaSubsession.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/PassiveServerMediaSubsession.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/PassiveServerMediaSubsession.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/PassiveServerMediaSubsession.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/PassiveServerMediaSubsession.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/PassiveServerMediaSubsession.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/PassiveServerMediaSubsession.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/PassiveServerMediaSubsession.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/PassiveServerMediaSubsession.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/PassiveServerMediaSubsession.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ProxyServerMediaSession.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ProxyServerMediaSession.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ProxyServerMediaSession.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ProxyServerMediaSession.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_161) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/ProxyServerMediaSession.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/ProxyServerMediaSession.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/ProxyServerMediaSession.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/ProxyServerMediaSession.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ProxyServerMediaSession.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ProxyServerMediaSession.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/ProxyServerMediaSession.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ProxyServerMediaSession.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/ProxyServerMediaSession.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ProxyServerMediaSession.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/ProxyServerMediaSession.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ProxyServerMediaSession.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/ProxyServerMediaSession.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/QCELPAudioRTPSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/QCELPAudioRTPSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/QCELPAudioRTPSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/QCELPAudioRTPSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_162) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/QCELPAudioRTPSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/QCELPAudioRTPSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/QCELPAudioRTPSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/QCELPAudioRTPSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/QCELPAudioRTPSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/QCELPAudioRTPSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/QCELPAudioRTPSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/QCELPAudioRTPSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/QCELPAudioRTPSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/QCELPAudioRTPSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/QCELPAudioRTPSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/QCELPAudioRTPSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/QCELPAudioRTPSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeFileSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeFileSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/QuickTimeFileSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeFileSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_163) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeFileSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeFileSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeFileSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeFileSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/QuickTimeFileSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeFileSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeFileSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/QuickTimeFileSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeFileSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeFileSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeFileSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/QuickTimeFileSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeFileSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeGenericRTPSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeGenericRTPSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/QuickTimeGenericRTPSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeGenericRTPSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_164) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeGenericRTPSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeGenericRTPSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeGenericRTPSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeGenericRTPSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/QuickTimeGenericRTPSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeGenericRTPSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeGenericRTPSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/QuickTimeGenericRTPSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeGenericRTPSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeGenericRTPSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeGenericRTPSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/QuickTimeGenericRTPSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeGenericRTPSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTCP.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTCP.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTCP.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTCP.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_165) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTCP.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTCP.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTCP.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTCP.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTCP.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTCP.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTCP.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTCP.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTCP.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTCP.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTCP.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTCP.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTCP.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPInterface.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPInterface.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTPInterface.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPInterface.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_166) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPInterface.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPInterface.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPInterface.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPInterface.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTPInterface.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPInterface.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPInterface.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTPInterface.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPInterface.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPInterface.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPInterface.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTPInterface.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPInterface.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_167) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTPSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_168) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTPSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTPSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTPSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPClient.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPClient.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTSPClient.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPClient.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_169) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPClient.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPClient.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPClient.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPClient.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTSPClient.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPClient.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPClient.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTSPClient.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPClient.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPClient.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPClient.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTSPClient.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPClient.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPCommon.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPCommon.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTSPCommon.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPCommon.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_170) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPCommon.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPCommon.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPCommon.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPCommon.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTSPCommon.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPCommon.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPCommon.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTSPCommon.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPCommon.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPCommon.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPCommon.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTSPCommon.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPCommon.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPRegisterSender.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPRegisterSender.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTSPRegisterSender.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPRegisterSender.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_171) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPRegisterSender.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPRegisterSender.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPRegisterSender.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPRegisterSender.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTSPRegisterSender.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPRegisterSender.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPRegisterSender.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTSPRegisterSender.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPRegisterSender.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPRegisterSender.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPRegisterSender.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTSPRegisterSender.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPRegisterSender.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServer.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServer.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTSPServer.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServer.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_172) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServer.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServer.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServer.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServer.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTSPServer.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServer.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTSPServer.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServer.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServer.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTSPServer.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServer.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServerRegister.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServerRegister.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTSPServerRegister.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServerRegister.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_173) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServerRegister.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServerRegister.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServerRegister.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServerRegister.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTSPServerRegister.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServerRegister.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServerRegister.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTSPServerRegister.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServerRegister.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServerRegister.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServerRegister.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RTSPServerRegister.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServerRegister.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RawVideoRTPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_174) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RawVideoRTPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RawVideoRTPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RawVideoRTPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RawVideoRTPSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_175) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RawVideoRTPSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RawVideoRTPSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/RawVideoRTPSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/SIPClient.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/SIPClient.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/SIPClient.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/SIPClient.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_176) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/SIPClient.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/SIPClient.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/SIPClient.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/SIPClient.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/SIPClient.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/SIPClient.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/SIPClient.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/SIPClient.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/SIPClient.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/SIPClient.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/SIPClient.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/SIPClient.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/SIPClient.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/SRTPCryptographicContext.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/SRTPCryptographicContext.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/SRTPCryptographicContext.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/SRTPCryptographicContext.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_177) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/SRTPCryptographicContext.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/SRTPCryptographicContext.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/SRTPCryptographicContext.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/SRTPCryptographicContext.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/SRTPCryptographicContext.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/SRTPCryptographicContext.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/SRTPCryptographicContext.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/SRTPCryptographicContext.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/SRTPCryptographicContext.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/SRTPCryptographicContext.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/SRTPCryptographicContext.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/SRTPCryptographicContext.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/SRTPCryptographicContext.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ServerMediaSession.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ServerMediaSession.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ServerMediaSession.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ServerMediaSession.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_178) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/ServerMediaSession.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/ServerMediaSession.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/ServerMediaSession.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/ServerMediaSession.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ServerMediaSession.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ServerMediaSession.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/ServerMediaSession.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ServerMediaSession.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/ServerMediaSession.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ServerMediaSession.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/ServerMediaSession.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ServerMediaSession.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/ServerMediaSession.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/SimpleRTPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_179) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/SimpleRTPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/SimpleRTPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/SimpleRTPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/SimpleRTPSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_180) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/SimpleRTPSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/SimpleRTPSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/SimpleRTPSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamParser.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamParser.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/StreamParser.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamParser.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_181) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamParser.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamParser.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamParser.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamParser.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/StreamParser.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamParser.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamParser.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/StreamParser.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamParser.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamParser.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamParser.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/StreamParser.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamParser.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamReplicator.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamReplicator.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/StreamReplicator.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamReplicator.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_182) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamReplicator.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamReplicator.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamReplicator.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamReplicator.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/StreamReplicator.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamReplicator.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamReplicator.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/StreamReplicator.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamReplicator.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamReplicator.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamReplicator.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/StreamReplicator.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamReplicator.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/T140TextRTPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/T140TextRTPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/T140TextRTPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/T140TextRTPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_183) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/T140TextRTPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/T140TextRTPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/T140TextRTPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/T140TextRTPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/T140TextRTPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/T140TextRTPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/T140TextRTPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/T140TextRTPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/T140TextRTPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/T140TextRTPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/T140TextRTPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/T140TextRTPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/T140TextRTPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/TLSState.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/TLSState.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/TLSState.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/TLSState.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_184) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/TLSState.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/TLSState.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/TLSState.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/TLSState.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/TLSState.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/TLSState.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/TLSState.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/TLSState.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/TLSState.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/TLSState.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/TLSState.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/TLSState.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/TLSState.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/TextRTPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/TextRTPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/TextRTPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/TextRTPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_185) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/TextRTPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/TextRTPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/TextRTPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/TextRTPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/TextRTPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/TextRTPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/TextRTPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/TextRTPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/TextRTPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/TextRTPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/TextRTPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/TextRTPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/TextRTPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/TheoraVideoRTPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_186) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/TheoraVideoRTPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/TheoraVideoRTPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/TheoraVideoRTPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/TheoraVideoRTPSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_187) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/TheoraVideoRTPSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/TheoraVideoRTPSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/TheoraVideoRTPSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/VP8VideoRTPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_188) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/VP8VideoRTPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/VP8VideoRTPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/VP8VideoRTPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/VP8VideoRTPSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_189) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/VP8VideoRTPSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/VP8VideoRTPSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/VP8VideoRTPSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/VP9VideoRTPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_190) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/VP9VideoRTPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/VP9VideoRTPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/VP9VideoRTPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/VP9VideoRTPSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_191) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/VP9VideoRTPSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/VP9VideoRTPSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/VP9VideoRTPSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VideoRTPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VideoRTPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/VideoRTPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VideoRTPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_192) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/VideoRTPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/VideoRTPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/VideoRTPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/VideoRTPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/VideoRTPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VideoRTPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/VideoRTPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/VideoRTPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/VideoRTPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VideoRTPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/VideoRTPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/VideoRTPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/VideoRTPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSink.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSink.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/VorbisAudioRTPSink.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSink.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_193) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSink.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSink.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSink.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSink.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/VorbisAudioRTPSink.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSink.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSink.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/VorbisAudioRTPSink.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSink.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSink.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSink.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/VorbisAudioRTPSink.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSink.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/VorbisAudioRTPSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_194) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/VorbisAudioRTPSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/VorbisAudioRTPSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/VorbisAudioRTPSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_195) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileSource.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileSource.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/WAVAudioFileSource.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileSource.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_196) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileSource.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileSource.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileSource.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileSource.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/WAVAudioFileSource.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileSource.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/WAVAudioFileSource.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileSource.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileSource.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/WAVAudioFileSource.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileSource.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ourMD5.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ourMD5.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ourMD5.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ourMD5.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_197) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/ourMD5.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/ourMD5.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/ourMD5.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/ourMD5.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ourMD5.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ourMD5.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/ourMD5.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ourMD5.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/ourMD5.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/ourMD5.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/ourMD5.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/ourMD5.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/ourMD5.cpp.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/rtcp_from_spec.c.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/rtcp_from_spec.c.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/rtcp_from_spec.c
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/rtcp_from_spec.c.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_198) "Building C object CMakeFiles/rtspClient.dir/src/live555/liveMedia/rtcp_from_spec.c.o"
+	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/rtcp_from_spec.c.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/rtcp_from_spec.c.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/rtcp_from_spec.c.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/rtcp_from_spec.c
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/rtcp_from_spec.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/rtcp_from_spec.c.i"
+	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/rtcp_from_spec.c > CMakeFiles/rtspClient.dir/src/live555/liveMedia/rtcp_from_spec.c.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/rtcp_from_spec.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/rtcp_from_spec.c.s"
+	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/rtcp_from_spec.c -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/rtcp_from_spec.c.s
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/uLawAudioFilter.cpp.o: CMakeFiles/rtspClient.dir/flags.make
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/uLawAudioFilter.cpp.o: /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/uLawAudioFilter.cpp
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/uLawAudioFilter.cpp.o: CMakeFiles/rtspClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_199) "Building CXX object CMakeFiles/rtspClient.dir/src/live555/liveMedia/uLawAudioFilter.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/rtspClient.dir/src/live555/liveMedia/uLawAudioFilter.cpp.o -MF CMakeFiles/rtspClient.dir/src/live555/liveMedia/uLawAudioFilter.cpp.o.d -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/uLawAudioFilter.cpp.o -c /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/uLawAudioFilter.cpp
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/uLawAudioFilter.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/rtspClient.dir/src/live555/liveMedia/uLawAudioFilter.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/uLawAudioFilter.cpp > CMakeFiles/rtspClient.dir/src/live555/liveMedia/uLawAudioFilter.cpp.i
+
+CMakeFiles/rtspClient.dir/src/live555/liveMedia/uLawAudioFilter.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/rtspClient.dir/src/live555/liveMedia/uLawAudioFilter.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sunday/Desktop/Code/rtspClient/src/live555/liveMedia/uLawAudioFilter.cpp -o CMakeFiles/rtspClient.dir/src/live555/liveMedia/uLawAudioFilter.cpp.s
+
 # Object files for target rtspClient
 rtspClient_OBJECTS = \
 "CMakeFiles/rtspClient.dir/src/TestLive264.cpp.o" \
-"CMakeFiles/rtspClient.dir/src/pySV.cpp.o"
+"CMakeFiles/rtspClient.dir/src/pySV.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicHashTable.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/DelayQueue.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/HashTable.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/UsageEnvironment.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/strDup.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupEId.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/groupsock/Groupsock.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupsockHelper.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/groupsock/IOHandlers.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/groupsock/NetAddress.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/groupsock/NetInterface.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/groupsock/inet.c.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioStreamFramer.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/AVIFileSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioInputDevice.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioRTPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/Base64.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/BitVector.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamFileSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMultiFileSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoStreamFramer.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/DeviceSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/DigestAuthentication.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/EBMLNumber.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileServerMediaSubsession.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFileSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFilter.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/GSMAudioRTPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/GenericMediaServer.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/H261VideoRTPSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamFramer.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamParser.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamFramer.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoFileSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoRTPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamFramer.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamFramer.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/HLSSegmenter.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/HMAC_SHA1.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/InputFile.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/Locale.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MIKEY.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADU.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUTranscoder.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUdescriptor.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUinterleaving.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3FileSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Internals.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffman.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffmanTable.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3StreamState.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Transcoder.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2Demux.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2FileServerDemux.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemux.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFramer.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamFramer.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamFramer.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamParser.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaDemuxedTrack.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFile.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileParser.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerDemux.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/Media.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSession.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggDemuxedTrack.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFile.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileParser.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerDemux.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerMediaSubsession.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/OnDemandServerMediaSubsession.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/OutputFile.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/PassiveServerMediaSubsession.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/ProxyServerMediaSession.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/QCELPAudioRTPSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeFileSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeGenericRTPSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTCP.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPInterface.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPClient.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPCommon.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPRegisterSender.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServer.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServerRegister.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/SIPClient.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/SRTPCryptographicContext.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/ServerMediaSession.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamParser.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamReplicator.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/T140TextRTPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/TLSState.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/TextRTPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/VideoRTPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSink.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileSource.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/ourMD5.cpp.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/rtcp_from_spec.c.o" \
+"CMakeFiles/rtspClient.dir/src/live555/liveMedia/uLawAudioFilter.cpp.o"
 
 # External object files for target rtspClient
 rtspClient_EXTERNAL_OBJECTS =
 
 /Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/TestLive264.cpp.o
 /Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/pySV.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicHashTable.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicTaskScheduler0.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/BasicUsageEnvironment0.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/BasicUsageEnvironment/DelayQueue.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/HashTable.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/UsageEnvironment.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/UsageEnvironment/strDup.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupEId.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/groupsock/Groupsock.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/groupsock/GroupsockHelper.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/groupsock/IOHandlers.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/groupsock/NetAddress.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/groupsock/NetInterface.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/groupsock/inet.c.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioFileServerMediaSubsession.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioRTPSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/AC3AudioStreamFramer.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileServerMediaSubsession.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioFileSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/ADTSAudioStreamDiscreteFramer.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileServerMediaSubsession.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioFileSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioRTPSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/AMRAudioSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/AVIFileSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioInputDevice.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/AudioRTPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/Base64.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/BasicUDPSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/BitVector.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamFileSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMemoryBufferSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/ByteStreamMultiFileSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoFileServerMediaSubsession.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoRTPSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/DVVideoStreamFramer.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/DeviceSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/DigestAuthentication.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/EBMLNumber.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileServerMediaSubsession.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/FileSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFileSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedFilter.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/FramedSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/GSMAudioRTPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/GenericMediaServer.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/H261VideoRTPSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoFileServerMediaSubsession.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoRTPSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamFramer.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/H263plusVideoStreamParser.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileServerMediaSubsession.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoFileSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoRTPSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamDiscreteFramer.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264VideoStreamFramer.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoFileSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoRTPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamDiscreteFramer.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/H264or5VideoStreamFramer.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileServerMediaSubsession.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoFileSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoRTPSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamDiscreteFramer.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/H265VideoStreamFramer.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/HLSSegmenter.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/HMAC_SHA1.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/InputFile.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEG2000VideoRTPSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoRTPSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/JPEGVideoSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/Locale.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MIKEY.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADU.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADURTPSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUTranscoder.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUdescriptor.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3ADUinterleaving.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioFileServerMediaSubsession.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3AudioMatroskaFileServerMediaSubsession.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3FileSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Internals.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffman.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3InternalsHuffmanTable.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3StreamState.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MP3Transcoder.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioRTPSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2AudioStreamFramer.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2Demux.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedElementaryStream.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2DemuxedServerMediaSubsession.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2FileServerDemux.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoFileServerMediaSubsession.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoRTPSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamDiscreteFramer.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG1or2VideoStreamFramer.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2IndexFromTransportStream.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportFileServerMediaSubsession.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamAccumulator.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemux.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamDemuxedTrack.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFramer.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromESSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamFromPESSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamIndexFile.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamMultiplexor.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PAT.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_PMT.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamParser_STREAM.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportStreamTrickModeFilter.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG2TransportUDPServerMediaSubsession.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4ESVideoRTPSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4GenericRTPSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4LATMAudioRTPSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoFileServerMediaSubsession.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamDiscreteFramer.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEG4VideoStreamFramer.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamFramer.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MPEGVideoStreamParser.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaDemuxedTrack.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFile.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileParser.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerDemux.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MatroskaFileServerMediaSubsession.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/Media.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSession.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MediaSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/MultiFramedRTPSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggDemuxedTrack.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFile.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileParser.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerDemux.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileServerMediaSubsession.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/OggFileSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/OnDemandServerMediaSubsession.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/OutputFile.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/PassiveServerMediaSubsession.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/ProxyServerMediaSession.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/QCELPAudioRTPSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeFileSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/QuickTimeGenericRTPSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTCP.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPInterface.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTPSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPClient.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPCommon.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPRegisterSender.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServer.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/RTSPServerRegister.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/RawVideoRTPSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/SIPClient.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/SRTPCryptographicContext.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/ServerMediaSession.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/SimpleRTPSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamParser.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/StreamReplicator.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/T140TextRTPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/TLSState.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/TextRTPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/TheoraVideoRTPSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP8VideoRTPSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/VP9VideoRTPSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/VideoRTPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSink.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/VorbisAudioRTPSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileServerMediaSubsession.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/WAVAudioFileSource.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/ourMD5.cpp.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/rtcp_from_spec.c.o
+/Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/src/live555/liveMedia/uLawAudioFilter.cpp.o
 /Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/build.make
 /Users/sunday/Desktop/Code/rtspClient/bin/rtspClient: CMakeFiles/rtspClient.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable /Users/sunday/Desktop/Code/rtspClient/bin/rtspClient"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/sunday/Desktop/Code/rtspClient/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_200) "Linking CXX executable /Users/sunday/Desktop/Code/rtspClient/bin/rtspClient"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/rtspClient.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
