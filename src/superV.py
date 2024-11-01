@@ -3,7 +3,6 @@
 from ultralytics import YOLO
 import supervision as sv  # Ensure this library is installed
 import cv2
-import ctypes
 import numpy as np
 
 # Load YOLO model
@@ -32,12 +31,7 @@ def process_yuv_frame(y_plane, u_plane, v_plane, width, height):
     cv2.imwrite("bgr.jpg", bgr_image)
     
     # YOLO Detection and Supervision annotations
-    results = model(bgr_image)[0]
-    detections = sv.Detections.from_ultralytics(results)
-    box_annotator = sv.BoxAnnotator()
-    label_annotator = sv.LabelAnnotator()
-    box_annotator.annotate(scene=bgr_image, detections=detections)
-    label_annotator.annotate(scene=bgr_image, detections=detections)
+    #frame_real_process(bgr_image)
 
     # Convert annotated image back to YUV420 format
     cv2.imwrite("bgr2.jpg", bgr_image)
@@ -55,3 +49,12 @@ def process_yuv_frame(y_plane, u_plane, v_plane, width, height):
     u_plane[:,:] = modified_yuv_image[height:height+height//4, :width].reshape((height//2, width//2))
     v_plane[:,:] = modified_yuv_image[height+height//4:height+height//2, :width].reshape((height//2, width//2))
     return y_plane.copy(), u_plane.copy(), v_plane.copy()
+
+def frame_real_process(bgr_image):
+    # YOLO Detection and Supervision annotations
+    results = model(bgr_image)[0]
+    detections = sv.Detections.from_ultralytics(results)
+    box_annotator = sv.BoxAnnotator()
+    label_annotator = sv.LabelAnnotator()
+    box_annotator.annotate(scene=bgr_image, detections=detections)
+    label_annotator.annotate(scene=bgr_image, detections=detections)
