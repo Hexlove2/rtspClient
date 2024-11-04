@@ -1,6 +1,7 @@
 /*
 Data: 2024/10/14
 xyh
+ farewell
 */
 
 // C++
